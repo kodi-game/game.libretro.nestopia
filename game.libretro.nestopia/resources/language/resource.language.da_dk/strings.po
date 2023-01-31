@@ -34,117 +34,237 @@ msgid "Settings"
 msgstr "Indstillinger"
 
 msgctxt "#30001"
-msgid "Blargg NTSC Filter"
-msgstr "Blargg NTSC-filter"
+msgid "System Region"
+msgstr ""
 
 msgctxt "#30002"
-msgid "Palette"
-msgstr "Palette"
+msgid "FDS Auto Insert"
+msgstr ""
 
 msgctxt "#30003"
-msgid "Remove Sprite Limit"
-msgstr "Fjern begrænsning af sprite"
+msgid "Blargg NTSC Filter"
+msgstr ""
 
 msgctxt "#30004"
-msgid "CPU Speed (Overclock)"
-msgstr "CPU-hastighed (overclock)"
+msgid "Palette"
+msgstr ""
 
 msgctxt "#30005"
-msgid "4 Player Adapter"
-msgstr "Adapter til 4 spillere"
+msgid "Mask Overscan (Vertical)"
+msgstr ""
 
 msgctxt "#30006"
-msgid "FDS Auto Insert"
-msgstr "Indsæt automatisk FDS"
+msgid "Mask Overscan (Horizontal)"
+msgstr ""
 
 msgctxt "#30007"
-msgid "Mask Overscan (Vertical)"
-msgstr "Maskér overskandering (lodret)"
+msgid "Preferred Aspect Ratio"
+msgstr ""
 
 msgctxt "#30008"
-msgid "Mask Overscan (Horizontal)"
-msgstr "Maskér overskandering (vandret)"
+msgid "Game Genie Sound Distortion"
+msgstr ""
 
 msgctxt "#30009"
-msgid "Preferred Aspect Ratio"
-msgstr "Foretrukket billedformat"
+msgid "Show Advanced Audio Settings (Reopen menu)"
+msgstr ""
 
 msgctxt "#30010"
-msgid "Game Genie Sound Distortion"
-msgstr "Lydforvringning for Game Genie"
+msgid "Square 1 Channel Volume %"
+msgstr ""
 
 msgctxt "#30011"
-msgid "System Region"
-msgstr "Systemets område"
+msgid "Square 2 Channel Volume %"
+msgstr ""
 
 msgctxt "#30012"
-msgid "RAM Power-on State"
-msgstr "RAM starttilstand"
+msgid "Triangle Channel Volume %"
+msgstr ""
 
 msgctxt "#30013"
-msgid "Shift Buttons Clockwise"
-msgstr "Drej knapper med uret"
+msgid "Noise Channel Volume %"
+msgstr ""
 
 msgctxt "#30014"
-msgid "Arkanoid device"
-msgstr "Arkanoid enhed"
+msgid "DPCM Channel Volume %"
+msgstr ""
 
 msgctxt "#30015"
-msgid "Zapper device"
-msgstr "Zapper-enhed"
+msgid "FDS Channel Volume %"
+msgstr ""
 
 msgctxt "#30016"
-msgid "Show Crosshair"
-msgstr "Vis crosshair"
+msgid "MMC5 Channel Volume %"
+msgstr ""
 
 msgctxt "#30017"
-msgid "Turbo Pulse Speed"
-msgstr "Hastighed på turbopuls"
+msgid "VRC6 Channel Volume %"
+msgstr ""
 
 msgctxt "#30018"
-msgid "Show Advanced Audio Settings (Reopen menu)"
-msgstr "Vis avancerede lydindstillinger (åbner menu igen)"
+msgid "VRC7 Channel Volume %"
+msgstr ""
 
 msgctxt "#30019"
-msgid "Square 1 Channel Volume %"
-msgstr "Firkant 1 kanallydstyrke %"
+msgid "N163 Channel Volume %"
+msgstr ""
 
 msgctxt "#30020"
-msgid "Square 2 Channel Volume %"
-msgstr "Firkant 2 kanallydstyrke %"
+msgid "S5B Channel Volume %"
+msgstr ""
 
 msgctxt "#30021"
-msgid "Triangle Channel Volume %"
-msgstr "Trekant kanallydstyrke %"
+msgid "Audio output"
+msgstr ""
 
 msgctxt "#30022"
-msgid "Noise Channel Volume %"
-msgstr "Kanallydstyrke ved støj %"
+msgid "4 Player Adapter"
+msgstr ""
 
 msgctxt "#30023"
-msgid "DPCM Channel Volume %"
-msgstr "DPCM kanallydstyrke %"
+msgid "Shift Buttons Clockwise"
+msgstr ""
 
 msgctxt "#30024"
-msgid "FDS Channel Volume %"
-msgstr "FDS kanallydstyrke %"
+msgid "Arkanoid device"
+msgstr ""
 
 msgctxt "#30025"
-msgid "MMC5 Channel Volume %"
-msgstr "MMC5 kanallydstyrke %"
+msgid "Zapper device"
+msgstr ""
 
 msgctxt "#30026"
-msgid "VRC6 Channel Volume %"
-msgstr "VRC6 kanallydstyrke %"
+msgid "Show Crosshair"
+msgstr ""
 
 msgctxt "#30027"
-msgid "VRC7 Channel Volume %"
-msgstr "VRC7 kanallydstyrke %"
+msgid "Turbo Pulse Speed"
+msgstr ""
 
 msgctxt "#30028"
-msgid "N163 Channel Volume %"
-msgstr "N163 kanallydstyrke %"
+msgid "Remove Sprite Limit"
+msgstr ""
 
 msgctxt "#30029"
-msgid "S5B Channel Volume %"
-msgstr "S5B kanallydstyrke %"
+msgid "CPU Speed (Overclock)"
+msgstr ""
+
+msgctxt "#30030"
+msgid "RAM Power-on State"
+msgstr ""
+
+#~ msgctxt "#30001"
+#~ msgid "Blargg NTSC Filter"
+#~ msgstr "Blargg NTSC-filter"
+
+#~ msgctxt "#30002"
+#~ msgid "Palette"
+#~ msgstr "Palette"
+
+#~ msgctxt "#30003"
+#~ msgid "Remove Sprite Limit"
+#~ msgstr "Fjern begrænsning af sprite"
+
+#~ msgctxt "#30004"
+#~ msgid "CPU Speed (Overclock)"
+#~ msgstr "CPU-hastighed (overclock)"
+
+#~ msgctxt "#30005"
+#~ msgid "4 Player Adapter"
+#~ msgstr "Adapter til 4 spillere"
+
+#~ msgctxt "#30006"
+#~ msgid "FDS Auto Insert"
+#~ msgstr "Indsæt automatisk FDS"
+
+#~ msgctxt "#30007"
+#~ msgid "Mask Overscan (Vertical)"
+#~ msgstr "Maskér overskandering (lodret)"
+
+#~ msgctxt "#30008"
+#~ msgid "Mask Overscan (Horizontal)"
+#~ msgstr "Maskér overskandering (vandret)"
+
+#~ msgctxt "#30009"
+#~ msgid "Preferred Aspect Ratio"
+#~ msgstr "Foretrukket billedformat"
+
+#~ msgctxt "#30010"
+#~ msgid "Game Genie Sound Distortion"
+#~ msgstr "Lydforvringning for Game Genie"
+
+#~ msgctxt "#30011"
+#~ msgid "System Region"
+#~ msgstr "Systemets område"
+
+#~ msgctxt "#30012"
+#~ msgid "RAM Power-on State"
+#~ msgstr "RAM starttilstand"
+
+#~ msgctxt "#30013"
+#~ msgid "Shift Buttons Clockwise"
+#~ msgstr "Drej knapper med uret"
+
+#~ msgctxt "#30014"
+#~ msgid "Arkanoid device"
+#~ msgstr "Arkanoid enhed"
+
+#~ msgctxt "#30015"
+#~ msgid "Zapper device"
+#~ msgstr "Zapper-enhed"
+
+#~ msgctxt "#30016"
+#~ msgid "Show Crosshair"
+#~ msgstr "Vis crosshair"
+
+#~ msgctxt "#30017"
+#~ msgid "Turbo Pulse Speed"
+#~ msgstr "Hastighed på turbopuls"
+
+#~ msgctxt "#30018"
+#~ msgid "Show Advanced Audio Settings (Reopen menu)"
+#~ msgstr "Vis avancerede lydindstillinger (åbner menu igen)"
+
+#~ msgctxt "#30019"
+#~ msgid "Square 1 Channel Volume %"
+#~ msgstr "Firkant 1 kanallydstyrke %"
+
+#~ msgctxt "#30020"
+#~ msgid "Square 2 Channel Volume %"
+#~ msgstr "Firkant 2 kanallydstyrke %"
+
+#~ msgctxt "#30021"
+#~ msgid "Triangle Channel Volume %"
+#~ msgstr "Trekant kanallydstyrke %"
+
+#~ msgctxt "#30022"
+#~ msgid "Noise Channel Volume %"
+#~ msgstr "Kanallydstyrke ved støj %"
+
+#~ msgctxt "#30023"
+#~ msgid "DPCM Channel Volume %"
+#~ msgstr "DPCM kanallydstyrke %"
+
+#~ msgctxt "#30024"
+#~ msgid "FDS Channel Volume %"
+#~ msgstr "FDS kanallydstyrke %"
+
+#~ msgctxt "#30025"
+#~ msgid "MMC5 Channel Volume %"
+#~ msgstr "MMC5 kanallydstyrke %"
+
+#~ msgctxt "#30026"
+#~ msgid "VRC6 Channel Volume %"
+#~ msgstr "VRC6 kanallydstyrke %"
+
+#~ msgctxt "#30027"
+#~ msgid "VRC7 Channel Volume %"
+#~ msgstr "VRC7 kanallydstyrke %"
+
+#~ msgctxt "#30028"
+#~ msgid "N163 Channel Volume %"
+#~ msgstr "N163 kanallydstyrke %"
+
+#~ msgctxt "#30029"
+#~ msgid "S5B Channel Volume %"
+#~ msgstr "S5B kanallydstyrke %"
