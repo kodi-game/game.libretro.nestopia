@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <buttonmap version="2">
-	<controller id="game.controller.nes" type="RETRO_DEVICE_JOYPAD">
+	<controller id="game.controller.nes" type="RETRO_DEVICE_JOYPAD" subclass="0">
 		<feature name="a" mapto="RETRO_DEVICE_ID_JOYPAD_A"/>
 		<feature name="b" mapto="RETRO_DEVICE_ID_JOYPAD_B"/>
 		<feature name="start" mapto="RETRO_DEVICE_ID_JOYPAD_START"/>
@@ -27,4 +27,8 @@
 		<!-- Eject disk (FDS) -->
 		<feature name="rightbumper" mapto="RETRO_DEVICE_ID_JOYPAD_R"/>
 	</controller>
+	<!-- TODO
+	<controller id="game.controller.nes.arkanoid" type="RETRO_DEVICE_MOUSE" subclass="0"/>
+	<controller id="game.controller.nes.zapper" type="RETRO_DEVICE_POINTER" subclass="0"/>
+	-->
 </buttonmap>
