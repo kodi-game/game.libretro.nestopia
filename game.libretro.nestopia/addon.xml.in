@@ -27,17 +27,17 @@
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
 		<summary lang="en_GB">Nintendo - NES / Famicom (Nestopia UE)</summary>
-		<description lang="da_DK">[CR]Nestopia er en bærbar open source NES-/Famicom-emulator. Den er designet til [CR]at være så nøjagtigt som muligt og understøtter et stort antal eksterne [CR]enheder.</description>
-		<description lang="de_DE">[CR]Nestopia ist ein portabler Open-Source-NES/Famicom-Emulator. Er wurde [CR]konzipiert, um so genau wie möglich zu sein und unterstützt eine große [CR]Anzahl von Peripheriegeräten.</description>
+		<description lang="da_DK">Nestopia er en bærbar open source NES-/Famicom-emulator. Den er designet til at være så nøjagtigt som muligt og understøtter et stort antal eksterne enheder.</description>
+		<description lang="de_DE">Nestopia ist ein portabler Open-Source-NES/Famicom-Emulator. Er wurde konzipiert, um so genau wie möglich zu sein und unterstützt eine große Anzahl von Peripheriegeräten.</description>
 		<description lang="en_GB">Nestopia is a portable open source NES/Famicom emulator. It is designed to be as accurate as possible and supports a large number of peripherals.</description>
-		<description lang="es_ES">[CR]Nestopia es un emulador portátil para NES/Famicom de código abierto. Está [CR]diseñado para ser lo más preciso posible y es compatible con un gran número [CR]de periféricos.</description>
-		<description lang="zh_CN">[CR]Nestopia 是一款便携式开源 NES/Famicom 模拟器。它的设计尽可能精确，并支持大量[CR]外围设备。</description>
-		<disclaimer lang="da_DK">Billedkreditering: Anarkhya (anarkhya.deviantart.com)[CR][CR]Nestopia er en bærbar open source NES-/Famicom-emulator. Den er designet til [CR]at være så nøjagtigt som muligt og understøtter et stort antal eksterne [CR]enheder.</disclaimer>
-		<disclaimer lang="de_DE">Symbolnachweis: Anarkhya (anarkhya.deviantart.com)[CR][CR]Nestopia ist ein portabler Open-Source-NES/Famicom-Emulator. Er wurde [CR]konzipiert, um so genau wie möglich zu sein und unterstützt eine große [CR]Anzahl von Peripheriegeräten.</disclaimer>
+		<description lang="es_ES">Nestopia es un emulador portátil para NES/Famicom de código abierto. Está diseñado para ser lo más preciso posible y es compatible con un gran número de periféricos.</description>
+		<description lang="zh_CN">Nestopia 是一款便携式开源 NES/Famicom 模拟器。它的设计尽可能精确，并支持大量外围设备。</description>
+		<disclaimer lang="da_DK">Billedkreditering: Anarkhya (anarkhya.deviantart.com)</disclaimer>
+		<disclaimer lang="de_DE">Symbolnachweis: Anarkhya (anarkhya.deviantart.com)</disclaimer>
 		<disclaimer lang="en_GB">Icon credit: Anarkhya (anarkhya.deviantart.com)</disclaimer>
-		<disclaimer lang="es_ES">Crédito del icono: Anarkhya (anarkhya.deviantart.com)[CR][CR]Nestopia es un emulador portátil para NES/Famicom de código abierto. Está [CR]diseñado para ser lo más preciso posible y es compatible con un gran número [CR]de periféricos.</disclaimer>
+		<disclaimer lang="es_ES">Crédito del icono: Anarkhya (anarkhya.deviantart.com)</disclaimer>
 		<disclaimer lang="it_IT">Credito icona: Anarkhya (anarkhya.deviantart.com)</disclaimer>
 		<disclaimer lang="ko_KR">아이콘 크레딧: Anarkhya(anarkhya.deviantart.com)</disclaimer>
-		<disclaimer lang="zh_CN">图标来源：Anarkhya（anarkhya.deviantart.com）[CR][CR]Nestopia 是一款便携式开源 NES/Famicom 模拟器。它的设计尽可能精确，并支持大量[CR]外围设备。</disclaimer>
+		<disclaimer lang="zh_CN">图标来源：Anarkhya（anarkhya.deviantart.com）</disclaimer>
 	</extension>
 </addon>
