@@ -50,105 +50,217 @@ msgid "Palette"
 msgstr "Palette"
 
 msgctxt "#30005"
-msgid "Mask Overscan (Vertical)"
-msgstr "Overscan maskieren (Vertikal)"
+msgid "Mask Overscan (Top Vertical)"
+msgstr ""
 
 msgctxt "#30006"
-msgid "Mask Overscan (Horizontal)"
-msgstr "Overscan maskieren (Horizontal)"
+msgid "Mask Overscan (Bottom Vertical)"
+msgstr ""
 
 msgctxt "#30007"
-msgid "Preferred Aspect Ratio"
-msgstr "Bevorzugtes Seitenverhältnis"
+msgid "Mask Overscan (Left Horizontal)"
+msgstr ""
 
 msgctxt "#30008"
-msgid "Game Genie Sound Distortion"
-msgstr "Game Genie Klangverzerrung"
+msgid "Mask Overscan (Right Horizontal)"
+msgstr ""
 
 msgctxt "#30009"
-msgid "Show Advanced Audio Settings (Reopen menu)"
-msgstr "Erweiterte Audioeinstellungen anzeigen (Menü erneut öffnen)"
+msgid "Preferred Aspect Ratio"
+msgstr ""
 
 msgctxt "#30010"
-msgid "Square 1 Channel Volume %"
-msgstr "Quadrat-1-Kanallautstärke %"
+msgid "Game Genie Sound Distortion"
+msgstr ""
 
 msgctxt "#30011"
-msgid "Square 2 Channel Volume %"
-msgstr "Quadrat-2-Kanallautstärke %"
+msgid "Show Advanced Audio Settings (Reopen menu)"
+msgstr ""
 
 msgctxt "#30012"
-msgid "Triangle Channel Volume %"
-msgstr "Dreieck-Kanallautstärke %"
+msgid "Square 1 Channel Volume %"
+msgstr ""
 
 msgctxt "#30013"
-msgid "Noise Channel Volume %"
-msgstr "Rauschkanallautstärke %"
+msgid "Square 2 Channel Volume %"
+msgstr ""
 
 msgctxt "#30014"
-msgid "DPCM Channel Volume %"
-msgstr "DPCM-Kanallautstärke %"
+msgid "Triangle Channel Volume %"
+msgstr ""
 
 msgctxt "#30015"
-msgid "FDS Channel Volume %"
-msgstr "FDS-Kanallautstärke %"
+msgid "Noise Channel Volume %"
+msgstr ""
 
 msgctxt "#30016"
-msgid "MMC5 Channel Volume %"
-msgstr "MMC5-Kanallautstärke %"
+msgid "DPCM Channel Volume %"
+msgstr ""
 
 msgctxt "#30017"
-msgid "VRC6 Channel Volume %"
-msgstr "VRC6-Kanallautstärke %"
+msgid "FDS Channel Volume %"
+msgstr ""
 
 msgctxt "#30018"
-msgid "VRC7 Channel Volume %"
-msgstr "VRC7-Kanallautstärke %"
+msgid "MMC5 Channel Volume %"
+msgstr ""
 
 msgctxt "#30019"
-msgid "N163 Channel Volume %"
-msgstr "N163-Kanallautstärke %"
+msgid "VRC6 Channel Volume %"
+msgstr ""
 
 msgctxt "#30020"
-msgid "S5B Channel Volume %"
-msgstr "S5B-Kanallautstärke %"
+msgid "VRC7 Channel Volume %"
+msgstr ""
 
 msgctxt "#30021"
-msgid "Audio output"
-msgstr "Audioausgabe"
+msgid "N163 Channel Volume %"
+msgstr ""
 
 msgctxt "#30022"
-msgid "4 Player Adapter"
-msgstr "4-Spieler-Adapter"
+msgid "S5B Channel Volume %"
+msgstr ""
 
 msgctxt "#30023"
-msgid "Shift Buttons Clockwise"
-msgstr "Tasten im Uhrzeigersinn verlagern"
+msgid "Audio output"
+msgstr ""
 
 msgctxt "#30024"
-msgid "Arkanoid device"
-msgstr "Arkanoid-Gerät"
+msgid "4 Player Adapter"
+msgstr ""
 
 msgctxt "#30025"
-msgid "Zapper device"
-msgstr "Zapper-Gerät"
+msgid "Shift Buttons Clockwise"
+msgstr ""
 
 msgctxt "#30026"
-msgid "Show Crosshair"
-msgstr "Fadenkreuz anzeigen"
+msgid "Arkanoid device"
+msgstr ""
 
 msgctxt "#30027"
-msgid "Turbo Pulse Speed"
-msgstr "Turbo-Pulse-Geschwindigkeit"
+msgid "Zapper device"
+msgstr ""
 
 msgctxt "#30028"
-msgid "Remove Sprite Limit"
-msgstr "Spritebegrenzung entfernen"
+msgid "Show Crosshair"
+msgstr ""
 
 msgctxt "#30029"
-msgid "CPU Speed (Overclock)"
-msgstr "CPU-Geschwindigkeit (Übertaktung)"
+msgid "Turbo Pulse Speed"
+msgstr ""
 
 msgctxt "#30030"
+msgid "Remove Sprite Limit"
+msgstr ""
+
+msgctxt "#30031"
+msgid "CPU Speed (Overclock)"
+msgstr ""
+
+msgctxt "#30032"
 msgid "RAM Power-on State"
-msgstr "RAM-Einschaltzustand"
+msgstr ""
+
+#~ msgctxt "#30005"
+#~ msgid "Mask Overscan (Vertical)"
+#~ msgstr "Overscan maskieren (Vertikal)"
+
+#~ msgctxt "#30006"
+#~ msgid "Mask Overscan (Horizontal)"
+#~ msgstr "Overscan maskieren (Horizontal)"
+
+#~ msgctxt "#30007"
+#~ msgid "Preferred Aspect Ratio"
+#~ msgstr "Bevorzugtes Seitenverhältnis"
+
+#~ msgctxt "#30008"
+#~ msgid "Game Genie Sound Distortion"
+#~ msgstr "Game Genie Klangverzerrung"
+
+#~ msgctxt "#30009"
+#~ msgid "Show Advanced Audio Settings (Reopen menu)"
+#~ msgstr "Erweiterte Audioeinstellungen anzeigen (Menü erneut öffnen)"
+
+#~ msgctxt "#30010"
+#~ msgid "Square 1 Channel Volume %"
+#~ msgstr "Quadrat-1-Kanallautstärke %"
+
+#~ msgctxt "#30011"
+#~ msgid "Square 2 Channel Volume %"
+#~ msgstr "Quadrat-2-Kanallautstärke %"
+
+#~ msgctxt "#30012"
+#~ msgid "Triangle Channel Volume %"
+#~ msgstr "Dreieck-Kanallautstärke %"
+
+#~ msgctxt "#30013"
+#~ msgid "Noise Channel Volume %"
+#~ msgstr "Rauschkanallautstärke %"
+
+#~ msgctxt "#30014"
+#~ msgid "DPCM Channel Volume %"
+#~ msgstr "DPCM-Kanallautstärke %"
+
+#~ msgctxt "#30015"
+#~ msgid "FDS Channel Volume %"
+#~ msgstr "FDS-Kanallautstärke %"
+
+#~ msgctxt "#30016"
+#~ msgid "MMC5 Channel Volume %"
+#~ msgstr "MMC5-Kanallautstärke %"
+
+#~ msgctxt "#30017"
+#~ msgid "VRC6 Channel Volume %"
+#~ msgstr "VRC6-Kanallautstärke %"
+
+#~ msgctxt "#30018"
+#~ msgid "VRC7 Channel Volume %"
+#~ msgstr "VRC7-Kanallautstärke %"
+
+#~ msgctxt "#30019"
+#~ msgid "N163 Channel Volume %"
+#~ msgstr "N163-Kanallautstärke %"
+
+#~ msgctxt "#30020"
+#~ msgid "S5B Channel Volume %"
+#~ msgstr "S5B-Kanallautstärke %"
+
+#~ msgctxt "#30021"
+#~ msgid "Audio output"
+#~ msgstr "Audioausgabe"
+
+#~ msgctxt "#30022"
+#~ msgid "4 Player Adapter"
+#~ msgstr "4-Spieler-Adapter"
+
+#~ msgctxt "#30023"
+#~ msgid "Shift Buttons Clockwise"
+#~ msgstr "Tasten im Uhrzeigersinn verlagern"
+
+#~ msgctxt "#30024"
+#~ msgid "Arkanoid device"
+#~ msgstr "Arkanoid-Gerät"
+
+#~ msgctxt "#30025"
+#~ msgid "Zapper device"
+#~ msgstr "Zapper-Gerät"
+
+#~ msgctxt "#30026"
+#~ msgid "Show Crosshair"
+#~ msgstr "Fadenkreuz anzeigen"
+
+#~ msgctxt "#30027"
+#~ msgid "Turbo Pulse Speed"
+#~ msgstr "Turbo-Pulse-Geschwindigkeit"
+
+#~ msgctxt "#30028"
+#~ msgid "Remove Sprite Limit"
+#~ msgstr "Spritebegrenzung entfernen"
+
+#~ msgctxt "#30029"
+#~ msgid "CPU Speed (Overclock)"
+#~ msgstr "CPU-Geschwindigkeit (Übertaktung)"
+
+#~ msgctxt "#30030"
+#~ msgid "RAM Power-on State"
+#~ msgstr "RAM-Einschaltzustand"

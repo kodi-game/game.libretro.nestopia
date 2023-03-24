@@ -50,108 +50,220 @@ msgid "Palette"
 msgstr "Palette"
 
 msgctxt "#30005"
-msgid "Mask Overscan (Vertical)"
-msgstr "Maskér overskandering (lodret)"
+msgid "Mask Overscan (Top Vertical)"
+msgstr ""
 
 msgctxt "#30006"
-msgid "Mask Overscan (Horizontal)"
-msgstr "Maskér overskandering (vandret)"
+msgid "Mask Overscan (Bottom Vertical)"
+msgstr ""
 
 msgctxt "#30007"
+msgid "Mask Overscan (Left Horizontal)"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Mask Overscan (Right Horizontal)"
+msgstr ""
+
+msgctxt "#30009"
 msgid "Preferred Aspect Ratio"
 msgstr "Foretrukket billedformat"
 
-msgctxt "#30008"
+msgctxt "#30010"
 msgid "Game Genie Sound Distortion"
 msgstr "Lydforvringning for Game Genie"
 
-msgctxt "#30009"
-msgid "Show Advanced Audio Settings (Reopen menu)"
-msgstr "Vis avancerede lydindstillinger (åbner menu igen)"
-
-msgctxt "#30010"
-msgid "Square 1 Channel Volume %"
-msgstr "Firkant 1 kanallydstyrke %"
-
 msgctxt "#30011"
-msgid "Square 2 Channel Volume %"
-msgstr "Firkant 2 kanallydstyrke %"
+msgid "Show Advanced Audio Settings (Reopen menu)"
+msgstr ""
 
 msgctxt "#30012"
-msgid "Triangle Channel Volume %"
-msgstr "Trekant kanallydstyrke %"
+msgid "Square 1 Channel Volume %"
+msgstr ""
 
 msgctxt "#30013"
-msgid "Noise Channel Volume %"
-msgstr "Kanallydstyrke ved støj %"
+msgid "Square 2 Channel Volume %"
+msgstr ""
 
 msgctxt "#30014"
-msgid "DPCM Channel Volume %"
-msgstr "DPCM kanallydstyrke %"
+msgid "Triangle Channel Volume %"
+msgstr ""
 
 msgctxt "#30015"
-msgid "FDS Channel Volume %"
-msgstr "FDS kanallydstyrke %"
+msgid "Noise Channel Volume %"
+msgstr ""
 
 msgctxt "#30016"
-msgid "MMC5 Channel Volume %"
-msgstr "MMC5 kanallydstyrke %"
+msgid "DPCM Channel Volume %"
+msgstr ""
 
 msgctxt "#30017"
-msgid "VRC6 Channel Volume %"
-msgstr "VRC6 kanallydstyrke %"
+msgid "FDS Channel Volume %"
+msgstr ""
 
 msgctxt "#30018"
-msgid "VRC7 Channel Volume %"
-msgstr "VRC7 kanallydstyrke %"
+msgid "MMC5 Channel Volume %"
+msgstr ""
 
 msgctxt "#30019"
-msgid "N163 Channel Volume %"
-msgstr "N163 kanallydstyrke %"
+msgid "VRC6 Channel Volume %"
+msgstr ""
 
 msgctxt "#30020"
-msgid "S5B Channel Volume %"
-msgstr "S5B kanallydstyrke %"
+msgid "VRC7 Channel Volume %"
+msgstr ""
 
 msgctxt "#30021"
-msgid "Audio output"
-msgstr "Lydudgang"
+msgid "N163 Channel Volume %"
+msgstr ""
 
 msgctxt "#30022"
-msgid "4 Player Adapter"
-msgstr "Adapter til 4 spillere"
+msgid "S5B Channel Volume %"
+msgstr ""
 
 msgctxt "#30023"
-msgid "Shift Buttons Clockwise"
-msgstr "Drej knapper med uret"
+msgid "Audio output"
+msgstr ""
 
 msgctxt "#30024"
-msgid "Arkanoid device"
-msgstr "Arkanoid enhed"
+msgid "4 Player Adapter"
+msgstr ""
 
 msgctxt "#30025"
-msgid "Zapper device"
-msgstr "Zapper-enhed"
+msgid "Shift Buttons Clockwise"
+msgstr ""
 
 msgctxt "#30026"
-msgid "Show Crosshair"
-msgstr "Vis crosshair"
+msgid "Arkanoid device"
+msgstr ""
 
 msgctxt "#30027"
-msgid "Turbo Pulse Speed"
-msgstr "Hastighed på turbopuls"
+msgid "Zapper device"
+msgstr ""
 
 msgctxt "#30028"
-msgid "Remove Sprite Limit"
-msgstr "Fjern begrænsning af sprite"
+msgid "Show Crosshair"
+msgstr ""
 
 msgctxt "#30029"
-msgid "CPU Speed (Overclock)"
-msgstr "CPU-hastighed (overclock)"
+msgid "Turbo Pulse Speed"
+msgstr ""
 
 msgctxt "#30030"
+msgid "Remove Sprite Limit"
+msgstr ""
+
+msgctxt "#30031"
+msgid "CPU Speed (Overclock)"
+msgstr ""
+
+msgctxt "#30032"
 msgid "RAM Power-on State"
-msgstr "RAM starttilstand"
+msgstr ""
+
+#~ msgctxt "#30005"
+#~ msgid "Mask Overscan (Vertical)"
+#~ msgstr "Maskér overskandering (lodret)"
+
+#~ msgctxt "#30006"
+#~ msgid "Mask Overscan (Horizontal)"
+#~ msgstr "Maskér overskandering (vandret)"
+
+#~ msgctxt "#30007"
+#~ msgid "Preferred Aspect Ratio"
+#~ msgstr "Foretrukket billedformat"
+
+#~ msgctxt "#30008"
+#~ msgid "Game Genie Sound Distortion"
+#~ msgstr "Lydforvringning for Game Genie"
+
+#~ msgctxt "#30009"
+#~ msgid "Show Advanced Audio Settings (Reopen menu)"
+#~ msgstr "Vis avancerede lydindstillinger (åbner menu igen)"
+
+#~ msgctxt "#30010"
+#~ msgid "Square 1 Channel Volume %"
+#~ msgstr "Firkant 1 kanallydstyrke %"
+
+#~ msgctxt "#30011"
+#~ msgid "Square 2 Channel Volume %"
+#~ msgstr "Firkant 2 kanallydstyrke %"
+
+#~ msgctxt "#30012"
+#~ msgid "Triangle Channel Volume %"
+#~ msgstr "Trekant kanallydstyrke %"
+
+#~ msgctxt "#30013"
+#~ msgid "Noise Channel Volume %"
+#~ msgstr "Kanallydstyrke ved støj %"
+
+#~ msgctxt "#30014"
+#~ msgid "DPCM Channel Volume %"
+#~ msgstr "DPCM kanallydstyrke %"
+
+#~ msgctxt "#30015"
+#~ msgid "FDS Channel Volume %"
+#~ msgstr "FDS kanallydstyrke %"
+
+#~ msgctxt "#30016"
+#~ msgid "MMC5 Channel Volume %"
+#~ msgstr "MMC5 kanallydstyrke %"
+
+#~ msgctxt "#30017"
+#~ msgid "VRC6 Channel Volume %"
+#~ msgstr "VRC6 kanallydstyrke %"
+
+#~ msgctxt "#30018"
+#~ msgid "VRC7 Channel Volume %"
+#~ msgstr "VRC7 kanallydstyrke %"
+
+#~ msgctxt "#30019"
+#~ msgid "N163 Channel Volume %"
+#~ msgstr "N163 kanallydstyrke %"
+
+#~ msgctxt "#30020"
+#~ msgid "S5B Channel Volume %"
+#~ msgstr "S5B kanallydstyrke %"
+
+#~ msgctxt "#30021"
+#~ msgid "Audio output"
+#~ msgstr "Lydudgang"
+
+#~ msgctxt "#30022"
+#~ msgid "4 Player Adapter"
+#~ msgstr "Adapter til 4 spillere"
+
+#~ msgctxt "#30023"
+#~ msgid "Shift Buttons Clockwise"
+#~ msgstr "Drej knapper med uret"
+
+#~ msgctxt "#30024"
+#~ msgid "Arkanoid device"
+#~ msgstr "Arkanoid enhed"
+
+#~ msgctxt "#30025"
+#~ msgid "Zapper device"
+#~ msgstr "Zapper-enhed"
+
+#~ msgctxt "#30026"
+#~ msgid "Show Crosshair"
+#~ msgstr "Vis crosshair"
+
+#~ msgctxt "#30027"
+#~ msgid "Turbo Pulse Speed"
+#~ msgstr "Hastighed på turbopuls"
+
+#~ msgctxt "#30028"
+#~ msgid "Remove Sprite Limit"
+#~ msgstr "Fjern begrænsning af sprite"
+
+#~ msgctxt "#30029"
+#~ msgid "CPU Speed (Overclock)"
+#~ msgstr "CPU-hastighed (overclock)"
+
+#~ msgctxt "#30030"
+#~ msgid "RAM Power-on State"
+#~ msgstr "RAM starttilstand"
 
 #~ msgctxt "#30001"
 #~ msgid "Blargg NTSC Filter"
@@ -184,14 +296,6 @@ msgstr "RAM starttilstand"
 #~ msgctxt "#30008"
 #~ msgid "Mask Overscan (Horizontal)"
 #~ msgstr "Maskér overskandering (vandret)"
-
-#~ msgctxt "#30009"
-#~ msgid "Preferred Aspect Ratio"
-#~ msgstr "Foretrukket billedformat"
-
-#~ msgctxt "#30010"
-#~ msgid "Game Genie Sound Distortion"
-#~ msgstr "Lydforvringning for Game Genie"
 
 #~ msgctxt "#30011"
 #~ msgid "System Region"

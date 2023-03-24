@@ -50,108 +50,120 @@ msgid "Palette"
 msgstr "调色板"
 
 msgctxt "#30005"
-msgid "Mask Overscan (Vertical)"
+msgid "Mask Overscan (Top Vertical)"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Mask Overscan (Horizontal)"
+msgid "Mask Overscan (Bottom Vertical)"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Preferred Aspect Ratio"
-msgstr "首选纵横比"
+msgid "Mask Overscan (Left Horizontal)"
+msgstr ""
 
 msgctxt "#30008"
-msgid "Game Genie Sound Distortion"
+msgid "Mask Overscan (Right Horizontal)"
 msgstr ""
 
 msgctxt "#30009"
+msgid "Preferred Aspect Ratio"
+msgstr "首选纵横比"
+
+msgctxt "#30010"
+msgid "Game Genie Sound Distortion"
+msgstr "游戏精灵声音失真"
+
+msgctxt "#30011"
 msgid "Show Advanced Audio Settings (Reopen menu)"
 msgstr ""
 
-msgctxt "#30010"
+msgctxt "#30012"
 msgid "Square 1 Channel Volume %"
 msgstr ""
 
-msgctxt "#30011"
+msgctxt "#30013"
 msgid "Square 2 Channel Volume %"
 msgstr ""
 
-msgctxt "#30012"
+msgctxt "#30014"
 msgid "Triangle Channel Volume %"
 msgstr ""
 
-msgctxt "#30013"
+msgctxt "#30015"
 msgid "Noise Channel Volume %"
 msgstr ""
 
-msgctxt "#30014"
+msgctxt "#30016"
 msgid "DPCM Channel Volume %"
 msgstr ""
 
-msgctxt "#30015"
+msgctxt "#30017"
 msgid "FDS Channel Volume %"
 msgstr ""
 
-msgctxt "#30016"
+msgctxt "#30018"
 msgid "MMC5 Channel Volume %"
 msgstr ""
 
-msgctxt "#30017"
+msgctxt "#30019"
 msgid "VRC6 Channel Volume %"
 msgstr ""
 
-msgctxt "#30018"
+msgctxt "#30020"
 msgid "VRC7 Channel Volume %"
 msgstr ""
 
-msgctxt "#30019"
+msgctxt "#30021"
 msgid "N163 Channel Volume %"
 msgstr ""
 
-msgctxt "#30020"
+msgctxt "#30022"
 msgid "S5B Channel Volume %"
 msgstr ""
 
-msgctxt "#30021"
+msgctxt "#30023"
 msgid "Audio output"
 msgstr ""
 
-msgctxt "#30022"
+msgctxt "#30024"
 msgid "4 Player Adapter"
 msgstr ""
 
-msgctxt "#30023"
+msgctxt "#30025"
 msgid "Shift Buttons Clockwise"
 msgstr ""
 
-msgctxt "#30024"
+msgctxt "#30026"
 msgid "Arkanoid device"
 msgstr ""
 
-msgctxt "#30025"
+msgctxt "#30027"
 msgid "Zapper device"
 msgstr ""
 
-msgctxt "#30026"
+msgctxt "#30028"
 msgid "Show Crosshair"
 msgstr ""
 
-msgctxt "#30027"
+msgctxt "#30029"
 msgid "Turbo Pulse Speed"
 msgstr ""
 
-msgctxt "#30028"
+msgctxt "#30030"
 msgid "Remove Sprite Limit"
 msgstr ""
 
-msgctxt "#30029"
+msgctxt "#30031"
 msgid "CPU Speed (Overclock)"
 msgstr ""
 
-msgctxt "#30030"
+msgctxt "#30032"
 msgid "RAM Power-on State"
 msgstr ""
+
+#~ msgctxt "#30007"
+#~ msgid "Preferred Aspect Ratio"
+#~ msgstr "首选纵横比"
 
 #~ msgctxt "#30001"
 #~ msgid "Blargg NTSC Filter"
@@ -184,14 +196,6 @@ msgstr ""
 #~ msgctxt "#30008"
 #~ msgid "Mask Overscan (Horizontal)"
 #~ msgstr "掩模过扫描（水平）"
-
-#~ msgctxt "#30009"
-#~ msgid "Preferred Aspect Ratio"
-#~ msgstr "首选纵横比"
-
-#~ msgctxt "#30010"
-#~ msgid "Game Genie Sound Distortion"
-#~ msgstr "游戏精灵声音失真"
 
 #~ msgctxt "#30011"
 #~ msgid "System Region"
