@@ -24,9 +24,7 @@ msgid "Nintendo - NES / Famicom (Nestopia UE)"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid ""
-"Nestopia is a portable open source NES/Famicom emulator. It is designed to "
-"be as accurate as possible and supports a large number of peripherals."
+msgid "Nestopia is a portable open source NES/Famicom emulator. It is designed to be as accurate as possible and supports a large number of peripherals."
 msgstr ""
 
 msgctxt "Addon Disclaimer"

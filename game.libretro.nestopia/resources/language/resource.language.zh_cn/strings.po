@@ -23,16 +23,16 @@ msgid "Nintendo - NES / Famicom (Nestopia UE)"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid ""
-"Nestopia is a portable open source NES/Famicom emulator. It is designed to "
-"be as accurate as possible and supports a large number of peripherals."
-msgstr ""
-"Nestopia 是一款便携式开源 NES/Famicom 模拟器。它的设计尽可能精确，并支持大量"
-"外围设备。"
+msgid "Nestopia is a portable open source NES/Famicom emulator. It is designed to be as accurate as possible and supports a large number of peripherals."
+msgstr "[CR]Nestopia 是一款便携式开源 NES/Famicom 模拟器。它的设计尽可能精确，并支持大量[CR]外围设备。"
 
 msgctxt "Addon Disclaimer"
 msgid "Icon credit: Anarkhya (anarkhya.deviantart.com)"
 msgstr "图标来源：Anarkhya（anarkhya.deviantart.com）"
+
+"Nestopia 是一款便携式开源 NES/Famicom 模拟器。它的设计尽可能精确，并支持大量"
+"外围设备。"
+
 
 msgctxt "#30000"
 msgid "Settings"
