@@ -28,7 +28,7 @@ msgstr "[CR]Nestopia er en bærbar open source NES-/Famicom-emulator. Den er des
 
 msgctxt "Addon Disclaimer"
 msgid "Icon credit: Anarkhya (anarkhya.deviantart.com)"
-msgstr "Billedkreditering: Anarkhya (anarkhya.deviantart.com)"
+msgstr "Billedkreditering: Anarkhya (anarkhya.deviantart.com)[CR][CR]Nestopia er en bærbar open source NES-/Famicom-emulator. Den er designet til [CR]at være så nøjagtigt som muligt og understøtter et stort antal eksterne [CR]enheder."
 
 "Nestopia er en bærbar open source NES-/Famicom-emulator. Den er designet til "
 "at være så nøjagtigt som muligt og understøtter et stort antal eksterne "

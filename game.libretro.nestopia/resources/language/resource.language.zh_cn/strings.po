@@ -28,7 +28,7 @@ msgstr "[CR]Nestopia 是一款便携式开源 NES/Famicom 模拟器。它的设�
 
 msgctxt "Addon Disclaimer"
 msgid "Icon credit: Anarkhya (anarkhya.deviantart.com)"
-msgstr "图标来源：Anarkhya（anarkhya.deviantart.com）"
+msgstr "图标来源：Anarkhya（anarkhya.deviantart.com）[CR][CR]Nestopia 是一款便携式开源 NES/Famicom 模拟器。它的设计尽可能精确，并支持大量[CR]外围设备。"
 
 "Nestopia 是一款便携式开源 NES/Famicom 模拟器。它的设计尽可能精确，并支持大量"
 "外围设备。"
