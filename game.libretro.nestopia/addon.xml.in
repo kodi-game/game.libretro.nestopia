@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.nestopia"
 		name="Nintendo - NES / Famicom (Nestopia UE)"
-		version="1.52.0.34"
+		version="1.52.0.35"
 		provider-name="Martin Freij, R. Belmont, R. Danbrook">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -26,7 +26,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
-		<summary lang="en_GB">Nintendo - NES / Famicom (Nestopia UE) 1.51.1</summary>
+		<summary lang="en_GB">Nintendo - NES / Famicom (Nestopia UE)</summary>
 		<description lang="da_DK">Nestopia er en bærbar open source NES-/Famicom-emulator. Den er designet til at være så nøjagtigt som muligt og understøtter et stort antal eksterne enheder.</description>
 		<description lang="de_DE">Nestopia ist ein portabler Open-Source-NES/Famicom-Emulator. Er wurde konzipiert, um so genau wie möglich zu sein und unterstützt eine große Anzahl von Peripheriegeräten.</description>
 		<description lang="en_GB">Nestopia is a portable open source NES/Famicom emulator. It is designed to be as accurate as possible and supports a large number of peripherals.</description>

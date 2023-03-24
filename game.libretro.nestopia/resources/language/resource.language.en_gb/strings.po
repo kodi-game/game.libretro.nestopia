@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "Addon Summary"
-msgid "Nintendo - NES / Famicom (Nestopia UE) 1.51.1"
+msgid "Nintendo - NES / Famicom (Nestopia UE)"
 msgstr ""
 
 msgctxt "Addon Description"
@@ -49,105 +49,113 @@ msgid "Palette"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Mask Overscan (Vertical)"
+msgid "Mask Overscan (Top Vertical)"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Mask Overscan (Horizontal)"
+msgid "Mask Overscan (Bottom Vertical)"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Preferred Aspect Ratio"
+msgid "Mask Overscan (Left Horizontal)"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Game Genie Sound Distortion"
+msgid "Mask Overscan (Right Horizontal)"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Show Advanced Audio Settings (Reopen menu)"
+msgid "Preferred Aspect Ratio"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Square 1 Channel Volume %"
+msgid "Game Genie Sound Distortion"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Square 2 Channel Volume %"
+msgid "Show Advanced Audio Settings (Reopen menu)"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Triangle Channel Volume %"
+msgid "Square 1 Channel Volume %"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Noise Channel Volume %"
+msgid "Square 2 Channel Volume %"
 msgstr ""
 
 msgctxt "#30014"
-msgid "DPCM Channel Volume %"
+msgid "Triangle Channel Volume %"
 msgstr ""
 
 msgctxt "#30015"
-msgid "FDS Channel Volume %"
+msgid "Noise Channel Volume %"
 msgstr ""
 
 msgctxt "#30016"
-msgid "MMC5 Channel Volume %"
+msgid "DPCM Channel Volume %"
 msgstr ""
 
 msgctxt "#30017"
-msgid "VRC6 Channel Volume %"
+msgid "FDS Channel Volume %"
 msgstr ""
 
 msgctxt "#30018"
-msgid "VRC7 Channel Volume %"
+msgid "MMC5 Channel Volume %"
 msgstr ""
 
 msgctxt "#30019"
-msgid "N163 Channel Volume %"
+msgid "VRC6 Channel Volume %"
 msgstr ""
 
 msgctxt "#30020"
-msgid "S5B Channel Volume %"
+msgid "VRC7 Channel Volume %"
 msgstr ""
 
 msgctxt "#30021"
-msgid "Audio output"
+msgid "N163 Channel Volume %"
 msgstr ""
 
 msgctxt "#30022"
-msgid "4 Player Adapter"
+msgid "S5B Channel Volume %"
 msgstr ""
 
 msgctxt "#30023"
-msgid "Shift Buttons Clockwise"
+msgid "Audio output"
 msgstr ""
 
 msgctxt "#30024"
-msgid "Arkanoid device"
+msgid "4 Player Adapter"
 msgstr ""
 
 msgctxt "#30025"
-msgid "Zapper device"
+msgid "Shift Buttons Clockwise"
 msgstr ""
 
 msgctxt "#30026"
-msgid "Show Crosshair"
+msgid "Arkanoid device"
 msgstr ""
 
 msgctxt "#30027"
-msgid "Turbo Pulse Speed"
+msgid "Zapper device"
 msgstr ""
 
 msgctxt "#30028"
-msgid "Remove Sprite Limit"
+msgid "Show Crosshair"
 msgstr ""
 
 msgctxt "#30029"
-msgid "CPU Speed (Overclock)"
+msgid "Turbo Pulse Speed"
 msgstr ""
 
 msgctxt "#30030"
+msgid "Remove Sprite Limit"
+msgstr ""
+
+msgctxt "#30031"
+msgid "CPU Speed (Overclock)"
+msgstr ""
+
+msgctxt "#30032"
 msgid "RAM Power-on State"
 msgstr ""
