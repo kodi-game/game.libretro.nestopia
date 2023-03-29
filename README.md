@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/kodi-game/game.libretro.nestopia.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.nestopia)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.nestopia?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-nestopia)
-
 # Nintendo - NES / Famicom (Nestopia UE)
 
 ### Description
