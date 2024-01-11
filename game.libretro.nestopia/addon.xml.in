@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.nestopia"
 		name="Nintendo - NES / Famicom (Nestopia UE)"
-		version="1.52.0.42"
+		version="1.52.0.43"
 		provider-name="Martin Freij, R. Belmont, R. Danbrook">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
