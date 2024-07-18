@@ -4,7 +4,7 @@
 		<setting label="30001" type="select" id="nestopia_favored_system" values="auto|ntsc|pal|famicom|dendy" default="auto"/>
 		<setting label="30002" type="select" id="nestopia_fds_auto_insert" values="enabled|disabled" default="enabled"/>
 		<setting label="30003" type="select" id="nestopia_blargg_ntsc_filter" values="disabled|composite|svideo|rgb|monochrome" default="disabled"/>
-		<setting label="30004" type="select" id="nestopia_palette" values="cxa2025as|consumer|canonical|alternative|rgb|pal|composite-direct-fbx|pvm-style-d93-fbx|ntsc-hardware-fbx|nes-classic-fbx-fs|raw|custom" default="cxa2025as"/>
+		<setting label="30004" type="select" id="nestopia_palette" values="cxa2025as|royaltea|consumer|canonical|alternative|rgb|pal|composite-direct-fbx|pvm-style-d93-fbx|ntsc-hardware-fbx|nes-classic-fbx-fs|raw|custom" default="cxa2025as"/>
 		<setting label="30005" type="select" id="nestopia_overscan_v_top" values="8|0|4|12|16|20|24" default="8"/>
 		<setting label="30006" type="select" id="nestopia_overscan_v_bottom" values="8|0|4|12|16|20|24" default="8"/>
 		<setting label="30007" type="select" id="nestopia_overscan_h_left" values="0|4|8|12|16" default="0"/>
