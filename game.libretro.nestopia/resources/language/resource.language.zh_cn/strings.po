@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Icon credit: Anarkhya (anarkhya.deviantart.com)"
 msgstr "图标来源：Anarkhya（anarkhya.deviantart.com）"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "设置"
-
 msgctxt "#30001"
 msgid "System Region"
 msgstr "系统区域"
@@ -160,6 +156,10 @@ msgstr "CPU 速度（超频）"
 msgctxt "#30032"
 msgid "RAM Power-on State"
 msgstr "RAM 通电状态"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "设置"
 
 #~ msgctxt "#30007"
 #~ msgid "Preferred Aspect Ratio"

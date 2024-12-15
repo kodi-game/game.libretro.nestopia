@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Icon credit: Anarkhya (anarkhya.deviantart.com)"
 msgstr "Crédito del icono: Anarkhya (anarkhya.deviantart.com)"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Ajustes"
-
 msgctxt "#30001"
 msgid "System Region"
 msgstr "Región del Sistema"
@@ -160,6 +156,10 @@ msgstr "Velocidad de CPU (Overclock)"
 msgctxt "#30032"
 msgid "RAM Power-on State"
 msgstr "Estado de RAM al Encender"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Ajustes"
 
 #~ msgctxt "#30005"
 #~ msgid "Mask Overscan (Vertical)"

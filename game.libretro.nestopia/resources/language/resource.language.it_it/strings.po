@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Icon credit: Anarkhya (anarkhya.deviantart.com)"
 msgstr "Credito icona: Anarkhya (anarkhya.deviantart.com)"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Impostazioni"
-
 msgctxt "#30001"
 msgid "System Region"
 msgstr "Regione del sistema"
@@ -160,6 +156,10 @@ msgstr ""
 msgctxt "#30032"
 msgid "RAM Power-on State"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Impostazioni"
 
 #~ msgctxt "#30002"
 #~ msgid "Palette"

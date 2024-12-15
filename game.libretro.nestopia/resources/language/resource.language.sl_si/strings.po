@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Icon credit: Anarkhya (anarkhya.deviantart.com)"
 msgstr "Zasluga ikone: Anarhya (anarhya.deviantart.com)"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Nastavitve"
-
 msgctxt "#30001"
 msgid "System Region"
 msgstr "Sistemska regija"
@@ -160,3 +156,7 @@ msgstr "Hitrost procesorja (overclock)"
 msgctxt "#30032"
 msgid "RAM Power-on State"
 msgstr "Stanje vklopa RAM-a"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Nastavitve"
