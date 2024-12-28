@@ -1,4 +1,4 @@
-# Nintendo - NES / Famicom (Nestopia UE)
+# Nintendo - NES / Famicom (Nestopia)
 
 ### Description
 
@@ -10,7 +10,7 @@ GPLv2
 
 ### Icon
 
-![Nintendo - NES / Famicom (Nestopia UE) icon](game.libretro.nestopia/resources/icon.png)
+![Nintendo - NES / Famicom (Nestopia) icon](game.libretro.nestopia/resources/icon.png)
 
 ### Fanart
 
@@ -18,9 +18,9 @@ Help make me fanart!
 
 ### Screenshots
 
-![Nintendo - NES / Famicom (Nestopia UE) screenshot](game.libretro.nestopia/resources/screenshot-01.jpg)
-![Nintendo - NES / Famicom (Nestopia UE) screenshot](game.libretro.nestopia/resources/screenshot-02.jpg)
-![Nintendo - NES / Famicom (Nestopia UE) screenshot](game.libretro.nestopia/resources/screenshot-03.jpg)
+![Nintendo - NES / Famicom (Nestopia) screenshot](game.libretro.nestopia/resources/screenshot-01.jpg)
+![Nintendo - NES / Famicom (Nestopia) screenshot](game.libretro.nestopia/resources/screenshot-02.jpg)
+![Nintendo - NES / Famicom (Nestopia) screenshot](game.libretro.nestopia/resources/screenshot-03.jpg)
 
 ### Disclaimer
 

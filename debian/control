@@ -4,7 +4,7 @@ Maintainer: wsnipex <wsnipex@a1.net>
 Build-Depends: debhelper (>= 9.0.0),
                cmake,
                kodi-addon-dev,
-               libretro-nestopia (>= 1.52.1) | nestopia (>= 1.52.1)
+               libretro-nestopia (>= 1.53.0) | nestopia (>= 1.53.0)
 Standards-Version: 3.9.8
 Section: libs
 
@@ -13,5 +13,5 @@ Section: libs
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, kodi, kodi-game-libretro
 Enhances: kodi
-Description: Nintendo - NES / Famicom (Nestopia UE) core for kodi's retroplayer
- Nintendo - NES / Famicom (Nestopia UE) core for kodi's retroplayer
+Description: Nintendo - NES / Famicom (Nestopia) core for kodi's retroplayer
+ Nintendo - NES / Famicom (Nestopia) core for kodi's retroplayer
