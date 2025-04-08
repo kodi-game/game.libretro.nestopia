@@ -29,12 +29,14 @@
 		<summary lang="da_DK">Nintendo - NES / Famicom (Nestopia)</summary>
 		<summary lang="en_GB">Nintendo - NES / Famicom (Nestopia)</summary>
 		<summary lang="es_ES">Nintendo - NES / Famicom (Nestopia)</summary>
+		<summary lang="sv_SE">Nintendo - NES / Famicom (Nestopia)</summary>
 		<summary lang="zh_CN">任天堂 - NES / Famicom (Nestopia)</summary>
 		<description lang="da_DK">Nestopia er en bærbar open source NES-/Famicom-emulator. Den er designet til at være så nøjagtigt som muligt og understøtter et stort antal eksterne enheder.</description>
 		<description lang="de_DE">Nestopia ist ein portabler Open-Source-NES/Famicom-Emulator. Er wurde konzipiert, um so genau wie möglich zu sein und unterstützt eine große Anzahl von Peripheriegeräten.</description>
 		<description lang="en_GB">Nestopia is a portable open source NES/Famicom emulator. It is designed to be as accurate as possible and supports a large number of peripherals.</description>
 		<description lang="es_ES">Nestopia es un emulador portátil para NES/Famicom de código abierto. Está diseñado para ser lo más preciso posible y es compatible con un gran número de periféricos.</description>
 		<description lang="sl_SI">Nestopia je prenosni odprtokodni emulator NES/Famicom. Zasnovan je tako, da je čim bolj natančen in podpira veliko število zunanjih naprav.</description>
+		<description lang="sv_SE">Nestopia är en portabel NES/Famicom-emulator med öppen källkod. Den är utformad för att vara så exakt som möjligt och stöder ett stort antal kringutrustningar.</description>
 		<description lang="zh_CN">Nestopia 是一款便携式开源 NES/Famicom 模拟器。它的设计尽可能精确，并支持大量外围设备。</description>
 		<disclaimer lang="da_DK">Billedkreditering: Anarkhya (anarkhya.deviantart.com)</disclaimer>
 		<disclaimer lang="de_DE">Symbolnachweis: Anarkhya (anarkhya.deviantart.com)</disclaimer>
@@ -43,6 +45,7 @@
 		<disclaimer lang="it_IT">Credito icona: Anarkhya (anarkhya.deviantart.com)</disclaimer>
 		<disclaimer lang="ko_KR">아이콘 크레딧: Anarkhya(anarkhya.deviantart.com)</disclaimer>
 		<disclaimer lang="sl_SI">Zasluga ikone: Anarhya (anarhya.deviantart.com)</disclaimer>
+		<disclaimer lang="sv_SE">Ikon: Anarkhya (anarkhya.deviantart.com)</disclaimer>
 		<disclaimer lang="zh_CN">图标来源：Anarkhya（anarkhya.deviantart.com）</disclaimer>
 	</extension>
 </addon>
