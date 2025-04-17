@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.nestopia\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-02-04 09:56i\n"
-"PO-Revision-Date: 2025-04-14 08:16+0000\n"
+"PO-Revision-Date: 2025-04-17 04:26+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-nestopia/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "Addon Summary"
 msgid "Nintendo - NES / Famicom (Nestopia)"
@@ -33,129 +33,147 @@ msgctxt "#30001"
 msgid "System Region"
 msgstr "Systemregion"
 
+#, fuzzy
 msgctxt "#30002"
 msgid "FDS Auto Insert"
-msgstr ""
+msgstr "FDS Auto Insert"
 
 msgctxt "#30003"
 msgid "Blargg NTSC Filter"
-msgstr ""
+msgstr "Blargg NTSC-filter"
 
 msgctxt "#30004"
 msgid "Palette"
 msgstr "Palett"
 
+#, fuzzy
 msgctxt "#30005"
 msgid "Mask Overscan (Top Vertical)"
-msgstr ""
+msgstr "Mask överskanning (övre vertikal)"
 
+#, fuzzy
 msgctxt "#30006"
 msgid "Mask Overscan (Bottom Vertical)"
-msgstr ""
+msgstr "Masköverskanning (nedre vertikal)"
 
+#, fuzzy
 msgctxt "#30007"
 msgid "Mask Overscan (Left Horizontal)"
-msgstr ""
+msgstr "Mask överskanning (vänster horisontell)"
 
+#, fuzzy
 msgctxt "#30008"
 msgid "Mask Overscan (Right Horizontal)"
-msgstr ""
+msgstr "Mask överskanning (höger horisontell)"
 
 msgctxt "#30009"
 msgid "Preferred Aspect Ratio"
-msgstr ""
+msgstr "Föredraget bildförhållande"
 
+#, fuzzy
 msgctxt "#30010"
 msgid "Game Genie Sound Distortion"
-msgstr ""
+msgstr "Game Genie Ljudförvrängning"
 
+#, fuzzy
 msgctxt "#30011"
 msgid "Show Advanced Audio Settings (Reopen menu)"
-msgstr ""
+msgstr "Visa avancerade ljudinställningar (öppna menyn på nytt)"
 
+#, fuzzy
 msgctxt "#30012"
 msgid "Square 1 Channel Volume %"
-msgstr ""
+msgstr "Square 1 Kanal Volym %"
 
+#, fuzzy
 msgctxt "#30013"
 msgid "Square 2 Channel Volume %"
-msgstr ""
+msgstr "Square 2 Channel Volym % (%)"
 
+#, fuzzy
 msgctxt "#30014"
 msgid "Triangle Channel Volume %"
-msgstr ""
+msgstr "Triangelkanal Volym %"
 
+#, fuzzy
 msgctxt "#30015"
 msgid "Noise Channel Volume %"
-msgstr ""
+msgstr "Volym för bullerkanal %"
 
+#, fuzzy
 msgctxt "#30016"
 msgid "DPCM Channel Volume %"
-msgstr ""
+msgstr "Volym för DPCM-kanal %"
 
+#, fuzzy
 msgctxt "#30017"
 msgid "FDS Channel Volume %"
-msgstr ""
+msgstr "FDS-kanalens volym %"
 
+#, fuzzy
 msgctxt "#30018"
 msgid "MMC5 Channel Volume %"
-msgstr ""
+msgstr "MMC5 Kanalvolym %"
 
 msgctxt "#30019"
 msgid "VRC6 Channel Volume %"
-msgstr ""
+msgstr "VRC6 Kanalvolym %"
 
 msgctxt "#30020"
 msgid "VRC7 Channel Volume %"
-msgstr ""
+msgstr "VRC7 Kanalvolym %"
 
 msgctxt "#30021"
 msgid "N163 Channel Volume %"
-msgstr ""
+msgstr "N163 Kanalvolym % (%)"
 
+#, fuzzy
 msgctxt "#30022"
 msgid "S5B Channel Volume %"
-msgstr ""
+msgstr "S5B Kanalvolym % (%)"
 
 msgctxt "#30023"
 msgid "Audio output"
-msgstr ""
+msgstr "Ljudutmatning"
 
 msgctxt "#30024"
 msgid "4 Player Adapter"
-msgstr ""
+msgstr "Adapter för 4 spelare"
 
+#, fuzzy
 msgctxt "#30025"
 msgid "Shift Buttons Clockwise"
-msgstr ""
+msgstr "Skiftknappar medurs"
 
 msgctxt "#30026"
 msgid "Arkanoid device"
-msgstr ""
+msgstr "Arkanoid-enhet"
 
 msgctxt "#30027"
 msgid "Zapper device"
-msgstr ""
+msgstr "Zapper-enhet"
 
 msgctxt "#30028"
 msgid "Show Crosshair"
-msgstr ""
+msgstr "Visa hårkors"
 
+#, fuzzy
 msgctxt "#30029"
 msgid "Turbo Pulse Speed"
-msgstr ""
+msgstr "Turbo-pulshastighet"
 
 msgctxt "#30030"
 msgid "Remove Sprite Limit"
-msgstr ""
+msgstr "Ta bort sprite-gräns"
 
 msgctxt "#30031"
 msgid "CPU Speed (Overclock)"
-msgstr ""
+msgstr "CPU-hastighet (överklockning)"
 
+#, fuzzy
 msgctxt "#30032"
 msgid "RAM Power-on State"
-msgstr ""
+msgstr "RAM påslagningsstatus"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
