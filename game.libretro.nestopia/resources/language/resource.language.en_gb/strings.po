@@ -157,3 +157,7 @@ msgstr ""
 msgctxt "#30032"
 msgid "RAM Power-on State"
 msgstr ""
+
+msgctxt "#30033"
+msgid "Arkanoid Paddle Range"
+msgstr ""
