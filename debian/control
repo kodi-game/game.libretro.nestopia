@@ -4,7 +4,7 @@ Maintainer: wsnipex <wsnipex@a1.net>
 Build-Depends: debhelper (>= 9.0.0),
                cmake,
                kodi-addon-dev,
-               libretro-nestopia (>= 1.53.1) | nestopia (>= 1.53.1)
+               libretro-nestopia (>= 1.53.2) | nestopia (>= 1.53.2)
 Standards-Version: 3.9.8
 Section: libs
 
