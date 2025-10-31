@@ -161,6 +161,10 @@ msgctxt "#30033"
 msgid "Arkanoid Paddle Range"
 msgstr "《打砖块》游戏球拍范围"
 
+msgctxt "#30034"
+msgid "FDS Savefile Format"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "设置"

@@ -161,6 +161,10 @@ msgctxt "#30033"
 msgid "Arkanoid Paddle Range"
 msgstr "Rango de Pala de Arkanoid"
 
+msgctxt "#30034"
+msgid "FDS Savefile Format"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Ajustes"
