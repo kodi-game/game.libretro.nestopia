@@ -3,12 +3,13 @@
 	<category label="128">
 		<setting label="30001" type="select" id="nestopia_favored_system" values="auto|ntsc|pal|famicom|dendy" default="auto"/>
 		<setting label="30002" type="select" id="nestopia_fds_auto_insert" values="enabled|disabled" default="enabled"/>
+		<setting label="30034" type="select" id="nestopia_fds_savefile_format" values="sav_ups|ups|ips" default="sav_ups"/>
 		<setting label="30003" type="select" id="nestopia_blargg_ntsc_filter" values="disabled|composite|svideo|rgb|monochrome" default="disabled"/>
 		<setting label="30004" type="select" id="nestopia_palette" values="cxa2025as|cxa2025as_jp|royaltea|consumer|canonical|alternative|rgb|pal|composite-direct-fbx|pvm-style-d93-fbx|ntsc-hardware-fbx|nes-classic-fbx-fs|restored-wii-vc|wii-vc|raw|custom" default="cxa2025as"/>
-		<setting label="30005" type="select" id="nestopia_overscan_v_top" values="8|0|4|12|16|20|24" default="8"/>
-		<setting label="30006" type="select" id="nestopia_overscan_v_bottom" values="8|0|4|12|16|20|24" default="8"/>
-		<setting label="30007" type="select" id="nestopia_overscan_h_left" values="0|4|8|12|16" default="0"/>
-		<setting label="30008" type="select" id="nestopia_overscan_h_right" values="0|4|8|12|16" default="0"/>
+		<setting label="30005" type="select" id="nestopia_overscan_v_top" values="8|0|1|2|3|4|5|6|7|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24" default="8"/>
+		<setting label="30006" type="select" id="nestopia_overscan_v_bottom" values="8|0|1|2|3|4|5|6|7|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24" default="8"/>
+		<setting label="30007" type="select" id="nestopia_overscan_h_left" values="0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16" default="0"/>
+		<setting label="30008" type="select" id="nestopia_overscan_h_right" values="0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16" default="0"/>
 		<setting label="30009" type="select" id="nestopia_aspect" values="auto|ntsc|pal|4:3|uncorrected" default="auto"/>
 		<setting label="30010" type="select" id="nestopia_genie_distortion" values="disabled|enabled" default="disabled"/>
 		<setting label="30011" type="select" id="nestopia_show_advanced_av_settings" values="disabled|enabled" default="disabled"/>
