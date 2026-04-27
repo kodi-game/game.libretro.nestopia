@@ -1,1 +1,1 @@
-nestopia https://github.com/libretro/nestopia/archive/c0ae3bcbe78a1a21a20384b96b70774cc165d2c2.tar.gz
+nestopia https://github.com/libretro/nestopia/archive/b0fd87dd07e3c52903435d302b04e5e97796f127.tar.gz
