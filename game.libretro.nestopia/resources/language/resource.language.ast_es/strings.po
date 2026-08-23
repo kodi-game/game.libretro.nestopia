@@ -117,6 +117,10 @@ msgctxt "#30022"
 msgid "S5B Channel Volume %"
 msgstr ""
 
+msgctxt "#30023"
+msgid "Audio output"
+msgstr ""
+
 msgctxt "#30024"
 msgid "4 Player Adapter"
 msgstr ""
@@ -143,6 +147,10 @@ msgstr ""
 
 msgctxt "#30030"
 msgid "Remove Sprite Limit"
+msgstr ""
+
+msgctxt "#30031"
+msgid "CPU Speed (Overclock)"
 msgstr ""
 
 msgctxt "#30032"
@@ -393,6 +401,10 @@ msgctxt "#30093"
 msgid "Modify S5B Channel Volume %."
 msgstr ""
 
+msgctxt "#30094"
+msgid "Specify whether the audio output should be mono or stereo."
+msgstr ""
+
 msgctxt "#30095"
 msgid "Input"
 msgstr ""
@@ -465,12 +477,24 @@ msgctxt "#30112"
 msgid "Remove 8-sprites-per-scanline hardware limit."
 msgstr ""
 
+msgctxt "#30113"
+msgid "Overclock the emulated CPU."
+msgstr ""
+
 msgctxt "#30114"
 msgid "RAM values on power up. Some games rely on initial RAM values for random number generation as an example."
 msgstr ""
 
 msgctxt "#30115"
 msgid "Random"
+msgstr ""
+
+msgctxt "#30116"
+msgid "0x00"
+msgstr ""
+
+msgctxt "#30117"
+msgid "0xFF"
 msgstr ""
 
 #~ msgctxt "#30000"

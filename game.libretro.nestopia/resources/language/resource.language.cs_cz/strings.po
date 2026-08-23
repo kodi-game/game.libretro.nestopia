@@ -473,6 +473,14 @@ msgctxt "#30115"
 msgid "Random"
 msgstr "Náhodné"
 
+msgctxt "#30116"
+msgid "0x00"
+msgstr ""
+
+msgctxt "#30117"
+msgid "0xFF"
+msgstr ""
+
 #~ msgctxt "#30023"
 #~ msgid "Audio output"
 #~ msgstr "Zvukový výstup"
