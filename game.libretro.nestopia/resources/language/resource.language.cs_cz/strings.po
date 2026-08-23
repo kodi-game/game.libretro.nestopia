@@ -117,10 +117,6 @@ msgctxt "#30022"
 msgid "S5B Channel Volume %"
 msgstr "Hlasitost kanálu S5B (%)"
 
-msgctxt "#30023"
-msgid "Audio output"
-msgstr "Zvukový výstup"
-
 msgctxt "#30024"
 msgid "4 Player Adapter"
 msgstr "Adaptér pro 4 hráče"
@@ -148,10 +144,6 @@ msgstr "Rychlost pulzů turba"
 msgctxt "#30030"
 msgid "Remove Sprite Limit"
 msgstr "Odstranit limit spritů"
-
-msgctxt "#30031"
-msgid "CPU Speed (Overclock)"
-msgstr "Rychlost CPU (přetaktování)"
 
 msgctxt "#30032"
 msgid "RAM Power-on State"
@@ -401,10 +393,6 @@ msgctxt "#30093"
 msgid "Modify S5B Channel Volume %."
 msgstr "Upravit hlasitost kanálu S5B (%)"
 
-msgctxt "#30094"
-msgid "Specify whether the audio output should be mono or stereo."
-msgstr "Určete, zda má být zvukový výstup monofonní, nebo stereofonní."
-
 msgctxt "#30095"
 msgid "Input"
 msgstr "Vstup"
@@ -477,10 +465,6 @@ msgctxt "#30112"
 msgid "Remove 8-sprites-per-scanline hardware limit."
 msgstr "Odstranit hardwarový limit 8 spritů na skenovací řádek."
 
-msgctxt "#30113"
-msgid "Overclock the emulated CPU."
-msgstr "Přetaktovat emulovaný CPU."
-
 msgctxt "#30114"
 msgid "RAM values on power up. Some games rely on initial RAM values for random number generation as an example."
 msgstr "Hodnoty RAM při zapnutí. Některé hry se například spoléhají na počáteční hodnoty RAM při generování náhodných čísel."
@@ -488,3 +472,19 @@ msgstr "Hodnoty RAM při zapnutí. Některé hry se například spoléhají na p
 msgctxt "#30115"
 msgid "Random"
 msgstr "Náhodné"
+
+#~ msgctxt "#30023"
+#~ msgid "Audio output"
+#~ msgstr "Zvukový výstup"
+
+#~ msgctxt "#30031"
+#~ msgid "CPU Speed (Overclock)"
+#~ msgstr "Rychlost CPU (přetaktování)"
+
+#~ msgctxt "#30094"
+#~ msgid "Specify whether the audio output should be mono or stereo."
+#~ msgstr "Určete, zda má být zvukový výstup monofonní, nebo stereofonní."
+
+#~ msgctxt "#30113"
+#~ msgid "Overclock the emulated CPU."
+#~ msgstr "Přetaktovat emulovaný CPU."

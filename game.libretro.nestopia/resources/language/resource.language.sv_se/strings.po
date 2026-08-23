@@ -132,10 +132,6 @@ msgctxt "#30022"
 msgid "S5B Channel Volume %"
 msgstr "S5B Kanalvolym % (%)"
 
-msgctxt "#30023"
-msgid "Audio output"
-msgstr "Ljudutmatning"
-
 msgctxt "#30024"
 msgid "4 Player Adapter"
 msgstr "Adapter för 4 spelare"
@@ -165,10 +161,6 @@ msgstr "Turbo-pulshastighet"
 msgctxt "#30030"
 msgid "Remove Sprite Limit"
 msgstr "Ta bort sprite-gräns"
-
-msgctxt "#30031"
-msgid "CPU Speed (Overclock)"
-msgstr "CPU-hastighet (överklockning)"
 
 #, fuzzy
 msgctxt "#30032"
@@ -419,10 +411,6 @@ msgctxt "#30093"
 msgid "Modify S5B Channel Volume %."
 msgstr ""
 
-msgctxt "#30094"
-msgid "Specify whether the audio output should be mono or stereo."
-msgstr ""
-
 msgctxt "#30095"
 msgid "Input"
 msgstr ""
@@ -495,10 +483,6 @@ msgctxt "#30112"
 msgid "Remove 8-sprites-per-scanline hardware limit."
 msgstr ""
 
-msgctxt "#30113"
-msgid "Overclock the emulated CPU."
-msgstr ""
-
 msgctxt "#30114"
 msgid "RAM values on power up. Some games rely on initial RAM values for random number generation as an example."
 msgstr ""
@@ -506,6 +490,14 @@ msgstr ""
 msgctxt "#30115"
 msgid "Random"
 msgstr ""
+
+#~ msgctxt "#30023"
+#~ msgid "Audio output"
+#~ msgstr "Ljudutmatning"
+
+#~ msgctxt "#30031"
+#~ msgid "CPU Speed (Overclock)"
+#~ msgstr "CPU-hastighet (överklockning)"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
