@@ -22,8 +22,8 @@
 					<default>enabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -49,7 +49,7 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
+							<option label="13106">disabled</option>
 							<option label="30051">composite</option>
 							<option label="30052">svideo</option>
 							<option label="30053">rgb</option>
@@ -229,8 +229,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -240,8 +240,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -488,17 +488,6 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="nestopia_audio_type" type="string" label="30023" help="30094">
-					<level>0</level>
-					<default>stereo</default>
-					<constraints>
-						<options>
-							<option>mono</option>
-							<option>stereo</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
 			</group>
 		</category>
 		<category id="input" label="30095" help="30096">
@@ -520,8 +509,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -566,8 +555,8 @@
 					<default>enabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -599,19 +588,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
-				<setting id="nestopia_overclock" type="string" label="30031" help="30113">
-					<level>0</level>
-					<default>1x</default>
-					<constraints>
-						<options>
-							<option>1x</option>
-							<option>2x</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
