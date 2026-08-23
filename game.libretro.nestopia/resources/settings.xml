@@ -599,8 +599,8 @@
 					<default>0x00</default>
 					<constraints>
 						<options>
-							<option>0x00</option>
-							<option>0xFF</option>
+							<option label="30116">0x00</option>
+							<option label="30117">0xFF</option>
 							<option label="30115">random</option>
 						</options>
 					</constraints>
