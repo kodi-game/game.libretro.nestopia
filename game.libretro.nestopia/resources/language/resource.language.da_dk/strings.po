@@ -393,10 +393,6 @@ msgctxt "#30093"
 msgid "Modify S5B Channel Volume %."
 msgstr ""
 
-msgctxt "#30094"
-msgid "Specify whether the audio output should be mono or stereo."
-msgstr ""
-
 msgctxt "#30095"
 msgid "Input"
 msgstr ""
@@ -469,10 +465,6 @@ msgctxt "#30112"
 msgid "Remove 8-sprites-per-scanline hardware limit."
 msgstr ""
 
-msgctxt "#30113"
-msgid "Overclock the emulated CPU."
-msgstr ""
-
 msgctxt "#30114"
 msgid "RAM values on power up. Some games rely on initial RAM values for random number generation as an example."
 msgstr ""
@@ -487,6 +479,14 @@ msgstr ""
 
 msgctxt "#30117"
 msgid "0xFF"
+msgstr ""
+
+msgctxt "#30118"
+msgid "Audio Output Filter"
+msgstr ""
+
+msgctxt "#30119"
+msgid "Approximate the analog stage that follows the DAC on real hardware, by applying a first order 220Hz high pass and a first order 14kHz low pass to the mixed output. This removes the DC offset the mixer sits on and rolls off the extreme treble."
 msgstr ""
 
 #~ msgctxt "#30023"
