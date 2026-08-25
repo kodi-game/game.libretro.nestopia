@@ -224,6 +224,17 @@
 		</category>
 		<category id="audio" label="30079" help="30080">
 			<group id="1">
+				<setting id="nestopia_audio_filter" type="string" label="30118" help="30119">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
 				<setting id="nestopia_genie_distortion" type="string" label="30010" help="30081">
 					<level>0</level>
 					<default>disabled</default>
