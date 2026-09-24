@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Icon credit: Anarkhya (anarkhya.deviantart.com)"
 msgstr "Ikon: Anarkhya (anarkhya.deviantart.com)"
 
-msgctxt "#30001"
-msgid "System Region"
-msgstr "Systemregion"
-
 #, fuzzy
 msgctxt "#30002"
 msgid "FDS Auto Insert"
@@ -182,10 +178,6 @@ msgstr ""
 msgctxt "#30036"
 msgid "Change system region and other hardware-related settings."
 msgstr "Ändra systemregion och andra hårdvarurelaterade inställningar."
-
-msgctxt "#30037"
-msgid "'Auto' will use the NstDatabase.xml database file for region autodetection. If there is no database present, it will default to NTSC."
-msgstr ""
 
 msgctxt "#30038"
 msgid "Auto"
@@ -338,14 +330,6 @@ msgstr "Dölj (vertikalt) potentiellt slumpmässig och glitchig videoutmatning s
 msgctxt "#30075"
 msgid "Mask out (horizontally) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
 msgstr "Dölj (horisontellt) potentiellt slumpmässig och glitchig videoutmatning som skulle ha varit dold av ramen runt kanten av en standardupplöst Tv-skärm."
-
-msgctxt "#30076"
-msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for aspect ratio autodetection. If there is no database present, it will default to NTSC."
-msgstr ""
-
-msgctxt "#30077"
-msgid "4:3"
-msgstr ""
 
 msgctxt "#30078"
 msgid "Uncorrected"
@@ -543,6 +527,10 @@ msgctxt "#30128"
 msgid "Halve large direct writes to the DMC level, which are otherwise heard as clicks. Inaccurate, and quietens samples streamed through $4011 as large swings."
 msgstr "Halverar stora direkta skrivningar till DMC-nivån, som annars hörs som klick. Ger sämre precision och dämpar samplingar som strömmas genom $4011 med stora svängningar."
 
+#~ msgctxt "#30001"
+#~ msgid "System Region"
+#~ msgstr "Systemregion"
+
 #~ msgctxt "#30023"
 #~ msgid "Audio output"
 #~ msgstr "Ljudutmatning"
@@ -554,11 +542,3 @@ msgstr "Halverar stora direkta skrivningar till DMC-nivån, som annars hörs som
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Inställningar"
-
-#~ msgctxt "#30094"
-#~ msgid "Specify whether the audio output should be mono or stereo."
-#~ msgstr ""
-
-#~ msgctxt "#30113"
-#~ msgid "Overclock the emulated CPU."
-#~ msgstr ""

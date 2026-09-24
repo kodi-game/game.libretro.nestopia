@@ -28,11 +28,6 @@ msgctxt "Addon Disclaimer"
 msgid "Icon credit: Anarkhya (anarkhya.deviantart.com)"
 msgstr ""
 
-# Empty string with ID 30000
-msgctxt "#30001"
-msgid "System Region"
-msgstr ""
-
 msgctxt "#30002"
 msgid "FDS Auto Insert"
 msgstr ""
@@ -117,6 +112,10 @@ msgctxt "#30022"
 msgid "S5B Channel Volume %"
 msgstr ""
 
+msgctxt "#30023"
+msgid "Audio output"
+msgstr ""
+
 msgctxt "#30024"
 msgid "4 Player Adapter"
 msgstr ""
@@ -145,6 +144,10 @@ msgctxt "#30030"
 msgid "Remove Sprite Limit"
 msgstr ""
 
+msgctxt "#30031"
+msgid "CPU Speed (Overclock)"
+msgstr ""
+
 msgctxt "#30032"
 msgid "RAM Power-on State"
 msgstr ""
@@ -163,10 +166,6 @@ msgstr ""
 
 msgctxt "#30036"
 msgid "Change system region and other hardware-related settings."
-msgstr ""
-
-msgctxt "#30037"
-msgid "'Auto' will use the NstDatabase.xml database file for region autodetection. If there is no database present, it will default to NTSC."
 msgstr ""
 
 msgctxt "#30038"
@@ -321,14 +320,6 @@ msgctxt "#30075"
 msgid "Mask out (horizontally) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
 msgstr ""
 
-msgctxt "#30076"
-msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for aspect ratio autodetection. If there is no database present, it will default to NTSC."
-msgstr ""
-
-msgctxt "#30077"
-msgid "4:3"
-msgstr ""
-
 msgctxt "#30078"
 msgid "Uncorrected"
 msgstr ""
@@ -391,6 +382,10 @@ msgstr ""
 
 msgctxt "#30093"
 msgid "Modify S5B Channel Volume %."
+msgstr ""
+
+msgctxt "#30094"
+msgid "Specify whether the audio output should be mono or stereo."
 msgstr ""
 
 msgctxt "#30095"
@@ -465,6 +460,10 @@ msgctxt "#30112"
 msgid "Remove 8-sprites-per-scanline hardware limit."
 msgstr ""
 
+msgctxt "#30113"
+msgid "Overclock the emulated CPU."
+msgstr ""
+
 msgctxt "#30114"
 msgid "RAM values on power up. Some games rely on initial RAM values for random number generation as an example."
 msgstr ""
@@ -487,4 +486,40 @@ msgstr ""
 
 msgctxt "#30119"
 msgid "Approximate the analog stage that follows the DAC on real hardware, by applying a first order 220Hz high pass and a first order 14kHz low pass to the mixed output. This removes the DC offset the mixer sits on and rolls off the extreme treble."
+msgstr ""
+
+msgctxt "#30120"
+msgid "Favored System"
+msgstr ""
+
+msgctxt "#30121"
+msgid "System to prefer for images that do not say which one they want. Images that do say, and images found in the NstDatabase.xml database file, are unaffected. Only applies while 'Force System' is set to 'Auto'. Requires a restart."
+msgstr ""
+
+msgctxt "#30122"
+msgid "Force System"
+msgstr ""
+
+msgctxt "#30123"
+msgid "Ignore the system the image asks for and use this one instead. Changing this setting will restart the game."
+msgstr ""
+
+msgctxt "#30124"
+msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for region autodetection, defaulting to NTSC if there is no database present. 'Auto', 'NTSC' and 'PAL' give the picture its correct pixel aspect ratio, so it narrows as the overscan mask is raised. '4:3' and '5:4' are display aspect ratios, and fill that shape whatever is masked. 'Uncorrected' gives square pixels."
+msgstr ""
+
+msgctxt "#30125"
+msgid "4:3 (DAR)"
+msgstr ""
+
+msgctxt "#30126"
+msgid "5:4 (DAR)"
+msgstr ""
+
+msgctxt "#30127"
+msgid "DMC Pop Reducer"
+msgstr ""
+
+msgctxt "#30128"
+msgid "Halve large direct writes to the DMC level, which are otherwise heard as clicks. Inaccurate, and quietens samples streamed through $4011 as large swings."
 msgstr ""

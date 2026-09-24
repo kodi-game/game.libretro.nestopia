@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Icon credit: Anarkhya (anarkhya.deviantart.com)"
 msgstr ""
 
-msgctxt "#30001"
-msgid "System Region"
-msgstr ""
-
 msgctxt "#30002"
 msgid "FDS Auto Insert"
 msgstr "FDS Авто вставка дискети"
@@ -164,10 +160,6 @@ msgstr "Система"
 msgctxt "#30036"
 msgid "Change system region and other hardware-related settings."
 msgstr "Змінити налаштування області системи та інших параметрів пов'язаних з апаратними засобами."
-
-msgctxt "#30037"
-msgid "'Auto' will use the NstDatabase.xml database file for region autodetection. If there is no database present, it will default to NTSC."
-msgstr ""
 
 msgctxt "#30038"
 msgid "Auto"
@@ -320,14 +312,6 @@ msgstr "Маскування (по вертикалі) потенційно ви
 msgctxt "#30075"
 msgid "Mask out (horizontally) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
 msgstr "Маскування (по горизонталі) потенційно випадкових збоїв вихідного відеосигналу, які були б приховані рамкою по краю телевізійного екрана стандартної чіткості."
-
-msgctxt "#30076"
-msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for aspect ratio autodetection. If there is no database present, it will default to NTSC."
-msgstr ""
-
-msgctxt "#30077"
-msgid "4:3"
-msgstr ""
 
 msgctxt "#30078"
 msgid "Uncorrected"
@@ -524,19 +508,3 @@ msgstr "Поп редуктор DMC"
 msgctxt "#30128"
 msgid "Halve large direct writes to the DMC level, which are otherwise heard as clicks. Inaccurate, and quietens samples streamed through $4011 as large swings."
 msgstr "Зменшує вдвічі великі прямі записи на рівні DMC, які в іншому випадку сприймаються як клацання. Неточна обробка, приглушує семпли, що проходять через $4011, у вигляді великих коливань."
-
-#~ msgctxt "#30023"
-#~ msgid "Audio output"
-#~ msgstr ""
-
-#~ msgctxt "#30031"
-#~ msgid "CPU Speed (Overclock)"
-#~ msgstr ""
-
-#~ msgctxt "#30094"
-#~ msgid "Specify whether the audio output should be mono or stereo."
-#~ msgstr ""
-
-#~ msgctxt "#30113"
-#~ msgid "Overclock the emulated CPU."
-#~ msgstr ""
