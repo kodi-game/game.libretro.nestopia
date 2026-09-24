@@ -39,7 +39,7 @@ msgstr ""
 
 msgctxt "#30003"
 msgid "Blargg NTSC Filter"
-msgstr ""
+msgstr "NTSC濾波器"
 
 msgctxt "#30004"
 msgid "Palette"
@@ -71,7 +71,7 @@ msgstr ""
 
 msgctxt "#30011"
 msgid "Show Advanced Audio Settings (Reopen menu)"
-msgstr ""
+msgstr "顯示音效進階設定 (需要重開選單)"
 
 msgctxt "#30012"
 msgid "Square 1 Channel Volume %"
@@ -119,7 +119,7 @@ msgstr ""
 
 msgctxt "#30024"
 msgid "4 Player Adapter"
-msgstr ""
+msgstr "四手把轉接器"
 
 msgctxt "#30025"
 msgid "Shift Buttons Clockwise"
@@ -143,7 +143,7 @@ msgstr ""
 
 msgctxt "#30030"
 msgid "Remove Sprite Limit"
-msgstr ""
+msgstr "移除物件限制"
 
 msgctxt "#30032"
 msgid "RAM Power-on State"
@@ -159,11 +159,11 @@ msgstr ""
 
 msgctxt "#30035"
 msgid "System"
-msgstr ""
+msgstr "系統"
 
 msgctxt "#30036"
 msgid "Change system region and other hardware-related settings."
-msgstr ""
+msgstr "更改系統區域和其他與硬體相關的設定。"
 
 msgctxt "#30037"
 msgid "'Auto' will use the NstDatabase.xml database file for region autodetection. If there is no database present, it will default to NTSC."
@@ -171,7 +171,7 @@ msgstr ""
 
 msgctxt "#30038"
 msgid "Auto"
-msgstr ""
+msgstr "自動"
 
 msgctxt "#30039"
 msgid "NTSC"
@@ -187,7 +187,7 @@ msgstr ""
 
 msgctxt "#30042"
 msgid "Dendy"
-msgstr ""
+msgstr "SECAM (Dendy主機)"
 
 msgctxt "#30043"
 msgid "Automatically insert first FDS disk on reset."
@@ -211,23 +211,23 @@ msgstr ""
 
 msgctxt "#30048"
 msgid "Video"
-msgstr ""
+msgstr "顯示"
 
 msgctxt "#30049"
 msgid "Change aspect ratio, display cropping, color palette and video filter settings."
-msgstr ""
+msgstr "變更寬高比、畫面裁剪、配色和影像濾鏡的設定。"
 
 msgctxt "#30050"
 msgid "Enable Blargg NTSC filters."
-msgstr ""
+msgstr "製作者Blargg編譯的NTSC濾波器, 用於模擬電視各種影像輸入信號的顯示效果。"
 
 msgctxt "#30051"
 msgid "Composite Video"
-msgstr ""
+msgstr "AV端子 (複合端子)"
 
 msgctxt "#30052"
 msgid "S-Video"
-msgstr ""
+msgstr "S-端子 (獨立視訊端子)"
 
 msgctxt "#30053"
 msgid "RGB SCART"
@@ -235,7 +235,7 @@ msgstr ""
 
 msgctxt "#30054"
 msgid "Monochrome"
-msgstr ""
+msgstr "黑白"
 
 msgctxt "#30055"
 msgid "Color palette to be used. If 'Custom' is selected, the palette used will be taken from the 'custom.pal' file placed in the RetroArch System/BIOS directory."
@@ -267,7 +267,7 @@ msgstr ""
 
 msgctxt "#30062"
 msgid "RGB"
-msgstr ""
+msgstr "色差端子 (YPbPr)"
 
 msgctxt "#30063"
 msgid "Digital Prime FBX"
@@ -307,11 +307,11 @@ msgstr ""
 
 msgctxt "#30072"
 msgid "Raw"
-msgstr ""
+msgstr "原始"
 
 msgctxt "#30073"
 msgid "Custom"
-msgstr ""
+msgstr "自訂"
 
 msgctxt "#30074"
 msgid "Mask out (vertically) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
@@ -331,15 +331,15 @@ msgstr ""
 
 msgctxt "#30078"
 msgid "Uncorrected"
-msgstr ""
+msgstr "未調整"
 
 msgctxt "#30079"
 msgid "Audio"
-msgstr ""
+msgstr "音效"
 
 msgctxt "#30080"
 msgid "Change audio effects and channel volumes."
-msgstr ""
+msgstr "變更音訊效果和頻道音量。"
 
 msgctxt "#30081"
 msgid "The Game Genie cheat device could inadvertently introduce sound distortion in games. By enabling this, you can simulate the distortion it would add to a game's sound."
@@ -347,7 +347,7 @@ msgstr ""
 
 msgctxt "#30082"
 msgid "Enable configuration of low-level audio channel parameters."
-msgstr ""
+msgstr "開啟低階音訊通道參數的設定, 此選項變更時需要重新開啟選單才能生效。"
 
 msgctxt "#30083"
 msgid "Modify Square 1 Channel Volume %."
@@ -395,7 +395,7 @@ msgstr ""
 
 msgctxt "#30095"
 msgid "Input"
-msgstr ""
+msgstr "輸入"
 
 msgctxt "#30096"
 msgid "Change input devices and other input related settings."
@@ -403,7 +403,7 @@ msgstr ""
 
 msgctxt "#30097"
 msgid "Manually select a 4 Player Adapter if needed. Some games will not recognize the adapter correctly through the NstDatabase.xml database, this option should help fix that."
-msgstr ""
+msgstr "部分遊戲無法通過 NstDatabase.xml 資料庫，正確識別轉接器，變更此選項有助於解決這個問題。"
 
 msgctxt "#30098"
 msgid "Rotate the A/B/X/Y buttons clockwise."
@@ -415,7 +415,7 @@ msgstr ""
 
 msgctxt "#30100"
 msgid "Mouse"
-msgstr ""
+msgstr "滑鼠"
 
 msgctxt "#30101"
 msgid "Pointer"
@@ -455,23 +455,23 @@ msgstr ""
 
 msgctxt "#30110"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "進階"
 
 msgctxt "#30111"
 msgid "Change processor overclocking and emulation accuracy settings affecting low-level performance and compatibility."
-msgstr ""
+msgstr "變更模擬器進階破解的設定。"
 
 msgctxt "#30112"
 msgid "Remove 8-sprites-per-scanline hardware limit."
-msgstr ""
+msgstr "移除每條掃描線8個物件的硬體限制。"
 
 msgctxt "#30114"
 msgid "RAM values on power up. Some games rely on initial RAM values for random number generation as an example."
-msgstr ""
+msgstr "設定執行時初始記憶體的填充數值, 部分遊戲依靠記憶體填充隨機數值來產生變數。"
 
 msgctxt "#30115"
 msgid "Random"
-msgstr ""
+msgstr "填充隨機數值"
 
 msgctxt "#30116"
 msgid "0x00"
@@ -488,3 +488,55 @@ msgstr ""
 msgctxt "#30119"
 msgid "Approximate the analog stage that follows the DAC on real hardware, by applying a first order 220Hz high pass and a first order 14kHz low pass to the mixed output. This removes the DC offset the mixer sits on and rolls off the extreme treble."
 msgstr ""
+
+msgctxt "#30120"
+msgid "Favored System"
+msgstr ""
+
+msgctxt "#30121"
+msgid "System to prefer for images that do not say which one they want. Images that do say, and images found in the NstDatabase.xml database file, are unaffected. Only applies while 'Force System' is set to 'Auto'. Requires a restart."
+msgstr ""
+
+msgctxt "#30122"
+msgid "Force System"
+msgstr ""
+
+msgctxt "#30123"
+msgid "Ignore the system the image asks for and use this one instead. Changing this setting will restart the game."
+msgstr ""
+
+msgctxt "#30124"
+msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for region autodetection, defaulting to NTSC if there is no database present. 'Auto', 'NTSC' and 'PAL' give the picture its correct pixel aspect ratio, so it narrows as the overscan mask is raised. '4:3' and '5:4' are display aspect ratios, and fill that shape whatever is masked. 'Uncorrected' gives square pixels."
+msgstr ""
+
+msgctxt "#30125"
+msgid "4:3 (DAR)"
+msgstr ""
+
+msgctxt "#30126"
+msgid "5:4 (DAR)"
+msgstr ""
+
+msgctxt "#30127"
+msgid "DMC Pop Reducer"
+msgstr ""
+
+msgctxt "#30128"
+msgid "Halve large direct writes to the DMC level, which are otherwise heard as clicks. Inaccurate, and quietens samples streamed through $4011 as large swings."
+msgstr ""
+
+#~ msgctxt "#30023"
+#~ msgid "Audio output"
+#~ msgstr ""
+
+#~ msgctxt "#30031"
+#~ msgid "CPU Speed (Overclock)"
+#~ msgstr ""
+
+#~ msgctxt "#30094"
+#~ msgid "Specify whether the audio output should be mono or stereo."
+#~ msgstr ""
+
+#~ msgctxt "#30113"
+#~ msgid "Overclock the emulated CPU."
+#~ msgstr ""

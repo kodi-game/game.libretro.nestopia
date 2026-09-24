@@ -39,7 +39,7 @@ msgstr ""
 
 msgctxt "#30003"
 msgid "Blargg NTSC Filter"
-msgstr ""
+msgstr "Blargg NTSC 필터"
 
 msgctxt "#30004"
 msgid "Palette"
@@ -47,123 +47,123 @@ msgstr "팔레트"
 
 msgctxt "#30005"
 msgid "Mask Overscan (Top Vertical)"
-msgstr ""
+msgstr "오버스캔 숨기기 (세로 위쪽)"
 
 msgctxt "#30006"
 msgid "Mask Overscan (Bottom Vertical)"
-msgstr ""
+msgstr "오버스캔 숨기기 (세로 아래쪽)"
 
 msgctxt "#30007"
 msgid "Mask Overscan (Left Horizontal)"
-msgstr ""
+msgstr "오버스캔 숨기기 (가로 왼쪽)"
 
 msgctxt "#30008"
 msgid "Mask Overscan (Right Horizontal)"
-msgstr ""
+msgstr "오버스캔 숨기기 (가로 오른쪽)"
 
 msgctxt "#30009"
 msgid "Preferred Aspect Ratio"
-msgstr ""
+msgstr "선호하는 화면비"
 
 msgctxt "#30010"
 msgid "Game Genie Sound Distortion"
-msgstr ""
+msgstr "Game Genie 소리 왜곡"
 
 msgctxt "#30011"
 msgid "Show Advanced Audio Settings (Reopen menu)"
-msgstr ""
+msgstr "고급 오디오 설정 표시 (메뉴 다시 열기 필요)"
 
 msgctxt "#30012"
 msgid "Square 1 Channel Volume %"
-msgstr ""
+msgstr "구형파 1 채널 볼륨 %"
 
 msgctxt "#30013"
 msgid "Square 2 Channel Volume %"
-msgstr ""
+msgstr "구형파 2 채널 볼륨 %"
 
 msgctxt "#30014"
 msgid "Triangle Channel Volume %"
-msgstr ""
+msgstr "삼각파 채널 볼륨 %"
 
 msgctxt "#30015"
 msgid "Noise Channel Volume %"
-msgstr ""
+msgstr "노이즈 채널 볼륨 %"
 
 msgctxt "#30016"
 msgid "DPCM Channel Volume %"
-msgstr ""
+msgstr "DPCM 채널 볼륨 %"
 
 msgctxt "#30017"
 msgid "FDS Channel Volume %"
-msgstr ""
+msgstr "FDS 채널 볼륨 %"
 
 msgctxt "#30018"
 msgid "MMC5 Channel Volume %"
-msgstr ""
+msgstr "MMC5 채널 볼륨 %"
 
 msgctxt "#30019"
 msgid "VRC6 Channel Volume %"
-msgstr ""
+msgstr "VRC6 채널 볼륨 %"
 
 msgctxt "#30020"
 msgid "VRC7 Channel Volume %"
-msgstr ""
+msgstr "VRC7 채널 볼륨 %"
 
 msgctxt "#30021"
 msgid "N163 Channel Volume %"
-msgstr ""
+msgstr "N163 채널 볼륨 %"
 
 msgctxt "#30022"
 msgid "S5B Channel Volume %"
-msgstr ""
+msgstr "S5B 채널 볼륨 %"
 
 msgctxt "#30024"
 msgid "4 Player Adapter"
-msgstr ""
+msgstr "4 플레이어 어댑터"
 
 msgctxt "#30025"
 msgid "Shift Buttons Clockwise"
-msgstr ""
+msgstr "버튼 시계방향 회전"
 
 msgctxt "#30026"
 msgid "Arkanoid device"
-msgstr ""
+msgstr "Arkanoid 장치"
 
 msgctxt "#30027"
 msgid "Zapper device"
-msgstr ""
+msgstr "Zapper 장치"
 
 msgctxt "#30028"
 msgid "Show Crosshair"
-msgstr ""
+msgstr "십자선 표시"
 
 msgctxt "#30029"
 msgid "Turbo Pulse Speed"
-msgstr ""
+msgstr "터보 반복 속도"
 
 msgctxt "#30030"
 msgid "Remove Sprite Limit"
-msgstr ""
+msgstr "스프라이트 제한 해제"
 
 msgctxt "#30032"
 msgid "RAM Power-on State"
-msgstr ""
+msgstr "기동 시 RAM 상태"
 
 msgctxt "#30033"
 msgid "Arkanoid Paddle Range"
-msgstr ""
+msgstr "Arkanoid 패들 범위"
 
 msgctxt "#30034"
 msgid "FDS Savefile Format"
-msgstr ""
+msgstr "FDS 세이브파일 형식"
 
 msgctxt "#30035"
 msgid "System"
-msgstr ""
+msgstr "시스템"
 
 msgctxt "#30036"
 msgid "Change system region and other hardware-related settings."
-msgstr ""
+msgstr "시스템 지역과 기타 하드웨어 관련 옵션을 설정합니다."
 
 msgctxt "#30037"
 msgid "'Auto' will use the NstDatabase.xml database file for region autodetection. If there is no database present, it will default to NTSC."
@@ -171,7 +171,7 @@ msgstr ""
 
 msgctxt "#30038"
 msgid "Auto"
-msgstr ""
+msgstr "자동"
 
 msgctxt "#30039"
 msgid "NTSC"
@@ -183,7 +183,7 @@ msgstr ""
 
 msgctxt "#30041"
 msgid "Famicom"
-msgstr ""
+msgstr "패미컴"
 
 msgctxt "#30042"
 msgid "Dendy"
@@ -191,19 +191,19 @@ msgstr ""
 
 msgctxt "#30043"
 msgid "Automatically insert first FDS disk on reset."
-msgstr ""
+msgstr "초기화할 때 자동으로 첫 번째 FDS 디스크를 삽입합니다."
 
 msgctxt "#30044"
 msgid "Define which format will be used by savefiles generated for FDS games. Based on the format chosen, FDS savefiles might be used interchangeably with other cores and standalone emulators. It is recommended to use with caution, as improper handling may cause undesired overwrites, or deletion of the existing saves."
-msgstr ""
+msgstr "FDS 게임이 생성하는 세이브파일을 어떤 형식으로 저장할지 선택합니다. 어떤 형식을 선택하는지에 따라, 생성된 FDS 세이브파일은 다른 코어 또는 단독 실행되는 에뮬레이터와 호환 사용될 수도 있습니다. 다만 이 값을 잘못 변경할 경우, 기존 데이터의 원치 않는 덮어쓰기 또는 삭제가 발생할 수 있으므로 주의가 필요합니다."
 
 msgctxt "#30045"
 msgid "SAV + UPS (Default)"
-msgstr ""
+msgstr "SAV + UPS (기본값)"
 
 msgctxt "#30046"
 msgid "UPS (Standalone Nestopia)"
-msgstr ""
+msgstr "UPS (Nestopia 단독 실행)"
 
 msgctxt "#30047"
 msgid "IPS (Mesen)"
@@ -211,23 +211,23 @@ msgstr ""
 
 msgctxt "#30048"
 msgid "Video"
-msgstr ""
+msgstr "비디오"
 
 msgctxt "#30049"
 msgid "Change aspect ratio, display cropping, color palette and video filter settings."
-msgstr ""
+msgstr "화면비, 화면 잘라내기, 색상 팔레트, 비디오 필터 등을 설정합니다."
 
 msgctxt "#30050"
 msgid "Enable Blargg NTSC filters."
-msgstr ""
+msgstr "Blargg NTSC 필터를 사용합니다."
 
 msgctxt "#30051"
 msgid "Composite Video"
-msgstr ""
+msgstr "컴포지트 비디오"
 
 msgctxt "#30052"
 msgid "S-Video"
-msgstr ""
+msgstr "S-비디오"
 
 msgctxt "#30053"
 msgid "RGB SCART"
@@ -235,11 +235,11 @@ msgstr ""
 
 msgctxt "#30054"
 msgid "Monochrome"
-msgstr ""
+msgstr "흑백"
 
 msgctxt "#30055"
 msgid "Color palette to be used. If 'Custom' is selected, the palette used will be taken from the 'custom.pal' file placed in the RetroArch System/BIOS directory."
-msgstr ""
+msgstr "사용할 색상 팔레트입니다. '사용자 정의'로 설정할 경우, 팔레트는 RetroArch의 시스템/BIOS 디렉토리에 배치된 'custom.pal' 파일에서 가져와집니다."
 
 msgctxt "#30056"
 msgid "CXA2025AS (US)"
@@ -251,19 +251,19 @@ msgstr ""
 
 msgctxt "#30058"
 msgid "Royaltea"
-msgstr ""
+msgstr "로얄티"
 
 msgctxt "#30059"
 msgid "Consumer"
-msgstr ""
+msgstr "일반 TV"
 
 msgctxt "#30060"
 msgid "Canonical"
-msgstr ""
+msgstr "표준"
 
 msgctxt "#30061"
 msgid "Alternative"
-msgstr ""
+msgstr "대체 표준"
 
 msgctxt "#30062"
 msgid "RGB"
@@ -271,11 +271,11 @@ msgstr ""
 
 msgctxt "#30063"
 msgid "Digital Prime FBX"
-msgstr ""
+msgstr "디지털 프라임 FBX"
 
 msgctxt "#30064"
 msgid "Magnum FBX"
-msgstr ""
+msgstr "매그넘 FBX"
 
 msgctxt "#30065"
 msgid "Smooth V2 FBX"
@@ -283,43 +283,43 @@ msgstr ""
 
 msgctxt "#30066"
 msgid "Composite Direct FBX"
-msgstr ""
+msgstr "컴포지트 다이렉트 FBX"
 
 msgctxt "#30067"
 msgid "PVM-style D93 FBX"
-msgstr ""
+msgstr "PVM 스타일 D93 FBX"
 
 msgctxt "#30068"
 msgid "NTSC hardware FBX"
-msgstr ""
+msgstr "NTSC 하드웨어 FBX"
 
 msgctxt "#30069"
 msgid "NES Classic FBx (fixed)"
-msgstr ""
+msgstr "NES Classic FBx (개선판)"
 
 msgctxt "#30070"
 msgid "Restored Wii VC"
-msgstr ""
+msgstr "복원된 Wii VC"
 
 msgctxt "#30071"
 msgid "Wii Virtual Console"
-msgstr ""
+msgstr "Wii 버추얼 콘솔"
 
 msgctxt "#30072"
 msgid "Raw"
-msgstr ""
+msgstr "원본"
 
 msgctxt "#30073"
 msgid "Custom"
-msgstr ""
+msgstr "사용자 정의"
 
 msgctxt "#30074"
 msgid "Mask out (vertically) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
-msgstr ""
+msgstr "일반적으로 오래된 TV 화면의 테두리 베젤에 의해 가려지는 비디오 출력의 이상한 부분(세로)을 숨깁니다."
 
 msgctxt "#30075"
 msgid "Mask out (horizontally) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
-msgstr ""
+msgstr "일반적으로 오래된 TV 화면의 테두리 베젤에 의해 가려지는 비디오 출력의 이상한 부분(가로)을 숨깁니다."
 
 msgctxt "#30076"
 msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for aspect ratio autodetection. If there is no database present, it will default to NTSC."
@@ -331,147 +331,147 @@ msgstr ""
 
 msgctxt "#30078"
 msgid "Uncorrected"
-msgstr ""
+msgstr "교정 안 됨"
 
 msgctxt "#30079"
 msgid "Audio"
-msgstr ""
+msgstr "오디오"
 
 msgctxt "#30080"
 msgid "Change audio effects and channel volumes."
-msgstr ""
+msgstr "오디오 효과와 채널 볼륨을 설정합니다."
 
 msgctxt "#30081"
 msgid "The Game Genie cheat device could inadvertently introduce sound distortion in games. By enabling this, you can simulate the distortion it would add to a game's sound."
-msgstr ""
+msgstr "Game Genie 치트 장치는 의도치 않게 게임 소리를 왜곡시킵니다. 이 옵션을 사용하면 Game Genie가 게임에 추가하는 소리 왜곡을 재현할 수 있습니다."
 
 msgctxt "#30082"
 msgid "Enable configuration of low-level audio channel parameters."
-msgstr ""
+msgstr "저수준 오디오 채널 변수 설정을 활성화합니다."
 
 msgctxt "#30083"
 msgid "Modify Square 1 Channel Volume %."
-msgstr ""
+msgstr "구형파 1 채널의 볼륨 %를 변경합니다."
 
 msgctxt "#30084"
 msgid "Modify Square 2 Channel Volume %."
-msgstr ""
+msgstr "구형파 2 채널의 볼륨 %를 변경합니다."
 
 msgctxt "#30085"
 msgid "Modify Triangle Channel Volume %."
-msgstr ""
+msgstr "삼각파 채널의 볼륨 %를 변경합니다."
 
 msgctxt "#30086"
 msgid "Modify Noise Channel Volume %."
-msgstr ""
+msgstr "노이즈 채널의 볼륨 %를 변경합니다."
 
 msgctxt "#30087"
 msgid "Modify DPCM Channel Volume %."
-msgstr ""
+msgstr "DPCM 채널의 볼륨 %를 변경합니다."
 
 msgctxt "#30088"
 msgid "Modify FDS Channel Volume %."
-msgstr ""
+msgstr "FDS 채널의 볼륨 %를 변경합니다."
 
 msgctxt "#30089"
 msgid "Modify MMC5 Channel Volume %."
-msgstr ""
+msgstr "MMC5 채널의 볼륨 %를 변경합니다."
 
 msgctxt "#30090"
 msgid "Modify VRC6 Channel Volume %."
-msgstr ""
+msgstr "VRC6 채널의 볼륨 %를 변경합니다."
 
 msgctxt "#30091"
 msgid "Modify VRC7 Channel Volume %."
-msgstr ""
+msgstr "VRC7 채널의 볼륨 %를 변경합니다."
 
 msgctxt "#30092"
 msgid "Modify N163 Channel Volume %."
-msgstr ""
+msgstr "N163 채널의 볼륨 %를 변경합니다."
 
 msgctxt "#30093"
 msgid "Modify S5B Channel Volume %."
-msgstr ""
+msgstr "S5B 채널의 볼륨 %를 변경합니다."
 
 msgctxt "#30095"
 msgid "Input"
-msgstr ""
+msgstr "입력"
 
 msgctxt "#30096"
 msgid "Change input devices and other input related settings."
-msgstr ""
+msgstr "입력 장치 및 입력 관련 설정을 변경합니다."
 
 msgctxt "#30097"
 msgid "Manually select a 4 Player Adapter if needed. Some games will not recognize the adapter correctly through the NstDatabase.xml database, this option should help fix that."
-msgstr ""
+msgstr "필요할 경우 4 플레이어 어댑터를 수동으로 선택합니다. NstDatabase.xml에 기록되어 있지 않지만 어댑터를 필요로 하는 게임을 플레이할 때 이 옵션으로 문제를 해결할 수 있습니다."
 
 msgctxt "#30098"
 msgid "Rotate the A/B/X/Y buttons clockwise."
-msgstr ""
+msgstr "A/B/X/Y 버튼을 시계방향으로 회전합니다."
 
 msgctxt "#30099"
 msgid "Select the device you wish to use for the Arkanoid paddle."
-msgstr ""
+msgstr "Arkanoid의 패들로 사용할 장치를 선택합니다."
 
 msgctxt "#30100"
 msgid "Mouse"
-msgstr ""
+msgstr "마우스"
 
 msgctxt "#30101"
 msgid "Pointer"
-msgstr ""
+msgstr "포인터"
 
 msgctxt "#30102"
 msgid "Set the range for the Arkanoid paddle."
-msgstr ""
+msgstr "Arkanoid 패들의 작동 범위를 설정합니다."
 
 msgctxt "#30103"
 msgid "Combined range of both controllers (32-166)"
-msgstr ""
+msgstr "두 컨트롤러를 합친 범위 (32-166)"
 
 msgctxt "#30104"
 msgid "Arkanoid I controller range (46-166)"
-msgstr ""
+msgstr "Arkanoid I 컨트롤러 범위 (46-166)"
 
 msgctxt "#30105"
 msgid "Arkanoid II controller range (32-153)"
-msgstr ""
+msgstr "Arkanoid II 컨트롤러 범위 (32-153)"
 
 msgctxt "#30106"
 msgid "Select the device you wish to use for the Zapper."
-msgstr ""
+msgstr "Zapper로 사용할 장치를 선택합니다."
 
 msgctxt "#30107"
 msgid "Light gun"
-msgstr ""
+msgstr "라이트 건"
 
 msgctxt "#30108"
 msgid "Set whether to show the crosshair when the Zapper is used."
-msgstr ""
+msgstr "Zapper를 사용할 때 십자선을 표시할 지 설정합니다."
 
 msgctxt "#30109"
 msgid "Set the turbo pulse speed for the Turbo B and Turbo A buttons."
-msgstr ""
+msgstr "터보 B 및 터보 A 버튼을 누를 때 입력을 반복할 속도를 설정합니다."
 
 msgctxt "#30110"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "에뮬레이션 핵"
 
 msgctxt "#30111"
 msgid "Change processor overclocking and emulation accuracy settings affecting low-level performance and compatibility."
-msgstr ""
+msgstr "성능과 호환성에 영향을 끼치는 프로세서 오버클러킹 및 에뮬레이션 정확도 설정 등을 변경합니다."
 
 msgctxt "#30112"
 msgid "Remove 8-sprites-per-scanline hardware limit."
-msgstr ""
+msgstr "원본 하드웨어의 스캔라인 당 스프라이트 8개 제한을 제거합니다."
 
 msgctxt "#30114"
 msgid "RAM values on power up. Some games rely on initial RAM values for random number generation as an example."
-msgstr ""
+msgstr "전원이 들어올 때 RAM의 값입니다. 일부 게임은 초기 RAM 값을 난수 생성에 활용하기도 합니다."
 
 msgctxt "#30115"
 msgid "Random"
-msgstr ""
+msgstr "무작위"
 
 msgctxt "#30116"
 msgid "0x00"
@@ -483,16 +483,68 @@ msgstr ""
 
 msgctxt "#30118"
 msgid "Audio Output Filter"
-msgstr ""
+msgstr "오디오 출력 필터"
 
 msgctxt "#30119"
 msgid "Approximate the analog stage that follows the DAC on real hardware, by applying a first order 220Hz high pass and a first order 14kHz low pass to the mixed output. This removes the DC offset the mixer sits on and rolls off the extreme treble."
+msgstr "실제 하드웨어의 DAC에서 발생하는 아날로그 변환 단계를 모방하여, 오디오 출력에 220Hz 하이패스 필터와 14kHz 1차 로우패스 필터를 적용합니다. 이 설정은 믹서에서 발생하는 DC 오프셋을 제거하고 고음역대 소리를 부드럽게 만들어줍니다."
+
+msgctxt "#30120"
+msgid "Favored System"
+msgstr "선호 시스템"
+
+msgctxt "#30121"
+msgid "System to prefer for images that do not say which one they want. Images that do say, and images found in the NstDatabase.xml database file, are unaffected. Only applies while 'Force System' is set to 'Auto'. Requires a restart."
+msgstr "특정 시스템을 요청하지 않는 이미지를 불러올 때 사용할 시스템입니다. 특정 시스템을 요청하거나, NstDatabase.xml 데이터베이스에 등록된 이미지의 경우 영향을 받지 않습니다. '시스템 강제 설정'이 '자동'으로 설정되어 있는 경우에만 적용됩니다. 재시작이 필요합니다."
+
+msgctxt "#30122"
+msgid "Force System"
+msgstr "시스템 강제 설정"
+
+msgctxt "#30123"
+msgid "Ignore the system the image asks for and use this one instead. Changing this setting will restart the game."
+msgstr "이미지의 특정 시스템 요청을 무시하고 선택된 시스템을 사용합니다. 이 설정을 변경하면 게임이 재시작됩니다."
+
+msgctxt "#30124"
+msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for region autodetection, defaulting to NTSC if there is no database present. 'Auto', 'NTSC' and 'PAL' give the picture its correct pixel aspect ratio, so it narrows as the overscan mask is raised. '4:3' and '5:4' are display aspect ratios, and fill that shape whatever is masked. 'Uncorrected' gives square pixels."
 msgstr ""
+
+msgctxt "#30125"
+msgid "4:3 (DAR)"
+msgstr ""
+
+msgctxt "#30126"
+msgid "5:4 (DAR)"
+msgstr ""
+
+msgctxt "#30127"
+msgid "DMC Pop Reducer"
+msgstr "DMC 팝 감쇄"
+
+msgctxt "#30128"
+msgid "Halve large direct writes to the DMC level, which are otherwise heard as clicks. Inaccurate, and quietens samples streamed through $4011 as large swings."
+msgstr "파열음의 원인이 되는 DMC 단에서의 직접 쓰기를 반으로 줄입니다. 부정확한 동작이며, $4011을 통해 스트리밍되는 긴 길이의 샘플들의 음량이 낮아집니다."
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "설정"
 
 #~ msgctxt "#30002"
-#~ msgid "Palette"
-#~ msgstr "팔레트"
+#~ msgid "FDS Auto Insert"
+#~ msgstr "FDS 자동 삽입"
+
+#~ msgctxt "#30023"
+#~ msgid "Audio output"
+#~ msgstr ""
+
+#~ msgctxt "#30031"
+#~ msgid "CPU Speed (Overclock)"
+#~ msgstr ""
+
+#~ msgctxt "#30094"
+#~ msgid "Specify whether the audio output should be mono or stereo."
+#~ msgstr ""
+
+#~ msgctxt "#30113"
+#~ msgid "Overclock the emulated CPU."
+#~ msgstr ""

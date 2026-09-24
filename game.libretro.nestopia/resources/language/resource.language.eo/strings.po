@@ -35,135 +35,135 @@ msgstr ""
 
 msgctxt "#30002"
 msgid "FDS Auto Insert"
-msgstr ""
+msgstr "Aŭtomate enigi FDS"
 
 msgctxt "#30003"
 msgid "Blargg NTSC Filter"
-msgstr ""
+msgstr "Filtrilo NTSC de Blargg"
 
 msgctxt "#30004"
 msgid "Palette"
-msgstr ""
+msgstr "Paletro"
 
 msgctxt "#30005"
 msgid "Mask Overscan (Top Vertical)"
-msgstr ""
+msgstr "Kaŝi superskanon (supre vertikale)"
 
 msgctxt "#30006"
 msgid "Mask Overscan (Bottom Vertical)"
-msgstr ""
+msgstr "Kaŝi superskanon (malsupre vertikale)"
 
 msgctxt "#30007"
 msgid "Mask Overscan (Left Horizontal)"
-msgstr ""
+msgstr "Kaŝi superskanon (maldekstre horizontale)"
 
 msgctxt "#30008"
 msgid "Mask Overscan (Right Horizontal)"
-msgstr ""
+msgstr "Kaŝi superskanon (dekstre horizontale)"
 
 msgctxt "#30009"
 msgid "Preferred Aspect Ratio"
-msgstr ""
+msgstr "Preferata bilda proporcio"
 
 msgctxt "#30010"
 msgid "Game Genie Sound Distortion"
-msgstr ""
+msgstr "Sona distordo de Game Genie"
 
 msgctxt "#30011"
 msgid "Show Advanced Audio Settings (Reopen menu)"
-msgstr ""
+msgstr "Montri altnivelajn sonajn agordojn (remalfermi menuon)"
 
 msgctxt "#30012"
 msgid "Square 1 Channel Volume %"
-msgstr ""
+msgstr "Volumeno de kanalo de kvadrataj ondoj 1 (%)"
 
 msgctxt "#30013"
 msgid "Square 2 Channel Volume %"
-msgstr ""
+msgstr "Volumeno de kanalo de kvadrataj ondoj 2 (%)"
 
 msgctxt "#30014"
 msgid "Triangle Channel Volume %"
-msgstr ""
+msgstr "Volumeno de kanalo de triangulaj ondoj (%)"
 
 msgctxt "#30015"
 msgid "Noise Channel Volume %"
-msgstr ""
+msgstr "Volumeno de brukanalo (%)"
 
 msgctxt "#30016"
 msgid "DPCM Channel Volume %"
-msgstr ""
+msgstr "Volumeno de DPCM-kanalo (%)"
 
 msgctxt "#30017"
 msgid "FDS Channel Volume %"
-msgstr ""
+msgstr "Volumeno de FDS-kanalo (%)"
 
 msgctxt "#30018"
 msgid "MMC5 Channel Volume %"
-msgstr ""
+msgstr "Volumeno de MMC5-kanalo (%)"
 
 msgctxt "#30019"
 msgid "VRC6 Channel Volume %"
-msgstr ""
+msgstr "Volumeno de VRC6-kanalo (%)"
 
 msgctxt "#30020"
 msgid "VRC7 Channel Volume %"
-msgstr ""
+msgstr "Volumeno de VRC7-kanalo (%)"
 
 msgctxt "#30021"
 msgid "N163 Channel Volume %"
-msgstr ""
+msgstr "Volumeno de N163-kanalo (%)"
 
 msgctxt "#30022"
 msgid "S5B Channel Volume %"
-msgstr ""
+msgstr "Volumeno de S5B-kanalo (%)"
 
 msgctxt "#30024"
 msgid "4 Player Adapter"
-msgstr ""
+msgstr "4-ludanta adaptilo"
 
 msgctxt "#30025"
 msgid "Shift Buttons Clockwise"
-msgstr ""
+msgstr "Ŝanĝi butonojn deksrumen"
 
 msgctxt "#30026"
 msgid "Arkanoid device"
-msgstr ""
+msgstr "Aparato por Arkanoid"
 
 msgctxt "#30027"
 msgid "Zapper device"
-msgstr ""
+msgstr "Aparato por Zapper"
 
 msgctxt "#30028"
 msgid "Show Crosshair"
-msgstr ""
+msgstr "Montri celilon"
 
 msgctxt "#30029"
 msgid "Turbo Pulse Speed"
-msgstr ""
+msgstr "Prema rapido de ada aktivigo"
 
 msgctxt "#30030"
 msgid "Remove Sprite Limit"
-msgstr ""
+msgstr "Forigi limon de \"sprites\""
 
 msgctxt "#30032"
 msgid "RAM Power-on State"
-msgstr ""
+msgstr "Ĉefmemora stato ĉe starto"
 
 msgctxt "#30033"
 msgid "Arkanoid Paddle Range"
-msgstr ""
+msgstr "Movdistanco de la \"paddle\" de Arkanoid"
 
 msgctxt "#30034"
 msgid "FDS Savefile Format"
-msgstr ""
+msgstr "Konservdosiera formato de FDS"
 
 msgctxt "#30035"
 msgid "System"
-msgstr ""
+msgstr "Sistemo"
 
 msgctxt "#30036"
 msgid "Change system region and other hardware-related settings."
-msgstr ""
+msgstr "Ŝanĝi sisteman regionon kaj aliajn agordojn rilatajn al aparataro."
 
 msgctxt "#30037"
 msgid "'Auto' will use the NstDatabase.xml database file for region autodetection. If there is no database present, it will default to NTSC."
@@ -171,7 +171,7 @@ msgstr ""
 
 msgctxt "#30038"
 msgid "Auto"
-msgstr ""
+msgstr "Aŭtomata"
 
 msgctxt "#30039"
 msgid "NTSC"
@@ -191,19 +191,19 @@ msgstr ""
 
 msgctxt "#30043"
 msgid "Automatically insert first FDS disk on reset."
-msgstr ""
+msgstr "Aŭtomate inserti unuan diskon de FDS ĉe restartigo."
 
 msgctxt "#30044"
 msgid "Define which format will be used by savefiles generated for FDS games. Based on the format chosen, FDS savefiles might be used interchangeably with other cores and standalone emulators. It is recommended to use with caution, as improper handling may cause undesired overwrites, or deletion of the existing saves."
-msgstr ""
+msgstr "Defini kian formaton estos uzata de konservdosieroj generitaj por ludoj de FDS. Bazite sur la formato elektita, konservdosieroj de FDS povus esti uzataj interŝanĝe kun aliaj kernoj kaj aŭtonomaj kernoj. Oni rekomendas uzi ĉi tion singarde, ĉar maltaŭga traktado povus kaŭzi nedeziratajn anstataŭigojn aŭ forigon de la ekzistantaj konservoj."
 
 msgctxt "#30045"
 msgid "SAV + UPS (Default)"
-msgstr ""
+msgstr "SAV + UPS (defaŭlta)"
 
 msgctxt "#30046"
 msgid "UPS (Standalone Nestopia)"
-msgstr ""
+msgstr "UPS (aŭtonoma Nestopia)"
 
 msgctxt "#30047"
 msgid "IPS (Mesen)"
@@ -215,15 +215,15 @@ msgstr ""
 
 msgctxt "#30049"
 msgid "Change aspect ratio, display cropping, color palette and video filter settings."
-msgstr ""
+msgstr "Ŝanĝi agordojn pri bilda proporcio, ekrana stucado, kolorpaletro kaj videfiltriloj."
 
 msgctxt "#30050"
 msgid "Enable Blargg NTSC filters."
-msgstr ""
+msgstr "Ebligi filtrilojn NTSC de Blargg."
 
 msgctxt "#30051"
 msgid "Composite Video"
-msgstr ""
+msgstr "Kunmetita video"
 
 msgctxt "#30052"
 msgid "S-Video"
@@ -235,11 +235,11 @@ msgstr ""
 
 msgctxt "#30054"
 msgid "Monochrome"
-msgstr ""
+msgstr "Unukolora"
 
 msgctxt "#30055"
 msgid "Color palette to be used. If 'Custom' is selected, the palette used will be taken from the 'custom.pal' file placed in the RetroArch System/BIOS directory."
-msgstr ""
+msgstr "Kolorpaletro uzota. Se \"Propra\" estas elektita, la paletro uzata estos prenita de la dosiero \"custom.pal\" metita en la Sistema/BIOS-a dosierujo de RetroArch."
 
 msgctxt "#30056"
 msgid "CXA2025AS (US)"
@@ -255,15 +255,15 @@ msgstr ""
 
 msgctxt "#30059"
 msgid "Consumer"
-msgstr ""
+msgstr "Por aĉetantoj"
 
 msgctxt "#30060"
 msgid "Canonical"
-msgstr ""
+msgstr "Kanonika"
 
 msgctxt "#30061"
 msgid "Alternative"
-msgstr ""
+msgstr "Alternativa"
 
 msgctxt "#30062"
 msgid "RGB"
@@ -271,55 +271,55 @@ msgstr ""
 
 msgctxt "#30063"
 msgid "Digital Prime FBX"
-msgstr ""
+msgstr "Digital Prime de FBX"
 
 msgctxt "#30064"
 msgid "Magnum FBX"
-msgstr ""
+msgstr "Magnum de FBX"
 
 msgctxt "#30065"
 msgid "Smooth V2 FBX"
-msgstr ""
+msgstr "Glata V2 de FBX"
 
 msgctxt "#30066"
 msgid "Composite Direct FBX"
-msgstr ""
+msgstr "Kunmetita rekta de FBX"
 
 msgctxt "#30067"
 msgid "PVM-style D93 FBX"
-msgstr ""
+msgstr "PVM-speca D93 de FBX"
 
 msgctxt "#30068"
 msgid "NTSC hardware FBX"
-msgstr ""
+msgstr "Aparataro NTSC de FBX"
 
 msgctxt "#30069"
 msgid "NES Classic FBx (fixed)"
-msgstr ""
+msgstr "NES Classic de FBX (korektita)"
 
 msgctxt "#30070"
 msgid "Restored Wii VC"
-msgstr ""
+msgstr "Restaŭrita virtuala konzolo de Wii"
 
 msgctxt "#30071"
 msgid "Wii Virtual Console"
-msgstr ""
+msgstr "Virtuala konzolo de Wii"
 
 msgctxt "#30072"
 msgid "Raw"
-msgstr ""
+msgstr "Kruda"
 
 msgctxt "#30073"
 msgid "Custom"
-msgstr ""
+msgstr "Propra"
 
 msgctxt "#30074"
 msgid "Mask out (vertically) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
-msgstr ""
+msgstr "Kaŝi (vertikale) la eblan hazardan missignalozan videan eligon, kiu estus kaŝita de la nigra rando ĉirkaŭ la eĝo de norme distingiva televidila ekrano."
 
 msgctxt "#30075"
 msgid "Mask out (horizontally) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
-msgstr ""
+msgstr "Kaŝi (horizontale) la eblan hazardan missignalozan videan eligon, kiu estus kaŝita de la nigra rando ĉirkaŭ la eĝo de norme distingiva televidila ekrano."
 
 msgctxt "#30076"
 msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for aspect ratio autodetection. If there is no database present, it will default to NTSC."
@@ -331,147 +331,147 @@ msgstr ""
 
 msgctxt "#30078"
 msgid "Uncorrected"
-msgstr ""
+msgstr "Nekorektita"
 
 msgctxt "#30079"
 msgid "Audio"
-msgstr ""
+msgstr "Sono"
 
 msgctxt "#30080"
 msgid "Change audio effects and channel volumes."
-msgstr ""
+msgstr "Ŝanĝi sonajn efikojn kaj kanalajn volumenojn."
 
 msgctxt "#30081"
 msgid "The Game Genie cheat device could inadvertently introduce sound distortion in games. By enabling this, you can simulate the distortion it would add to a game's sound."
-msgstr ""
+msgstr "La trompaparato Game Genie povus nevolonte enigi sonan distordon en ludoj. Por ebligi ĉi tion, oni povas imiti la distordon, kiun ĝi aldonus al luda sono."
 
 msgctxt "#30082"
 msgid "Enable configuration of low-level audio channel parameters."
-msgstr ""
+msgstr "Ebligi konfiguron de malaltnivelajn sonkanalajn parametrojn."
 
 msgctxt "#30083"
 msgid "Modify Square 1 Channel Volume %."
-msgstr ""
+msgstr "Modifi la volumenon de kvadrataj ondoj 1 (%)"
 
 msgctxt "#30084"
 msgid "Modify Square 2 Channel Volume %."
-msgstr ""
+msgstr "Modifi la volumenon de kvadrataj ondoj 2 (%)"
 
 msgctxt "#30085"
 msgid "Modify Triangle Channel Volume %."
-msgstr ""
+msgstr "Modifi la volumenon de triangulaj ondoj (%)."
 
 msgctxt "#30086"
 msgid "Modify Noise Channel Volume %."
-msgstr ""
+msgstr "Modifi la volumenon de brukanalo (%)."
 
 msgctxt "#30087"
 msgid "Modify DPCM Channel Volume %."
-msgstr ""
+msgstr "Modifi la volumenon de DPCM-kanalo (%)."
 
 msgctxt "#30088"
 msgid "Modify FDS Channel Volume %."
-msgstr ""
+msgstr "Modifi la volumenon de FDS-kanalo (%)"
 
 msgctxt "#30089"
 msgid "Modify MMC5 Channel Volume %."
-msgstr ""
+msgstr "Modifi la volumenon de MMC5-kanalo (%)"
 
 msgctxt "#30090"
 msgid "Modify VRC6 Channel Volume %."
-msgstr ""
+msgstr "Modifi la volumenon de VRC6-kanalo (%)"
 
 msgctxt "#30091"
 msgid "Modify VRC7 Channel Volume %."
-msgstr ""
+msgstr "Modifi la volumenon de VRC7-kanalo (%)"
 
 msgctxt "#30092"
 msgid "Modify N163 Channel Volume %."
-msgstr ""
+msgstr "Modifi la volumenon de N163-kanalo (%)."
 
 msgctxt "#30093"
 msgid "Modify S5B Channel Volume %."
-msgstr ""
+msgstr "Modifi la volumenon de S5B-kanalo (%)."
 
 msgctxt "#30095"
 msgid "Input"
-msgstr ""
+msgstr "Enigo"
 
 msgctxt "#30096"
 msgid "Change input devices and other input related settings."
-msgstr ""
+msgstr "Ŝanĝi enigaparatojn kaj aliajn agordojn rilatajn al enigo."
 
 msgctxt "#30097"
 msgid "Manually select a 4 Player Adapter if needed. Some games will not recognize the adapter correctly through the NstDatabase.xml database, this option should help fix that."
-msgstr ""
+msgstr "Permane elekti 4-ludanta adaptilo se bezonite. Kelkaj ludoj ne rekonos la adaptilon ĝuste per la datumbazo NstDatabase.xml, ĉi tiu opcio devus helpi repari tion."
 
 msgctxt "#30098"
 msgid "Rotate the A/B/X/Y buttons clockwise."
-msgstr ""
+msgstr "Turni la butonojn A/B/X/Y destrumen."
 
 msgctxt "#30099"
 msgid "Select the device you wish to use for the Arkanoid paddle."
-msgstr ""
+msgstr "Elekti la aparaton, kiun vi volas uzi, por la \"paddle\" de Arkanoid."
 
 msgctxt "#30100"
 msgid "Mouse"
-msgstr ""
+msgstr "Muso"
 
 msgctxt "#30101"
 msgid "Pointer"
-msgstr ""
+msgstr "Indikilo"
 
 msgctxt "#30102"
 msgid "Set the range for the Arkanoid paddle."
-msgstr ""
+msgstr "Agordi la distancon, ĝis kiu la \"paddle\" de Arkanoid povas moviĝi."
 
 msgctxt "#30103"
 msgid "Combined range of both controllers (32-166)"
-msgstr ""
+msgstr "Kombinita movdistanco de ambaŭ regiloj (32-166)"
 
 msgctxt "#30104"
 msgid "Arkanoid I controller range (46-166)"
-msgstr ""
+msgstr "Movdistanco de regilo I de Arkanoid (46-166)"
 
 msgctxt "#30105"
 msgid "Arkanoid II controller range (32-153)"
-msgstr ""
+msgstr "Movdistanco de regilo II de Arkanoid (32-153)"
 
 msgctxt "#30106"
 msgid "Select the device you wish to use for the Zapper."
-msgstr ""
+msgstr "Elekti la aparaton, kiun vi volas uzi por la Zapper."
 
 msgctxt "#30107"
 msgid "Light gun"
-msgstr ""
+msgstr "\"Light gun\""
 
 msgctxt "#30108"
 msgid "Set whether to show the crosshair when the Zapper is used."
-msgstr ""
+msgstr "Agordi, ĉu montri la celilon kiam Zapper estas uzata, ĉu ne."
 
 msgctxt "#30109"
 msgid "Set the turbo pulse speed for the Turbo B and Turbo A buttons."
-msgstr ""
+msgstr "Agordi la preman rapidon de ada aktivigo por la butonoj Turbo B kaj Turbo A."
 
 msgctxt "#30110"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Imitadaj kodumoj"
 
 msgctxt "#30111"
 msgid "Change processor overclocking and emulation accuracy settings affecting low-level performance and compatibility."
-msgstr ""
+msgstr "Ŝanĝi agordojn pri procesora trorapidigo kaj imitada precizeco influantajn malaltnivelan rendimenton kaj kongruecon."
 
 msgctxt "#30112"
 msgid "Remove 8-sprites-per-scanline hardware limit."
-msgstr ""
+msgstr "Forigas la aparataran limon de 8 \"sprites\" per skanlinio."
 
 msgctxt "#30114"
 msgid "RAM values on power up. Some games rely on initial RAM values for random number generation as an example."
-msgstr ""
+msgstr "Ĉefmemoraj valoroj ĉe starto. Kelkaj ludoj dependas de komencaj ĉefmemoraj valoroj, ekzemple, por hazarda nombra generado."
 
 msgctxt "#30115"
 msgid "Random"
-msgstr ""
+msgstr "Hazarda"
 
 msgctxt "#30116"
 msgid "0x00"
@@ -489,6 +489,58 @@ msgctxt "#30119"
 msgid "Approximate the analog stage that follows the DAC on real hardware, by applying a first order 220Hz high pass and a first order 14kHz low pass to the mixed output. This removes the DC offset the mixer sits on and rolls off the extreme treble."
 msgstr ""
 
+msgctxt "#30120"
+msgid "Favored System"
+msgstr ""
+
+msgctxt "#30121"
+msgid "System to prefer for images that do not say which one they want. Images that do say, and images found in the NstDatabase.xml database file, are unaffected. Only applies while 'Force System' is set to 'Auto'. Requires a restart."
+msgstr ""
+
+msgctxt "#30122"
+msgid "Force System"
+msgstr ""
+
+msgctxt "#30123"
+msgid "Ignore the system the image asks for and use this one instead. Changing this setting will restart the game."
+msgstr ""
+
+msgctxt "#30124"
+msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for region autodetection, defaulting to NTSC if there is no database present. 'Auto', 'NTSC' and 'PAL' give the picture its correct pixel aspect ratio, so it narrows as the overscan mask is raised. '4:3' and '5:4' are display aspect ratios, and fill that shape whatever is masked. 'Uncorrected' gives square pixels."
+msgstr ""
+
+msgctxt "#30125"
+msgid "4:3 (DAR)"
+msgstr ""
+
+msgctxt "#30126"
+msgid "5:4 (DAR)"
+msgstr ""
+
+msgctxt "#30127"
+msgid "DMC Pop Reducer"
+msgstr ""
+
+msgctxt "#30128"
+msgid "Halve large direct writes to the DMC level, which are otherwise heard as clicks. Inaccurate, and quietens samples streamed through $4011 as large swings."
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Agordoj"
+
+#~ msgctxt "#30023"
+#~ msgid "Audio output"
+#~ msgstr ""
+
+#~ msgctxt "#30031"
+#~ msgid "CPU Speed (Overclock)"
+#~ msgstr ""
+
+#~ msgctxt "#30094"
+#~ msgid "Specify whether the audio output should be mono or stereo."
+#~ msgstr ""
+
+#~ msgctxt "#30113"
+#~ msgid "Overclock the emulated CPU."
+#~ msgstr ""

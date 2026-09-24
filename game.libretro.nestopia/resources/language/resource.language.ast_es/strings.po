@@ -43,7 +43,7 @@ msgstr ""
 
 msgctxt "#30004"
 msgid "Palette"
-msgstr ""
+msgstr "Paleta"
 
 msgctxt "#30005"
 msgid "Mask Overscan (Top Vertical)"
@@ -87,7 +87,7 @@ msgstr ""
 
 msgctxt "#30015"
 msgid "Noise Channel Volume %"
-msgstr ""
+msgstr "Volume de la canal de ruíu (%)"
 
 msgctxt "#30016"
 msgid "DPCM Channel Volume %"
@@ -95,31 +95,31 @@ msgstr ""
 
 msgctxt "#30017"
 msgid "FDS Channel Volume %"
-msgstr ""
+msgstr "Volume de la canal FDS (%)"
 
 msgctxt "#30018"
 msgid "MMC5 Channel Volume %"
-msgstr ""
+msgstr "Volume de la canal MMC5 (%)"
 
 msgctxt "#30019"
 msgid "VRC6 Channel Volume %"
-msgstr ""
+msgstr "Volume de la canal VRC6 (%)"
 
 msgctxt "#30020"
 msgid "VRC7 Channel Volume %"
-msgstr ""
+msgstr "Volume de la canal VRC7 (%)"
 
 msgctxt "#30021"
 msgid "N163 Channel Volume %"
-msgstr ""
+msgstr "Volume de la canal N163 (%)"
 
 msgctxt "#30022"
 msgid "S5B Channel Volume %"
-msgstr ""
+msgstr "Volume de la canal S5B (%)"
 
 msgctxt "#30024"
 msgid "4 Player Adapter"
-msgstr ""
+msgstr "Adautador pa 4 xugadores"
 
 msgctxt "#30025"
 msgid "Shift Buttons Clockwise"
@@ -131,7 +131,7 @@ msgstr ""
 
 msgctxt "#30027"
 msgid "Zapper device"
-msgstr ""
+msgstr "Preséu Zapper"
 
 msgctxt "#30028"
 msgid "Show Crosshair"
@@ -159,7 +159,7 @@ msgstr ""
 
 msgctxt "#30035"
 msgid "System"
-msgstr ""
+msgstr "Sistema"
 
 msgctxt "#30036"
 msgid "Change system region and other hardware-related settings."
@@ -211,7 +211,7 @@ msgstr ""
 
 msgctxt "#30048"
 msgid "Video"
-msgstr ""
+msgstr "Videu"
 
 msgctxt "#30049"
 msgid "Change aspect ratio, display cropping, color palette and video filter settings."
@@ -303,11 +303,11 @@ msgstr ""
 
 msgctxt "#30071"
 msgid "Wii Virtual Console"
-msgstr ""
+msgstr "Consola Virtual de Wii"
 
 msgctxt "#30072"
 msgid "Raw"
-msgstr ""
+msgstr "En bruto"
 
 msgctxt "#30073"
 msgid "Custom"
@@ -335,7 +335,7 @@ msgstr ""
 
 msgctxt "#30079"
 msgid "Audio"
-msgstr ""
+msgstr "Audiu"
 
 msgctxt "#30080"
 msgid "Change audio effects and channel volumes."
@@ -363,7 +363,7 @@ msgstr ""
 
 msgctxt "#30086"
 msgid "Modify Noise Channel Volume %."
-msgstr ""
+msgstr "Modifica'l volume de la canal de ruíu (%)."
 
 msgctxt "#30087"
 msgid "Modify DPCM Channel Volume %."
@@ -371,23 +371,23 @@ msgstr ""
 
 msgctxt "#30088"
 msgid "Modify FDS Channel Volume %."
-msgstr ""
+msgstr "Modifica'l volume de la canal FDS (%)."
 
 msgctxt "#30089"
 msgid "Modify MMC5 Channel Volume %."
-msgstr ""
+msgstr "Modifica'l volume de la canal MMC5 (%)."
 
 msgctxt "#30090"
 msgid "Modify VRC6 Channel Volume %."
-msgstr ""
+msgstr "Modifica'l volume de la canal VCR6 (%)."
 
 msgctxt "#30091"
 msgid "Modify VRC7 Channel Volume %."
-msgstr ""
+msgstr "Modifica'l volume de la canal VRC7 (%)."
 
 msgctxt "#30092"
 msgid "Modify N163 Channel Volume %."
-msgstr ""
+msgstr "Modifica'l volume de la canal N163 (%)."
 
 msgctxt "#30093"
 msgid "Modify S5B Channel Volume %."
@@ -395,7 +395,7 @@ msgstr ""
 
 msgctxt "#30095"
 msgid "Input"
-msgstr ""
+msgstr "Controles"
 
 msgctxt "#30096"
 msgid "Change input devices and other input related settings."
@@ -415,11 +415,11 @@ msgstr ""
 
 msgctxt "#30100"
 msgid "Mouse"
-msgstr ""
+msgstr "Mur"
 
 msgctxt "#30101"
 msgid "Pointer"
-msgstr ""
+msgstr "Punteru"
 
 msgctxt "#30102"
 msgid "Set the range for the Arkanoid paddle."
@@ -439,7 +439,7 @@ msgstr ""
 
 msgctxt "#30106"
 msgid "Select the device you wish to use for the Zapper."
-msgstr ""
+msgstr "Seleiciona'l preséu que quies usar pal Zapper."
 
 msgctxt "#30107"
 msgid "Light gun"
@@ -455,7 +455,7 @@ msgstr ""
 
 msgctxt "#30110"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Hacks de la emulación"
 
 msgctxt "#30111"
 msgid "Change processor overclocking and emulation accuracy settings affecting low-level performance and compatibility."
@@ -489,10 +489,62 @@ msgctxt "#30119"
 msgid "Approximate the analog stage that follows the DAC on real hardware, by applying a first order 220Hz high pass and a first order 14kHz low pass to the mixed output. This removes the DC offset the mixer sits on and rolls off the extreme treble."
 msgstr ""
 
+msgctxt "#30120"
+msgid "Favored System"
+msgstr ""
+
+msgctxt "#30121"
+msgid "System to prefer for images that do not say which one they want. Images that do say, and images found in the NstDatabase.xml database file, are unaffected. Only applies while 'Force System' is set to 'Auto'. Requires a restart."
+msgstr ""
+
+msgctxt "#30122"
+msgid "Force System"
+msgstr ""
+
+msgctxt "#30123"
+msgid "Ignore the system the image asks for and use this one instead. Changing this setting will restart the game."
+msgstr ""
+
+msgctxt "#30124"
+msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for region autodetection, defaulting to NTSC if there is no database present. 'Auto', 'NTSC' and 'PAL' give the picture its correct pixel aspect ratio, so it narrows as the overscan mask is raised. '4:3' and '5:4' are display aspect ratios, and fill that shape whatever is masked. 'Uncorrected' gives square pixels."
+msgstr ""
+
+msgctxt "#30125"
+msgid "4:3 (DAR)"
+msgstr ""
+
+msgctxt "#30126"
+msgid "5:4 (DAR)"
+msgstr ""
+
+msgctxt "#30127"
+msgid "DMC Pop Reducer"
+msgstr ""
+
+msgctxt "#30128"
+msgid "Halve large direct writes to the DMC level, which are otherwise heard as clicks. Inaccurate, and quietens samples streamed through $4011 as large swings."
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Axustes"
 
 #~ msgctxt "#30011"
-#~ msgid "System Region"
+#~ msgid "Show Advanced Audio Settings (Reopen menu)"
 #~ msgstr "Rexón del sistema"
+
+#~ msgctxt "#30023"
+#~ msgid "Audio output"
+#~ msgstr ""
+
+#~ msgctxt "#30031"
+#~ msgid "CPU Speed (Overclock)"
+#~ msgstr ""
+
+#~ msgctxt "#30094"
+#~ msgid "Specify whether the audio output should be mono or stereo."
+#~ msgstr ""
+
+#~ msgctxt "#30113"
+#~ msgid "Overclock the emulated CPU."
+#~ msgstr ""

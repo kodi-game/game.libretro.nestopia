@@ -35,11 +35,11 @@ msgstr ""
 
 msgctxt "#30002"
 msgid "FDS Auto Insert"
-msgstr ""
+msgstr "Insertion automatique du FDS"
 
 msgctxt "#30003"
 msgid "Blargg NTSC Filter"
-msgstr ""
+msgstr "Filtre NTSC de Blargg"
 
 msgctxt "#30004"
 msgid "Palette"
@@ -47,123 +47,123 @@ msgstr ""
 
 msgctxt "#30005"
 msgid "Mask Overscan (Top Vertical)"
-msgstr ""
+msgstr "Masquer le surbalayage (vertical haut)"
 
 msgctxt "#30006"
 msgid "Mask Overscan (Bottom Vertical)"
-msgstr ""
+msgstr "Masquer le surbalayage (vertical bas)"
 
 msgctxt "#30007"
 msgid "Mask Overscan (Left Horizontal)"
-msgstr ""
+msgstr "Masquer le surbalayage (horizontal gauche)"
 
 msgctxt "#30008"
 msgid "Mask Overscan (Right Horizontal)"
-msgstr ""
+msgstr "Masquer le surbalayage (horizontal droite)"
 
 msgctxt "#30009"
 msgid "Preferred Aspect Ratio"
-msgstr ""
+msgstr "Rapport d'aspect préféré"
 
 msgctxt "#30010"
 msgid "Game Genie Sound Distortion"
-msgstr ""
+msgstr "Distorsion sonore du Game Genie"
 
 msgctxt "#30011"
 msgid "Show Advanced Audio Settings (Reopen menu)"
-msgstr ""
+msgstr "Afficher les paramètres audio avancés (Réouvrir le menu)"
 
 msgctxt "#30012"
 msgid "Square 1 Channel Volume %"
-msgstr ""
+msgstr "Volume du canal carré 1 (%)"
 
 msgctxt "#30013"
 msgid "Square 2 Channel Volume %"
-msgstr ""
+msgstr "Volume du canal carré 2 (%)"
 
 msgctxt "#30014"
 msgid "Triangle Channel Volume %"
-msgstr ""
+msgstr "Volume du canal triangle (%)"
 
 msgctxt "#30015"
 msgid "Noise Channel Volume %"
-msgstr ""
+msgstr "Volume du canal de bruit (%)"
 
 msgctxt "#30016"
 msgid "DPCM Channel Volume %"
-msgstr ""
+msgstr "Volume du canal DPCM (%)"
 
 msgctxt "#30017"
 msgid "FDS Channel Volume %"
-msgstr ""
+msgstr "Volume du canal FDS (%)"
 
 msgctxt "#30018"
 msgid "MMC5 Channel Volume %"
-msgstr ""
+msgstr "Volume du canal MMC5 (%)"
 
 msgctxt "#30019"
 msgid "VRC6 Channel Volume %"
-msgstr ""
+msgstr "Volume du canal VRC6 (%)"
 
 msgctxt "#30020"
 msgid "VRC7 Channel Volume %"
-msgstr ""
+msgstr "Volume du canal VRC7 (%)"
 
 msgctxt "#30021"
 msgid "N163 Channel Volume %"
-msgstr ""
+msgstr "Volume du canal N163 (%)"
 
 msgctxt "#30022"
 msgid "S5B Channel Volume %"
-msgstr ""
+msgstr "Volume du canal S5B (%)"
 
 msgctxt "#30024"
 msgid "4 Player Adapter"
-msgstr ""
+msgstr "Adaptateur 4 joueurs"
 
 msgctxt "#30025"
 msgid "Shift Buttons Clockwise"
-msgstr ""
+msgstr "Touches décalées dans le sens horaire"
 
 msgctxt "#30026"
 msgid "Arkanoid device"
-msgstr ""
+msgstr "Appareil Arkanoid"
 
 msgctxt "#30027"
 msgid "Zapper device"
-msgstr ""
+msgstr "Périphérique Zapper"
 
 msgctxt "#30028"
 msgid "Show Crosshair"
-msgstr ""
+msgstr "Afficher le viseur"
 
 msgctxt "#30029"
 msgid "Turbo Pulse Speed"
-msgstr ""
+msgstr "Vitesse d'impulsion du turbo"
 
 msgctxt "#30030"
 msgid "Remove Sprite Limit"
-msgstr ""
+msgstr "Supprimer la limite de sprites"
 
 msgctxt "#30032"
 msgid "RAM Power-on State"
-msgstr ""
+msgstr "État de la RAM à la mise sous tension"
 
 msgctxt "#30033"
 msgid "Arkanoid Paddle Range"
-msgstr ""
+msgstr "Portée de la raquette d'Arkanoid"
 
 msgctxt "#30034"
 msgid "FDS Savefile Format"
-msgstr ""
+msgstr "Format de fichier de sauvegarde des FDS"
 
 msgctxt "#30035"
 msgid "System"
-msgstr ""
+msgstr "Système"
 
 msgctxt "#30036"
 msgid "Change system region and other hardware-related settings."
-msgstr ""
+msgstr "Modifier la région du système et d'autres réglages liés au matériel."
 
 msgctxt "#30037"
 msgid "'Auto' will use the NstDatabase.xml database file for region autodetection. If there is no database present, it will default to NTSC."
@@ -191,19 +191,19 @@ msgstr ""
 
 msgctxt "#30043"
 msgid "Automatically insert first FDS disk on reset."
-msgstr ""
+msgstr "Insérer automatiquement le premier disque FDS à la réinitialisation."
 
 msgctxt "#30044"
 msgid "Define which format will be used by savefiles generated for FDS games. Based on the format chosen, FDS savefiles might be used interchangeably with other cores and standalone emulators. It is recommended to use with caution, as improper handling may cause undesired overwrites, or deletion of the existing saves."
-msgstr ""
+msgstr "Définir quel format sera utilisé par les fichiers de sauvegarde générés pour les jeux FDS. Selon le format choisi, les fichiers de sauvegarde FDS peuvent être utilisés de manière interchangeable avec d'autres cœurs et émulateurs autonomes. Il est recommandé d'utiliser cette option avec précaution, car une manipulation incorrecte peut causer des remplacements indésirables ou supprimer les sauvegardes existantes."
 
 msgctxt "#30045"
 msgid "SAV + UPS (Default)"
-msgstr ""
+msgstr "SAV + UPS (par défaut)"
 
 msgctxt "#30046"
 msgid "UPS (Standalone Nestopia)"
-msgstr ""
+msgstr "UPS (Nestopia autonome)"
 
 msgctxt "#30047"
 msgid "IPS (Mesen)"
@@ -211,19 +211,19 @@ msgstr ""
 
 msgctxt "#30048"
 msgid "Video"
-msgstr ""
+msgstr "Vidéo"
 
 msgctxt "#30049"
 msgid "Change aspect ratio, display cropping, color palette and video filter settings."
-msgstr ""
+msgstr "Modifier les réglages du rapport d'aspect, du recadrage de l'affichage, de la palette de couleurs et du filtre vidéo."
 
 msgctxt "#30050"
 msgid "Enable Blargg NTSC filters."
-msgstr ""
+msgstr "Activer les filtres NTSC de Blargg."
 
 msgctxt "#30051"
 msgid "Composite Video"
-msgstr ""
+msgstr "Vidéo composite"
 
 msgctxt "#30052"
 msgid "S-Video"
@@ -231,7 +231,7 @@ msgstr ""
 
 msgctxt "#30053"
 msgid "RGB SCART"
-msgstr ""
+msgstr "Péritel RVB (SCART)"
 
 msgctxt "#30054"
 msgid "Monochrome"
@@ -239,7 +239,7 @@ msgstr ""
 
 msgctxt "#30055"
 msgid "Color palette to be used. If 'Custom' is selected, the palette used will be taken from the 'custom.pal' file placed in the RetroArch System/BIOS directory."
-msgstr ""
+msgstr "Palette de couleurs à utiliser. Si 'Personnalisée' est sélectionné, la palette utilisée sera prise à partir du fichier 'custom.pal' placé dans le dossier System/BIOS de RetroArch."
 
 msgctxt "#30056"
 msgid "CXA2025AS (US)"
@@ -255,11 +255,11 @@ msgstr ""
 
 msgctxt "#30059"
 msgid "Consumer"
-msgstr ""
+msgstr "Consommateur"
 
 msgctxt "#30060"
 msgid "Canonical"
-msgstr ""
+msgstr "Canonique"
 
 msgctxt "#30061"
 msgid "Alternative"
@@ -267,59 +267,59 @@ msgstr ""
 
 msgctxt "#30062"
 msgid "RGB"
-msgstr ""
+msgstr "RVB"
 
 msgctxt "#30063"
 msgid "Digital Prime FBX"
-msgstr ""
+msgstr "FBX Digital Prime"
 
 msgctxt "#30064"
 msgid "Magnum FBX"
-msgstr ""
+msgstr "FBX Magnum"
 
 msgctxt "#30065"
 msgid "Smooth V2 FBX"
-msgstr ""
+msgstr "FBX lisse V2"
 
 msgctxt "#30066"
 msgid "Composite Direct FBX"
-msgstr ""
+msgstr "FBX composite direct"
 
 msgctxt "#30067"
 msgid "PVM-style D93 FBX"
-msgstr ""
+msgstr "FBX style PVM D93"
 
 msgctxt "#30068"
 msgid "NTSC hardware FBX"
-msgstr ""
+msgstr "FBX matériel NTSC"
 
 msgctxt "#30069"
 msgid "NES Classic FBx (fixed)"
-msgstr ""
+msgstr "FBx NES Classic (corrigée)"
 
 msgctxt "#30070"
 msgid "Restored Wii VC"
-msgstr ""
+msgstr "Console virtuelle Wii restaurée"
 
 msgctxt "#30071"
 msgid "Wii Virtual Console"
-msgstr ""
+msgstr "Console virtuelle Wii"
 
 msgctxt "#30072"
 msgid "Raw"
-msgstr ""
+msgstr "Données brutes"
 
 msgctxt "#30073"
 msgid "Custom"
-msgstr ""
+msgstr "Personnalisée"
 
 msgctxt "#30074"
 msgid "Mask out (vertically) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
-msgstr ""
+msgstr "Masquer (verticalement) la sortie vidéo potentiellement buggée et aléatoire qui aurait été cachée par le biseau autour du bord d'un écran de télévision définition standard."
 
 msgctxt "#30075"
 msgid "Mask out (horizontally) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
-msgstr ""
+msgstr "Masquer (horizontalement) la sortie vidéo potentiellement buggée et aléatoire qui aurait été cachée par le biseau autour du bord d'un écran de télévision définition standard."
 
 msgctxt "#30076"
 msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for aspect ratio autodetection. If there is no database present, it will default to NTSC."
@@ -331,7 +331,7 @@ msgstr ""
 
 msgctxt "#30078"
 msgid "Uncorrected"
-msgstr ""
+msgstr "Non corrigé"
 
 msgctxt "#30079"
 msgid "Audio"
@@ -339,139 +339,139 @@ msgstr ""
 
 msgctxt "#30080"
 msgid "Change audio effects and channel volumes."
-msgstr ""
+msgstr "Modifier les effets audio et le volume des canaux."
 
 msgctxt "#30081"
 msgid "The Game Genie cheat device could inadvertently introduce sound distortion in games. By enabling this, you can simulate the distortion it would add to a game's sound."
-msgstr ""
+msgstr "Le module de cheat Game Genie pouvait introduire par inadvertance une distorsion du son dans les jeux. En activant ceci, vous pouvez simuler la distorsion qu'il ajouterait au son d'un jeu."
 
 msgctxt "#30082"
 msgid "Enable configuration of low-level audio channel parameters."
-msgstr ""
+msgstr "Activer la configuration des paramètres des canaux audio de bas niveau."
 
 msgctxt "#30083"
 msgid "Modify Square 1 Channel Volume %."
-msgstr ""
+msgstr "Modifier le volume du canal carré 1 (%)."
 
 msgctxt "#30084"
 msgid "Modify Square 2 Channel Volume %."
-msgstr ""
+msgstr "Modifier le volume du canal carré 2 (%)."
 
 msgctxt "#30085"
 msgid "Modify Triangle Channel Volume %."
-msgstr ""
+msgstr "Modifier le volume du canal triangle (%)."
 
 msgctxt "#30086"
 msgid "Modify Noise Channel Volume %."
-msgstr ""
+msgstr "Modifier le volume du canal de bruit (%)."
 
 msgctxt "#30087"
 msgid "Modify DPCM Channel Volume %."
-msgstr ""
+msgstr "Modifier le volume du canal DPCM (%)."
 
 msgctxt "#30088"
 msgid "Modify FDS Channel Volume %."
-msgstr ""
+msgstr "Modifier le volume du canal FDS (%)."
 
 msgctxt "#30089"
 msgid "Modify MMC5 Channel Volume %."
-msgstr ""
+msgstr "Modifier le volume du canal MMC5 (%)."
 
 msgctxt "#30090"
 msgid "Modify VRC6 Channel Volume %."
-msgstr ""
+msgstr "Modifier le volume du canal VRC6 (%)."
 
 msgctxt "#30091"
 msgid "Modify VRC7 Channel Volume %."
-msgstr ""
+msgstr "Modifier le volume du canal VRC7 (%)."
 
 msgctxt "#30092"
 msgid "Modify N163 Channel Volume %."
-msgstr ""
+msgstr "Modifier le volume du canal N163 (%)."
 
 msgctxt "#30093"
 msgid "Modify S5B Channel Volume %."
-msgstr ""
+msgstr "Modifier le volume du canal S5B (%)."
 
 msgctxt "#30095"
 msgid "Input"
-msgstr ""
+msgstr "Entrées"
 
 msgctxt "#30096"
 msgid "Change input devices and other input related settings."
-msgstr ""
+msgstr "Modifier les périphériques d'entrée et les autres réglages liés aux entrées."
 
 msgctxt "#30097"
 msgid "Manually select a 4 Player Adapter if needed. Some games will not recognize the adapter correctly through the NstDatabase.xml database, this option should help fix that."
-msgstr ""
+msgstr "Sélectionner manuellement un adaptateur 4 joueurs si nécessaire. Certains jeux ne reconnaîtront pas correctement l'adaptateur à partir de la base de données NstDatabase.xml, cette option devrait aider à corriger cela."
 
 msgctxt "#30098"
 msgid "Rotate the A/B/X/Y buttons clockwise."
-msgstr ""
+msgstr "Décaler les touches A/B/X/Y dans le sens horaire."
 
 msgctxt "#30099"
 msgid "Select the device you wish to use for the Arkanoid paddle."
-msgstr ""
+msgstr "Sélectionnez le périphérique que vous souhaitez utiliser pour la raquette Arkanoid."
 
 msgctxt "#30100"
 msgid "Mouse"
-msgstr ""
+msgstr "Souris"
 
 msgctxt "#30101"
 msgid "Pointer"
-msgstr ""
+msgstr "Pointeur"
 
 msgctxt "#30102"
 msgid "Set the range for the Arkanoid paddle."
-msgstr ""
+msgstr "Définit la plage pour la raquette d'Arkanoid."
 
 msgctxt "#30103"
 msgid "Combined range of both controllers (32-166)"
-msgstr ""
+msgstr "Plage combinée des deux manettes (32-166)"
 
 msgctxt "#30104"
 msgid "Arkanoid I controller range (46-166)"
-msgstr ""
+msgstr "Plage de manette Arkanoid I (46-166)"
 
 msgctxt "#30105"
 msgid "Arkanoid II controller range (32-153)"
-msgstr ""
+msgstr "Plage de manette Arkanoid II (32-153)"
 
 msgctxt "#30106"
 msgid "Select the device you wish to use for the Zapper."
-msgstr ""
+msgstr "Sélectionnez le périphérique que vous souhaitez utiliser pour le Zapper."
 
 msgctxt "#30107"
 msgid "Light gun"
-msgstr ""
+msgstr "Pistolet"
 
 msgctxt "#30108"
 msgid "Set whether to show the crosshair when the Zapper is used."
-msgstr ""
+msgstr "Définir s'il faut afficher ou non le viseur lors de l'utilisation du Zapper."
 
 msgctxt "#30109"
 msgid "Set the turbo pulse speed for the Turbo B and Turbo A buttons."
-msgstr ""
+msgstr "Régler la vitesse d'impulsion du turbo pour les touches Turbo B et Turbo A."
 
 msgctxt "#30110"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Hacks d'émulation"
 
 msgctxt "#30111"
 msgid "Change processor overclocking and emulation accuracy settings affecting low-level performance and compatibility."
-msgstr ""
+msgstr "Modifier les réglages d'overclocking du processeur et de la précision d'émulation qui affectent les performances de bas niveau et la compatibilité."
 
 msgctxt "#30112"
 msgid "Remove 8-sprites-per-scanline hardware limit."
-msgstr ""
+msgstr "Supprimer la limite matérielle de 8 sprites par ligne de balayage."
 
 msgctxt "#30114"
 msgid "RAM values on power up. Some games rely on initial RAM values for random number generation as an example."
-msgstr ""
+msgstr "Les valeurs dans la RAM lors de la mise sous tension. Certains jeux dépendent des valeurs initiales dans la RAM pour la génération de nombres aléatoires par exemple."
 
 msgctxt "#30115"
 msgid "Random"
-msgstr ""
+msgstr "Aléatoire"
 
 msgctxt "#30116"
 msgid "0x00"
@@ -483,12 +483,64 @@ msgstr ""
 
 msgctxt "#30118"
 msgid "Audio Output Filter"
-msgstr ""
+msgstr "Filtre de sortie audio"
 
 msgctxt "#30119"
 msgid "Approximate the analog stage that follows the DAC on real hardware, by applying a first order 220Hz high pass and a first order 14kHz low pass to the mixed output. This removes the DC offset the mixer sits on and rolls off the extreme treble."
+msgstr "Simuler l'étape analogique suivant le convertisseur numérique-analogique sur le matériel original, en appliquant un filtre passe-haut du premier ordre à 220 Hz et un filtre passe-bas du premier ordre à 14 kHz à la sortie mixée. Cela supprime la composante continue du mélangeur et atténue les aigus extrêmes."
+
+msgctxt "#30120"
+msgid "Favored System"
+msgstr "Système favori"
+
+msgctxt "#30121"
+msgid "System to prefer for images that do not say which one they want. Images that do say, and images found in the NstDatabase.xml database file, are unaffected. Only applies while 'Force System' is set to 'Auto'. Requires a restart."
+msgstr "Système à privilégier pour les images dont le choix n'est pas spécifié. Les images pour lesquelles un choix est indiqué, ainsi que celles présentes dans le fichier de base de données NstDatabase.xml, ne sont pas affectées. Ne s'applique que lorsque l'option 'Forcer le système' est réglée sur 'Auto'. Redémarrage requis."
+
+msgctxt "#30122"
+msgid "Force System"
+msgstr "Forcer le système"
+
+msgctxt "#30123"
+msgid "Ignore the system the image asks for and use this one instead. Changing this setting will restart the game."
+msgstr "Ignorer le système demandé par l'image et utiliser plutôt celui-ci. Modifier ce réglage relancera le jeu."
+
+msgctxt "#30124"
+msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for region autodetection, defaulting to NTSC if there is no database present. 'Auto', 'NTSC' and 'PAL' give the picture its correct pixel aspect ratio, so it narrows as the overscan mask is raised. '4:3' and '5:4' are display aspect ratios, and fill that shape whatever is masked. 'Uncorrected' gives square pixels."
 msgstr ""
+
+msgctxt "#30125"
+msgid "4:3 (DAR)"
+msgstr ""
+
+msgctxt "#30126"
+msgid "5:4 (DAR)"
+msgstr ""
+
+msgctxt "#30127"
+msgid "DMC Pop Reducer"
+msgstr "Réducteur de pop DMC"
+
+msgctxt "#30128"
+msgid "Halve large direct writes to the DMC level, which are otherwise heard as clicks. Inaccurate, and quietens samples streamed through $4011 as large swings."
+msgstr "Réduit de moitié les grandes écritures directes au niveau DMC, qui sont autrement perçues comme des clics. Imprécis, et atténue les échantillons diffusés via $4011 comme de grandes variations."
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Paramètres"
+
+#~ msgctxt "#30023"
+#~ msgid "Audio output"
+#~ msgstr ""
+
+#~ msgctxt "#30031"
+#~ msgid "CPU Speed (Overclock)"
+#~ msgstr ""
+
+#~ msgctxt "#30094"
+#~ msgid "Specify whether the audio output should be mono or stereo."
+#~ msgstr ""
+
+#~ msgctxt "#30113"
+#~ msgid "Overclock the emulated CPU."
+#~ msgstr ""

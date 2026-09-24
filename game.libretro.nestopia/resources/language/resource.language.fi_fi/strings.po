@@ -35,23 +35,23 @@ msgstr ""
 
 msgctxt "#30002"
 msgid "FDS Auto Insert"
-msgstr ""
+msgstr "FDS automaattinen syöttö"
 
 msgctxt "#30003"
 msgid "Blargg NTSC Filter"
-msgstr "Blargg NTSC -suodatin"
+msgstr "Blargg NTSC suodatin"
 
 msgctxt "#30004"
 msgid "Palette"
-msgstr ""
+msgstr "Paletti"
 
 msgctxt "#30005"
 msgid "Mask Overscan (Top Vertical)"
-msgstr ""
+msgstr "Naamioi yliskannaus (Pystysuora)"
 
 msgctxt "#30006"
 msgid "Mask Overscan (Bottom Vertical)"
-msgstr ""
+msgstr "Naamio yliskannaus (Alempi pystysuora)"
 
 msgctxt "#30007"
 msgid "Mask Overscan (Left Horizontal)"
@@ -67,15 +67,15 @@ msgstr "Ensisijainen kuvasuhde"
 
 msgctxt "#30010"
 msgid "Game Genie Sound Distortion"
-msgstr ""
+msgstr "Game Genien äänen vääristymä"
 
 msgctxt "#30011"
 msgid "Show Advanced Audio Settings (Reopen menu)"
-msgstr ""
+msgstr "Näytä tarkemmat ääniasetukset (Avaa valikko uudestaan)"
 
 msgctxt "#30012"
 msgid "Square 1 Channel Volume %"
-msgstr ""
+msgstr "Neliöaalto kanavan 1 äänenvoimakkuus %"
 
 msgctxt "#30013"
 msgid "Square 2 Channel Volume %"
@@ -83,87 +83,87 @@ msgstr ""
 
 msgctxt "#30014"
 msgid "Triangle Channel Volume %"
-msgstr ""
+msgstr "Kolmioaalto kanavan äänenvoimakkuus %"
 
 msgctxt "#30015"
 msgid "Noise Channel Volume %"
-msgstr ""
+msgstr "Äänikanavan äänenvoimakkuus %"
 
 msgctxt "#30016"
 msgid "DPCM Channel Volume %"
-msgstr ""
+msgstr "DPCM kanavan äänenvoimakkuus %"
 
 msgctxt "#30017"
 msgid "FDS Channel Volume %"
-msgstr ""
+msgstr "FDS-kanavan äänenvoimakkuutta %"
 
 msgctxt "#30018"
 msgid "MMC5 Channel Volume %"
-msgstr ""
+msgstr "MMC5-kanavan äänenvoimakkuus %"
 
 msgctxt "#30019"
 msgid "VRC6 Channel Volume %"
-msgstr ""
+msgstr "VRC6-kanavan äänenvoimakkuus %"
 
 msgctxt "#30020"
 msgid "VRC7 Channel Volume %"
-msgstr ""
+msgstr "VRC7-kanavan äänenvoimakkuus %"
 
 msgctxt "#30021"
 msgid "N163 Channel Volume %"
-msgstr ""
+msgstr "N163-kanavan äänenvoimakkuus %"
 
 msgctxt "#30022"
 msgid "S5B Channel Volume %"
-msgstr ""
+msgstr "S5B-kanavan äänenvoimakkuus %"
 
 msgctxt "#30024"
 msgid "4 Player Adapter"
-msgstr ""
+msgstr "4 pelaajan sovitin"
 
 msgctxt "#30025"
 msgid "Shift Buttons Clockwise"
-msgstr ""
+msgstr "Siirrä painikkeita myötäpäivään"
 
 msgctxt "#30026"
 msgid "Arkanoid device"
-msgstr ""
+msgstr "Arkanoid-laite"
 
 msgctxt "#30027"
 msgid "Zapper device"
-msgstr ""
+msgstr "Zapper laite"
 
 msgctxt "#30028"
 msgid "Show Crosshair"
-msgstr ""
+msgstr "Näytä tähtäin"
 
 msgctxt "#30029"
 msgid "Turbo Pulse Speed"
-msgstr ""
+msgstr "Turbon pulssin nopeus"
 
 msgctxt "#30030"
 msgid "Remove Sprite Limit"
-msgstr ""
+msgstr "Remove sprite-rajoitus"
 
 msgctxt "#30032"
 msgid "RAM Power-on State"
-msgstr ""
+msgstr "RAM-käynnistystila"
 
 msgctxt "#30033"
 msgid "Arkanoid Paddle Range"
-msgstr ""
+msgstr "Arkanoidin melan toimintasäde"
 
 msgctxt "#30034"
 msgid "FDS Savefile Format"
-msgstr ""
+msgstr "FDS tallennuksien Muoto"
 
 msgctxt "#30035"
 msgid "System"
-msgstr ""
+msgstr "Järjestelmä"
 
 msgctxt "#30036"
 msgid "Change system region and other hardware-related settings."
-msgstr ""
+msgstr "Muuta järjestelmän aluetta ja muita laitteistoon liittyviä asetuksia."
 
 msgctxt "#30037"
 msgid "'Auto' will use the NstDatabase.xml database file for region autodetection. If there is no database present, it will default to NTSC."
@@ -171,7 +171,7 @@ msgstr ""
 
 msgctxt "#30038"
 msgid "Auto"
-msgstr ""
+msgstr "Automaattinen"
 
 msgctxt "#30039"
 msgid "NTSC"
@@ -191,19 +191,19 @@ msgstr ""
 
 msgctxt "#30043"
 msgid "Automatically insert first FDS disk on reset."
-msgstr ""
+msgstr "Syötä automaattisesti ensimmäinen FDS-levyke uudelleenkäynnistyksessä."
 
 msgctxt "#30044"
 msgid "Define which format will be used by savefiles generated for FDS games. Based on the format chosen, FDS savefiles might be used interchangeably with other cores and standalone emulators. It is recommended to use with caution, as improper handling may cause undesired overwrites, or deletion of the existing saves."
-msgstr ""
+msgstr "Määritä mitä tallennusmuotoa FDS pelit käyttää. Valittua FDS tallennusmuotoa voidaan mahollisesti käyttää muiden ytimien ja itsenäisten emulaattorien kanssa. Käytä varoen, koska muuttamalla tätä asetusta voit menettää pelisi tallennukset."
 
 msgctxt "#30045"
 msgid "SAV + UPS (Default)"
-msgstr ""
+msgstr "SAV ja UPS (Oletus)"
 
 msgctxt "#30046"
 msgid "UPS (Standalone Nestopia)"
-msgstr ""
+msgstr "UPS (Itsenäinen Nestopia)"
 
 msgctxt "#30047"
 msgid "IPS (Mesen)"
@@ -215,15 +215,15 @@ msgstr ""
 
 msgctxt "#30049"
 msgid "Change aspect ratio, display cropping, color palette and video filter settings."
-msgstr ""
+msgstr "Muuta kuvasuhteen, näytön rajauksen, väripaletin ja videosuodattimen asetuksia."
 
 msgctxt "#30050"
 msgid "Enable Blargg NTSC filters."
-msgstr ""
+msgstr "Ota käyttöön Blargg NTSC suodattimet."
 
 msgctxt "#30051"
 msgid "Composite Video"
-msgstr ""
+msgstr "Komposiitti video"
 
 msgctxt "#30052"
 msgid "S-Video"
@@ -235,11 +235,11 @@ msgstr ""
 
 msgctxt "#30054"
 msgid "Monochrome"
-msgstr ""
+msgstr "Yksivärinen"
 
 msgctxt "#30055"
 msgid "Color palette to be used. If 'Custom' is selected, the palette used will be taken from the 'custom.pal' file placed in the RetroArch System/BIOS directory."
-msgstr ""
+msgstr "Käytettävä väripaletti. Jos valittuna on \"Mukautettu\", käytetty paletti otetaan 'custom.pal'-tiedostosta, joka on asetettu RetroArchin Järjestelmä/BIOS-kansioon."
 
 msgctxt "#30056"
 msgid "CXA2025AS (US)"
@@ -247,7 +247,7 @@ msgstr ""
 
 msgctxt "#30057"
 msgid "CXA2025AS (JP)"
-msgstr ""
+msgstr "CXA2025AS (Japani)"
 
 msgctxt "#30058"
 msgid "Royaltea"
@@ -255,15 +255,15 @@ msgstr ""
 
 msgctxt "#30059"
 msgid "Consumer"
-msgstr ""
+msgstr "Kuluttaja"
 
 msgctxt "#30060"
 msgid "Canonical"
-msgstr ""
+msgstr "Kanoninen"
 
 msgctxt "#30061"
 msgid "Alternative"
-msgstr ""
+msgstr "Vaihtoehtoinen"
 
 msgctxt "#30062"
 msgid "RGB"
@@ -279,47 +279,47 @@ msgstr ""
 
 msgctxt "#30065"
 msgid "Smooth V2 FBX"
-msgstr ""
+msgstr "Pehmeä V2 FBX"
 
 msgctxt "#30066"
 msgid "Composite Direct FBX"
-msgstr ""
+msgstr "Komposiitti Direct FBx"
 
 msgctxt "#30067"
 msgid "PVM-style D93 FBX"
-msgstr ""
+msgstr "PVM-tyylinen D93 FBx"
 
 msgctxt "#30068"
 msgid "NTSC hardware FBX"
-msgstr ""
+msgstr "NTSC laitteisto FBx"
 
 msgctxt "#30069"
 msgid "NES Classic FBx (fixed)"
-msgstr ""
+msgstr "NES Classic FBx (korjattu)"
 
 msgctxt "#30070"
 msgid "Restored Wii VC"
-msgstr ""
+msgstr "Palautettu Wii VC"
 
 msgctxt "#30071"
 msgid "Wii Virtual Console"
-msgstr ""
+msgstr "Nintendo Virtual Console"
 
 msgctxt "#30072"
 msgid "Raw"
-msgstr ""
+msgstr "Tavallinen"
 
 msgctxt "#30073"
 msgid "Custom"
-msgstr ""
+msgstr "Mukautettu"
 
 msgctxt "#30074"
 msgid "Mask out (vertically) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
-msgstr ""
+msgstr "Naamioi mahdollisesti satunnainen (pystysuora) vääristynyt videon ulostulo, joka olisi jäänyt piiloon kehysten reunan taakse perinteisen tarkkuuden näytöllä."
 
 msgctxt "#30075"
 msgid "Mask out (horizontally) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
-msgstr ""
+msgstr "Naamioi mahdollisesti satunnainen (vaakasuora) vääristynyt videon ulostulo, joka olisi jäänyt piiloon kehysten reunan taakse perinteisen tarkkuuden näytöllä."
 
 msgctxt "#30076"
 msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for aspect ratio autodetection. If there is no database present, it will default to NTSC."
@@ -331,147 +331,147 @@ msgstr ""
 
 msgctxt "#30078"
 msgid "Uncorrected"
-msgstr ""
+msgstr "Ei korjattu"
 
 msgctxt "#30079"
 msgid "Audio"
-msgstr ""
+msgstr "Ääni"
 
 msgctxt "#30080"
 msgid "Change audio effects and channel volumes."
-msgstr ""
+msgstr "Muuta äänitehosteita ja äänikanavien äänenvoimakkuuksia."
 
 msgctxt "#30081"
 msgid "The Game Genie cheat device could inadvertently introduce sound distortion in games. By enabling this, you can simulate the distortion it would add to a game's sound."
-msgstr ""
+msgstr "Game Genie huijauslaite voi vahingossa aiheuttaa äänen vääristymisen peleissä. Ottamalla tämän käyttöön voit simuloida vääristymää, jonka se lisäisi pelin ääniin."
 
 msgctxt "#30082"
 msgid "Enable configuration of low-level audio channel parameters."
-msgstr ""
+msgstr "Ota käyttöön alhaisen tason äänikanavan parametrien muokkaus."
 
 msgctxt "#30083"
 msgid "Modify Square 1 Channel Volume %."
-msgstr ""
+msgstr "Muokkaa neliöaalto kanavan 1 äänenvoimakkuutta %."
 
 msgctxt "#30084"
 msgid "Modify Square 2 Channel Volume %."
-msgstr ""
+msgstr "Muokkaa neliöaalto kanavan 2 äänenvoimakkuutta %."
 
 msgctxt "#30085"
 msgid "Modify Triangle Channel Volume %."
-msgstr ""
+msgstr "Muokkaa kolmioaalto kanavan äänenvoimakkuutta %."
 
 msgctxt "#30086"
 msgid "Modify Noise Channel Volume %."
-msgstr ""
+msgstr "Muokkaa äänikanavan äänenvoimakkuutta %."
 
 msgctxt "#30087"
 msgid "Modify DPCM Channel Volume %."
-msgstr ""
+msgstr "Muokkaa DPCM-kanavan äänenvoimakkuutta %."
 
 msgctxt "#30088"
 msgid "Modify FDS Channel Volume %."
-msgstr ""
+msgstr "Muokkaa FDS-kanavan äänenvoimakkuutta %."
 
 msgctxt "#30089"
 msgid "Modify MMC5 Channel Volume %."
-msgstr ""
+msgstr "Muokkaa MMC5-kanavan äänenvoimakkuus %."
 
 msgctxt "#30090"
 msgid "Modify VRC6 Channel Volume %."
-msgstr ""
+msgstr "Muokkaa VRC6-kanavan äänenvoimakkuutta %."
 
 msgctxt "#30091"
 msgid "Modify VRC7 Channel Volume %."
-msgstr ""
+msgstr "Muokkaa VRC7-kanavan äänenvoimakkuutta %."
 
 msgctxt "#30092"
 msgid "Modify N163 Channel Volume %."
-msgstr ""
+msgstr "Muokkaa N163-kanavan äänenvoimakkuutta %."
 
 msgctxt "#30093"
 msgid "Modify S5B Channel Volume %."
-msgstr ""
+msgstr "Muuta S5B-kanavan äänenvoimakkuutta %."
 
 msgctxt "#30095"
 msgid "Input"
-msgstr ""
+msgstr "Syöte"
 
 msgctxt "#30096"
 msgid "Change input devices and other input related settings."
-msgstr ""
+msgstr "Muuta syöttölaitteita ja muita syöttöön liittyviä asetuksia."
 
 msgctxt "#30097"
 msgid "Manually select a 4 Player Adapter if needed. Some games will not recognize the adapter correctly through the NstDatabase.xml database, this option should help fix that."
-msgstr ""
+msgstr "Valitse tarvittaessa manuaalisesti 4 pelaajan sovitin. Jotkin pelit eivät tunnista adapteria oikein NstDatabasen.xml tietokannan kautta, tämän valinnan pitäisi auttaa korjaamaan se."
 
 msgctxt "#30098"
 msgid "Rotate the A/B/X/Y buttons clockwise."
-msgstr ""
+msgstr "Kierrä A/B/X/Y painikkeita myötäpäivään."
 
 msgctxt "#30099"
 msgid "Select the device you wish to use for the Arkanoid paddle."
-msgstr ""
+msgstr "Valitse laite, jota haluat käyttää Arkanoidissa."
 
 msgctxt "#30100"
 msgid "Mouse"
-msgstr ""
+msgstr "Hiiri"
 
 msgctxt "#30101"
 msgid "Pointer"
-msgstr ""
+msgstr "Osoitin"
 
 msgctxt "#30102"
 msgid "Set the range for the Arkanoid paddle."
-msgstr ""
+msgstr "Asettaa Arkanoid melan toimintasäteen."
 
 msgctxt "#30103"
 msgid "Combined range of both controllers (32-166)"
-msgstr ""
+msgstr "Yhdistetty toiminta alue molemmille ohjaimille (32-166)"
 
 msgctxt "#30104"
 msgid "Arkanoid I controller range (46-166)"
-msgstr ""
+msgstr "Arkanoid I ohjaimen toiminta alue (46-166)"
 
 msgctxt "#30105"
 msgid "Arkanoid II controller range (32-153)"
-msgstr ""
+msgstr "Arkanoid II ohjaimen toiminta alue (32-153)"
 
 msgctxt "#30106"
 msgid "Select the device you wish to use for the Zapper."
-msgstr ""
+msgstr "Valitse laite, jota haluat käyttää Zapperille."
 
 msgctxt "#30107"
 msgid "Light gun"
-msgstr ""
+msgstr "Valoase"
 
 msgctxt "#30108"
 msgid "Set whether to show the crosshair when the Zapper is used."
-msgstr ""
+msgstr "Valitse näytetäänkö tähtäin kun Zapperia käytetään."
 
 msgctxt "#30109"
 msgid "Set the turbo pulse speed for the Turbo B and Turbo A buttons."
-msgstr ""
+msgstr "Aseta Turbo B ja Turbo A -painikkeiden pulssin nopeus."
 
 msgctxt "#30110"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Emulointikikat"
 
 msgctxt "#30111"
 msgid "Change processor overclocking and emulation accuracy settings affecting low-level performance and compatibility."
-msgstr ""
+msgstr "Muuta prosessorin ylikellotus- ja emulointitarkkuusasetuksia, jotka vaikuttavat matalan tason suorituskykyyn ja yhteensopivuuteen."
 
 msgctxt "#30112"
 msgid "Remove 8-sprites-per-scanline hardware limit."
-msgstr ""
+msgstr "Poista 8 spriten vaakasuuntainen laitteisto rajoitus."
 
 msgctxt "#30114"
 msgid "RAM values on power up. Some games rely on initial RAM values for random number generation as an example."
-msgstr ""
+msgstr "RAM-arvot käynnistyksessä. Jotkin pelit tarvitsevat alustavat RAM-arvot joidenkin satunnaisten numeroiden luomiseen."
 
 msgctxt "#30115"
 msgid "Random"
-msgstr ""
+msgstr "Satunnainen"
 
 msgctxt "#30116"
 msgid "0x00"
@@ -489,6 +489,42 @@ msgctxt "#30119"
 msgid "Approximate the analog stage that follows the DAC on real hardware, by applying a first order 220Hz high pass and a first order 14kHz low pass to the mixed output. This removes the DC offset the mixer sits on and rolls off the extreme treble."
 msgstr ""
 
+msgctxt "#30120"
+msgid "Favored System"
+msgstr ""
+
+msgctxt "#30121"
+msgid "System to prefer for images that do not say which one they want. Images that do say, and images found in the NstDatabase.xml database file, are unaffected. Only applies while 'Force System' is set to 'Auto'. Requires a restart."
+msgstr ""
+
+msgctxt "#30122"
+msgid "Force System"
+msgstr ""
+
+msgctxt "#30123"
+msgid "Ignore the system the image asks for and use this one instead. Changing this setting will restart the game."
+msgstr ""
+
+msgctxt "#30124"
+msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for region autodetection, defaulting to NTSC if there is no database present. 'Auto', 'NTSC' and 'PAL' give the picture its correct pixel aspect ratio, so it narrows as the overscan mask is raised. '4:3' and '5:4' are display aspect ratios, and fill that shape whatever is masked. 'Uncorrected' gives square pixels."
+msgstr ""
+
+msgctxt "#30125"
+msgid "4:3 (DAR)"
+msgstr ""
+
+msgctxt "#30126"
+msgid "5:4 (DAR)"
+msgstr ""
+
+msgctxt "#30127"
+msgid "DMC Pop Reducer"
+msgstr ""
+
+msgctxt "#30128"
+msgid "Halve large direct writes to the DMC level, which are otherwise heard as clicks. Inaccurate, and quietens samples streamed through $4011 as large swings."
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Asetukset"
@@ -498,17 +534,33 @@ msgstr ""
 #~ msgstr "Ensisijainen kuvasuhde"
 
 #~ msgctxt "#30001"
-#~ msgid "Blargg NTSC Filter"
+#~ msgid "System Region"
 #~ msgstr "Blargg NTSC -suodatin"
 
 #~ msgctxt "#30007"
-#~ msgid "Mask Overscan (Vertical)"
-#~ msgstr "Peitä yliskannaus (pysty)"
+#~ msgid "Mask Overscan (Left Horizontal)"
+#~ msgstr "Naamioi yliskannaus (vasempi vaakasuora)"
 
 #~ msgctxt "#30008"
-#~ msgid "Mask Overscan (Horizontal)"
-#~ msgstr "Yliskannauksen maski (vaaka)"
+#~ msgid "Mask Overscan (Right Horizontal)"
+#~ msgstr "Naamio yliskannaus (oikea vaakasuora)"
 
 #~ msgctxt "#30013"
-#~ msgid "Shift Buttons Clockwise"
-#~ msgstr "Siirrä painikkeita myötäpäivään"
+#~ msgid "Square 2 Channel Volume %"
+#~ msgstr "Neliöaalto kanavan 2 äänenvoimakkuus %"
+
+#~ msgctxt "#30023"
+#~ msgid "Audio output"
+#~ msgstr ""
+
+#~ msgctxt "#30031"
+#~ msgid "CPU Speed (Overclock)"
+#~ msgstr ""
+
+#~ msgctxt "#30094"
+#~ msgid "Specify whether the audio output should be mono or stereo."
+#~ msgstr ""
+
+#~ msgctxt "#30113"
+#~ msgid "Overclock the emulated CPU."
+#~ msgstr ""

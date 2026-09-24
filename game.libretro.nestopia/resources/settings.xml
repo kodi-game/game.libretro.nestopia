@@ -3,7 +3,20 @@
 	<section id="game.libretro.nestopia">
 		<category id="system" label="30035" help="30036">
 			<group id="1">
-				<setting id="nestopia_favored_system" type="string" label="30001" help="30037">
+				<setting id="nestopia_favored_system" type="string" label="30120" help="30121">
+					<level>0</level>
+					<default>ntsc</default>
+					<constraints>
+						<options>
+							<option label="30039">ntsc</option>
+							<option label="30040">pal</option>
+							<option label="30041">famicom</option>
+							<option label="30042">dendy</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="nestopia_force_system" type="string" label="30122" help="30123">
 					<level>0</level>
 					<default>auto</default>
 					<constraints>
@@ -46,7 +59,7 @@
 			<group id="1">
 				<setting id="nestopia_blargg_ntsc_filter" type="string" label="30003" help="30050">
 					<level>0</level>
-					<default>disabled</default>
+					<default>composite</default>
 					<constraints>
 						<options>
 							<option label="13106">disabled</option>
@@ -60,12 +73,12 @@
 				</setting>
 				<setting id="nestopia_palette" type="string" label="30004" help="30055">
 					<level>0</level>
-					<default>cxa2025as</default>
+					<default>royaltea</default>
 					<constraints>
 						<options>
+							<option label="30058">royaltea</option>
 							<option label="30056">cxa2025as</option>
 							<option label="30057">cxa2025as_jp</option>
-							<option label="30058">royaltea</option>
 							<option label="30059">consumer</option>
 							<option label="30060">canonical</option>
 							<option label="30061">alternative</option>
@@ -206,7 +219,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="nestopia_aspect" type="string" label="30009" help="30076">
+				<setting id="nestopia_aspect" type="string" label="30009" help="30124">
 					<level>0</level>
 					<default>auto</default>
 					<constraints>
@@ -214,7 +227,8 @@
 							<option label="30038">auto</option>
 							<option label="30039">ntsc</option>
 							<option label="30040">pal</option>
-							<option label="30077">4:3</option>
+							<option label="30125">4:3</option>
+							<option label="30126">5:4</option>
 							<option label="30078">uncorrected</option>
 						</options>
 					</constraints>
@@ -225,17 +239,6 @@
 		<category id="audio" label="30079" help="30080">
 			<group id="1">
 				<setting id="nestopia_audio_filter" type="string" label="30118" help="30119">
-					<level>0</level>
-					<default>disabled</default>
-					<constraints>
-						<options>
-							<option label="13106">disabled</option>
-							<option label="305">enabled</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
-				<setting id="nestopia_genie_distortion" type="string" label="30010" help="30081">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -595,6 +598,28 @@
 		<category id="hacks" label="30110" help="30111">
 			<group id="1">
 				<setting id="nestopia_nospritelimit" type="string" label="30030" help="30112">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="nestopia_dmc_pop_reducer" type="string" label="30127" help="30128">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="nestopia_genie_distortion" type="string" label="30010" help="30081">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>

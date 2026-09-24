@@ -63,7 +63,7 @@ msgstr "掩模过扫描（右水平）"
 
 msgctxt "#30009"
 msgid "Preferred Aspect Ratio"
-msgstr "首选纵横比"
+msgstr "首选宽高比"
 
 msgctxt "#30010"
 msgid "Game Genie Sound Distortion"
@@ -143,27 +143,27 @@ msgstr "Turbo 脉冲速度"
 
 msgctxt "#30030"
 msgid "Remove Sprite Limit"
-msgstr "删除 Sprite 限制"
+msgstr "移除精灵数量限制"
 
 msgctxt "#30032"
 msgid "RAM Power-on State"
-msgstr "RAM 通电状态"
+msgstr "内存开机状态"
 
 msgctxt "#30033"
 msgid "Arkanoid Paddle Range"
-msgstr "《打砖块》游戏球拍范围"
+msgstr "Arkanoid 手柄范围"
 
 msgctxt "#30034"
 msgid "FDS Savefile Format"
-msgstr "FDS 存档文件格式"
+msgstr "FDS 存档格式"
 
 msgctxt "#30035"
 msgid "System"
-msgstr ""
+msgstr "系统"
 
 msgctxt "#30036"
 msgid "Change system region and other hardware-related settings."
-msgstr ""
+msgstr "更改系统区域及其他硬件相关设置。"
 
 msgctxt "#30037"
 msgid "'Auto' will use the NstDatabase.xml database file for region autodetection. If there is no database present, it will default to NTSC."
@@ -171,63 +171,63 @@ msgstr ""
 
 msgctxt "#30038"
 msgid "Auto"
-msgstr ""
+msgstr "自动"
 
 msgctxt "#30039"
 msgid "NTSC"
-msgstr ""
+msgstr "北美/日本（NTSC）"
 
 msgctxt "#30040"
 msgid "PAL"
-msgstr ""
+msgstr "欧洲/澳洲（PAL）"
 
 msgctxt "#30041"
 msgid "Famicom"
-msgstr ""
+msgstr "日版（Famicom）"
 
 msgctxt "#30042"
 msgid "Dendy"
-msgstr ""
+msgstr "俄版（Dendy）"
 
 msgctxt "#30043"
 msgid "Automatically insert first FDS disk on reset."
-msgstr ""
+msgstr "重置时自动插入第一张 FDS 磁盘。"
 
 msgctxt "#30044"
 msgid "Define which format will be used by savefiles generated for FDS games. Based on the format chosen, FDS savefiles might be used interchangeably with other cores and standalone emulators. It is recommended to use with caution, as improper handling may cause undesired overwrites, or deletion of the existing saves."
-msgstr ""
+msgstr "定义用于 FDS 游戏生成存档文件的格式。根据所选格式，FDS 存档文件可能与其他核心或独立模拟器互换使用。建议谨慎使用，因为不当处理可能导致意外覆盖或删除现有存档。"
 
 msgctxt "#30045"
 msgid "SAV + UPS (Default)"
-msgstr ""
+msgstr "SAV + UPS（默认）"
 
 msgctxt "#30046"
 msgid "UPS (Standalone Nestopia)"
-msgstr ""
+msgstr "UPS（独立 Nestopia）"
 
 msgctxt "#30047"
 msgid "IPS (Mesen)"
-msgstr ""
+msgstr "IPS（Mesen）"
 
 msgctxt "#30048"
 msgid "Video"
-msgstr ""
+msgstr "视频"
 
 msgctxt "#30049"
 msgid "Change aspect ratio, display cropping, color palette and video filter settings."
-msgstr ""
+msgstr "更改宽高比、显示裁剪、颜色调色板和视频滤镜设置。"
 
 msgctxt "#30050"
 msgid "Enable Blargg NTSC filters."
-msgstr ""
+msgstr "启用 Blargg NTSC 滤镜。"
 
 msgctxt "#30051"
 msgid "Composite Video"
-msgstr ""
+msgstr "复合视频"
 
 msgctxt "#30052"
 msgid "S-Video"
-msgstr ""
+msgstr "S-视频"
 
 msgctxt "#30053"
 msgid "RGB SCART"
@@ -235,19 +235,19 @@ msgstr ""
 
 msgctxt "#30054"
 msgid "Monochrome"
-msgstr ""
+msgstr "单色"
 
 msgctxt "#30055"
 msgid "Color palette to be used. If 'Custom' is selected, the palette used will be taken from the 'custom.pal' file placed in the RetroArch System/BIOS directory."
-msgstr ""
+msgstr "要使用的颜色调色板。如果选择“自定义”，则调色板将从放置在 RetroArch System/BIOS 目录中的 'custom.pal' 文件中读取。"
 
 msgctxt "#30056"
 msgid "CXA2025AS (US)"
-msgstr ""
+msgstr "CXA2025AS（美版）"
 
 msgctxt "#30057"
 msgid "CXA2025AS (JP)"
-msgstr ""
+msgstr "CXA2025AS（日版）"
 
 msgctxt "#30058"
 msgid "Royaltea"
@@ -255,15 +255,15 @@ msgstr ""
 
 msgctxt "#30059"
 msgid "Consumer"
-msgstr ""
+msgstr "消费级"
 
 msgctxt "#30060"
 msgid "Canonical"
-msgstr ""
+msgstr "标准色"
 
 msgctxt "#30061"
 msgid "Alternative"
-msgstr ""
+msgstr "替代色"
 
 msgctxt "#30062"
 msgid "RGB"
@@ -271,55 +271,55 @@ msgstr ""
 
 msgctxt "#30063"
 msgid "Digital Prime FBX"
-msgstr ""
+msgstr "FBX 数码原色"
 
 msgctxt "#30064"
 msgid "Magnum FBX"
-msgstr ""
+msgstr "FBX 马格南"
 
 msgctxt "#30065"
 msgid "Smooth V2 FBX"
-msgstr ""
+msgstr "FBX 平滑版 V2"
 
 msgctxt "#30066"
 msgid "Composite Direct FBX"
-msgstr ""
+msgstr "FBX 复合直连"
 
 msgctxt "#30067"
 msgid "PVM-style D93 FBX"
-msgstr ""
+msgstr "FBX PVM 风格（色温 D93） "
 
 msgctxt "#30068"
 msgid "NTSC hardware FBX"
-msgstr ""
+msgstr "FBX NTSC 硬件实拍"
 
 msgctxt "#30069"
 msgid "NES Classic FBx (fixed)"
-msgstr ""
+msgstr "FBX NES Classic 版（固定调色板）"
 
 msgctxt "#30070"
 msgid "Restored Wii VC"
-msgstr ""
+msgstr "修复版 Wii 虚拟主机"
 
 msgctxt "#30071"
 msgid "Wii Virtual Console"
-msgstr ""
+msgstr "Wii 虚拟手柄"
 
 msgctxt "#30072"
 msgid "Raw"
-msgstr ""
+msgstr "原始"
 
 msgctxt "#30073"
 msgid "Custom"
-msgstr ""
+msgstr "自定义"
 
 msgctxt "#30074"
 msgid "Mask out (vertically) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
-msgstr ""
+msgstr "遮蔽掉（垂直方向）可能存在的随机闪烁视频输出，这些输出原本会被标准定义电视屏幕边缘的边框所遮挡。"
 
 msgctxt "#30075"
 msgid "Mask out (horizontally) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
-msgstr ""
+msgstr "遮蔽掉（水平方向）可能存在的随机闪烁视频输出，这些输出原本会被标准定义电视屏幕边缘的边框所遮挡。"
 
 msgctxt "#30076"
 msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for aspect ratio autodetection. If there is no database present, it will default to NTSC."
@@ -331,147 +331,147 @@ msgstr ""
 
 msgctxt "#30078"
 msgid "Uncorrected"
-msgstr ""
+msgstr "未校正"
 
 msgctxt "#30079"
 msgid "Audio"
-msgstr ""
+msgstr "音频"
 
 msgctxt "#30080"
 msgid "Change audio effects and channel volumes."
-msgstr ""
+msgstr "更改音频效果和声道音量。"
 
 msgctxt "#30081"
 msgid "The Game Genie cheat device could inadvertently introduce sound distortion in games. By enabling this, you can simulate the distortion it would add to a game's sound."
-msgstr ""
+msgstr "游戏精灵作弊设备可能会意外地在游戏中引入声音失真。启用此项后，您可以模拟它为游戏声音添加的失真效果。"
 
 msgctxt "#30082"
 msgid "Enable configuration of low-level audio channel parameters."
-msgstr ""
+msgstr "启用对低级音频通道参数的配置。"
 
 msgctxt "#30083"
 msgid "Modify Square 1 Channel Volume %."
-msgstr ""
+msgstr "修改方波 1 声道音量 %。"
 
 msgctxt "#30084"
 msgid "Modify Square 2 Channel Volume %."
-msgstr ""
+msgstr "修改方波 2 声道音量 %。"
 
 msgctxt "#30085"
 msgid "Modify Triangle Channel Volume %."
-msgstr ""
+msgstr "修改三角波声道音量 %。"
 
 msgctxt "#30086"
 msgid "Modify Noise Channel Volume %."
-msgstr ""
+msgstr "修改噪声声道音量 %。"
 
 msgctxt "#30087"
 msgid "Modify DPCM Channel Volume %."
-msgstr ""
+msgstr "修改 DPCM 声道音量 %。"
 
 msgctxt "#30088"
 msgid "Modify FDS Channel Volume %."
-msgstr ""
+msgstr "修改 FDS 声道音量 %。"
 
 msgctxt "#30089"
 msgid "Modify MMC5 Channel Volume %."
-msgstr ""
+msgstr "修改 MMC5 声道音量 %。"
 
 msgctxt "#30090"
 msgid "Modify VRC6 Channel Volume %."
-msgstr ""
+msgstr "修改 VRC6 声道音量 %。"
 
 msgctxt "#30091"
 msgid "Modify VRC7 Channel Volume %."
-msgstr ""
+msgstr "修改 VRC7 声道音量 %。"
 
 msgctxt "#30092"
 msgid "Modify N163 Channel Volume %."
-msgstr ""
+msgstr "修改 N163 声道音量 %。"
 
 msgctxt "#30093"
 msgid "Modify S5B Channel Volume %."
-msgstr ""
+msgstr "修改 S5B 声道音量 %。"
 
 msgctxt "#30095"
 msgid "Input"
-msgstr ""
+msgstr "输入"
 
 msgctxt "#30096"
 msgid "Change input devices and other input related settings."
-msgstr ""
+msgstr "更改输入设备及其他输入相关设置。"
 
 msgctxt "#30097"
 msgid "Manually select a 4 Player Adapter if needed. Some games will not recognize the adapter correctly through the NstDatabase.xml database, this option should help fix that."
-msgstr ""
+msgstr "如有需要，请手动选择一个 4 人适配器。某些游戏可能无法通过 NstDatabase.xml 数据库正确识别适配器，此选项应有助于解决该问题。"
 
 msgctxt "#30098"
 msgid "Rotate the A/B/X/Y buttons clockwise."
-msgstr ""
+msgstr "将 A/B/X/Y 按钮顺时针旋转。"
 
 msgctxt "#30099"
 msgid "Select the device you wish to use for the Arkanoid paddle."
-msgstr ""
+msgstr "选择您希望用于 Arkanoid 打砖块手柄的设备。"
 
 msgctxt "#30100"
 msgid "Mouse"
-msgstr ""
+msgstr "鼠标"
 
 msgctxt "#30101"
 msgid "Pointer"
-msgstr ""
+msgstr "指针"
 
 msgctxt "#30102"
 msgid "Set the range for the Arkanoid paddle."
-msgstr ""
+msgstr "设置 Arkanoid 打砖块手柄的活动范围。"
 
 msgctxt "#30103"
 msgid "Combined range of both controllers (32-166)"
-msgstr ""
+msgstr "两个控制器的组合范围（32-166）"
 
 msgctxt "#30104"
 msgid "Arkanoid I controller range (46-166)"
-msgstr ""
+msgstr "Arkanoid I 控制器范围（46-166）"
 
 msgctxt "#30105"
 msgid "Arkanoid II controller range (32-153)"
-msgstr ""
+msgstr "Arkanoid II 控制器范围（32-153）"
 
 msgctxt "#30106"
 msgid "Select the device you wish to use for the Zapper."
-msgstr ""
+msgstr "选择您希望用于 Zapper 光枪的设备。"
 
 msgctxt "#30107"
 msgid "Light gun"
-msgstr ""
+msgstr "光枪"
 
 msgctxt "#30108"
 msgid "Set whether to show the crosshair when the Zapper is used."
-msgstr ""
+msgstr "设置在使用 Zapper 时是否显示准星。"
 
 msgctxt "#30109"
 msgid "Set the turbo pulse speed for the Turbo B and Turbo A buttons."
-msgstr ""
+msgstr "设置 Turbo B 和 Turbo A 按钮的连发脉冲速度。"
 
 msgctxt "#30110"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "模拟破解"
 
 msgctxt "#30111"
 msgid "Change processor overclocking and emulation accuracy settings affecting low-level performance and compatibility."
-msgstr ""
+msgstr "更改影响底层性能和兼容性的处理器超频及模拟精度设置。"
 
 msgctxt "#30112"
 msgid "Remove 8-sprites-per-scanline hardware limit."
-msgstr ""
+msgstr "移除每条扫描线 8 个精灵的硬件限制。"
 
 msgctxt "#30114"
 msgid "RAM values on power up. Some games rely on initial RAM values for random number generation as an example."
-msgstr ""
+msgstr "开机时内存的初始值。某些游戏依赖于初始的内存值（例如用于随机数生成）。"
 
 msgctxt "#30115"
 msgid "Random"
-msgstr ""
+msgstr "随机"
 
 msgctxt "#30116"
 msgid "0x00"
@@ -487,6 +487,42 @@ msgstr ""
 
 msgctxt "#30119"
 msgid "Approximate the analog stage that follows the DAC on real hardware, by applying a first order 220Hz high pass and a first order 14kHz low pass to the mixed output. This removes the DC offset the mixer sits on and rolls off the extreme treble."
+msgstr ""
+
+msgctxt "#30120"
+msgid "Favored System"
+msgstr ""
+
+msgctxt "#30121"
+msgid "System to prefer for images that do not say which one they want. Images that do say, and images found in the NstDatabase.xml database file, are unaffected. Only applies while 'Force System' is set to 'Auto'. Requires a restart."
+msgstr ""
+
+msgctxt "#30122"
+msgid "Force System"
+msgstr ""
+
+msgctxt "#30123"
+msgid "Ignore the system the image asks for and use this one instead. Changing this setting will restart the game."
+msgstr ""
+
+msgctxt "#30124"
+msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for region autodetection, defaulting to NTSC if there is no database present. 'Auto', 'NTSC' and 'PAL' give the picture its correct pixel aspect ratio, so it narrows as the overscan mask is raised. '4:3' and '5:4' are display aspect ratios, and fill that shape whatever is masked. 'Uncorrected' gives square pixels."
+msgstr ""
+
+msgctxt "#30125"
+msgid "4:3 (DAR)"
+msgstr ""
+
+msgctxt "#30126"
+msgid "5:4 (DAR)"
+msgstr ""
+
+msgctxt "#30127"
+msgid "DMC Pop Reducer"
+msgstr ""
+
+msgctxt "#30128"
+msgid "Halve large direct writes to the DMC level, which are otherwise heard as clicks. Inaccurate, and quietens samples streamed through $4011 as large swings."
 msgstr ""
 
 #~ msgctxt "#30023"
@@ -506,109 +542,117 @@ msgstr ""
 #~ msgstr "首选纵横比"
 
 #~ msgctxt "#30001"
-#~ msgid "Blargg NTSC Filter"
+#~ msgid "System Region"
 #~ msgstr "Blargg NTSC 滤波器"
 
 #~ msgctxt "#30002"
-#~ msgid "Palette"
-#~ msgstr "调色板"
-
-#~ msgctxt "#30003"
-#~ msgid "Remove Sprite Limit"
-#~ msgstr "删除 Sprite 限制"
-
-#~ msgctxt "#30004"
-#~ msgid "CPU Speed (Overclock)"
-#~ msgstr "CPU 速度（超频）"
-
-#~ msgctxt "#30005"
-#~ msgid "4 Player Adapter"
-#~ msgstr "4 玩家适配器"
-
-#~ msgctxt "#30006"
 #~ msgid "FDS Auto Insert"
 #~ msgstr "FDS 自动插入"
 
+#~ msgctxt "#30003"
+#~ msgid "Blargg NTSC Filter"
+#~ msgstr "Blargg NTSC 滤镜"
+
+#~ msgctxt "#30004"
+#~ msgid "Palette"
+#~ msgstr "调色板"
+
+#~ msgctxt "#30005"
+#~ msgid "Mask Overscan (Top Vertical)"
+#~ msgstr "遮罩过扫描（顶部垂直）"
+
+#~ msgctxt "#30006"
+#~ msgid "Mask Overscan (Bottom Vertical)"
+#~ msgstr "遮罩过扫描（底部垂直）"
+
 #~ msgctxt "#30007"
-#~ msgid "Mask Overscan (Vertical)"
-#~ msgstr "掩模过扫描（垂直）"
+#~ msgid "Mask Overscan (Left Horizontal)"
+#~ msgstr "遮罩过扫描（左侧水平）"
 
 #~ msgctxt "#30008"
-#~ msgid "Mask Overscan (Horizontal)"
-#~ msgstr "掩模过扫描（水平）"
+#~ msgid "Mask Overscan (Right Horizontal)"
+#~ msgstr "遮罩过扫描（右侧水平）"
 
 #~ msgctxt "#30011"
-#~ msgid "System Region"
-#~ msgstr "系统区域"
-
-#~ msgctxt "#30012"
-#~ msgid "RAM Power-on State"
-#~ msgstr "RAM 通电状态"
-
-#~ msgctxt "#30013"
-#~ msgid "Shift Buttons Clockwise"
-#~ msgstr "顺时针转换按钮"
-
-#~ msgctxt "#30014"
-#~ msgid "Arkanoid device"
-#~ msgstr "Arkanoid 设备"
-
-#~ msgctxt "#30015"
-#~ msgid "Zapper device"
-#~ msgstr "Zapper 设备"
-
-#~ msgctxt "#30016"
-#~ msgid "Show Crosshair"
-#~ msgstr "显示准星"
-
-#~ msgctxt "#30017"
-#~ msgid "Turbo Pulse Speed"
-#~ msgstr "Turbo 脉冲速度"
-
-#~ msgctxt "#30018"
 #~ msgid "Show Advanced Audio Settings (Reopen menu)"
 #~ msgstr "显示高级音频设置（重新打开菜单）"
 
-#~ msgctxt "#30019"
+#~ msgctxt "#30012"
 #~ msgid "Square 1 Channel Volume %"
-#~ msgstr "方形1通道体积 %"
+#~ msgstr "方波 1 声道音量 %"
+
+#~ msgctxt "#30013"
+#~ msgid "Square 2 Channel Volume %"
+#~ msgstr "方波 2 声道音量 %"
+
+#~ msgctxt "#30014"
+#~ msgid "Triangle Channel Volume %"
+#~ msgstr "三角波声道音量 %"
+
+#~ msgctxt "#30015"
+#~ msgid "Noise Channel Volume %"
+#~ msgstr "噪声声道音量 %"
+
+#~ msgctxt "#30016"
+#~ msgid "DPCM Channel Volume %"
+#~ msgstr "DPCM 声道音量 %"
+
+#~ msgctxt "#30017"
+#~ msgid "FDS Channel Volume %"
+#~ msgstr "FDS 声道音量 %"
+
+#~ msgctxt "#30018"
+#~ msgid "MMC5 Channel Volume %"
+#~ msgstr "MMC5 声道音量 %"
+
+#~ msgctxt "#30019"
+#~ msgid "VRC6 Channel Volume %"
+#~ msgstr "VRC6 声道音量 %"
 
 #~ msgctxt "#30020"
-#~ msgid "Square 2 Channel Volume %"
-#~ msgstr "方形2通道体积 %"
+#~ msgid "VRC7 Channel Volume %"
+#~ msgstr "VRC7 声道音量 %"
 
 #~ msgctxt "#30021"
-#~ msgid "Triangle Channel Volume %"
-#~ msgstr "三角形通道体积 %"
+#~ msgid "N163 Channel Volume %"
+#~ msgstr "N163 声道音量 %"
 
 #~ msgctxt "#30022"
-#~ msgid "Noise Channel Volume %"
-#~ msgstr "噪声通道音量 %"
+#~ msgid "S5B Channel Volume %"
+#~ msgstr "S5B 声道音量 %"
 
 #~ msgctxt "#30023"
-#~ msgid "DPCM Channel Volume %"
+#~ msgid "Audio output"
 #~ msgstr "DPCM 通道音量 %"
 
 #~ msgctxt "#30024"
-#~ msgid "FDS Channel Volume %"
-#~ msgstr "FDS 通道音量 %"
+#~ msgid "4 Player Adapter"
+#~ msgstr "4 人适配器"
 
 #~ msgctxt "#30025"
-#~ msgid "MMC5 Channel Volume %"
-#~ msgstr "MMC5 通道音量 %"
+#~ msgid "Shift Buttons Clockwise"
+#~ msgstr "按钮顺时针旋转"
 
 #~ msgctxt "#30026"
-#~ msgid "VRC6 Channel Volume %"
-#~ msgstr "VRC6 通道音量 %"
+#~ msgid "Arkanoid device"
+#~ msgstr "Arkanoid 设备"
 
 #~ msgctxt "#30027"
-#~ msgid "VRC7 Channel Volume %"
-#~ msgstr "VRC7 通道音量 %"
+#~ msgid "Zapper device"
+#~ msgstr "Zapper 设备"
 
 #~ msgctxt "#30028"
-#~ msgid "N163 Channel Volume %"
-#~ msgstr "N163 通道音量 %"
+#~ msgid "Show Crosshair"
+#~ msgstr "显示准星"
 
 #~ msgctxt "#30029"
-#~ msgid "S5B Channel Volume %"
-#~ msgstr "S5B 通道音量 %"
+#~ msgid "Turbo Pulse Speed"
+#~ msgstr "连发脉冲速度"
+
+#~ msgctxt "#30094"
+#~ msgid "Specify whether the audio output should be mono or stereo."
+#~ msgstr ""
+
+#~ msgctxt "#30113"
+#~ msgid "Overclock the emulated CPU."
+#~ msgstr ""
