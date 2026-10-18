@@ -483,47 +483,47 @@ msgstr ""
 
 msgctxt "#30118"
 msgid "Audio Output Filter"
-msgstr ""
+msgstr "音频输出滤镜"
 
 msgctxt "#30119"
 msgid "Approximate the analog stage that follows the DAC on real hardware, by applying a first order 220Hz high pass and a first order 14kHz low pass to the mixed output. This removes the DC offset the mixer sits on and rolls off the extreme treble."
-msgstr ""
+msgstr "通过对混合输出施加一阶 220Hz 高通和一阶 14kHz 低通滤镜，模拟实机 DAC 之后的模拟电路阶段。这能消除混音器的直流偏置并衰减极高频噪音。"
 
 msgctxt "#30120"
 msgid "Favored System"
-msgstr ""
+msgstr "系统偏好"
 
 msgctxt "#30121"
 msgid "System to prefer for images that do not say which one they want. Images that do say, and images found in the NstDatabase.xml database file, are unaffected. Only applies while 'Force System' is set to 'Auto'. Requires a restart."
-msgstr ""
+msgstr "为未指定制式的镜像，指定优先使用的系统。已指定系统的镜像，以及 NstDatabase.xml 数据库文件中的镜像，将不受影响。仅在\"强制系统\"设为\"自动\"时生效。需要重启。"
 
 msgctxt "#30122"
 msgid "Force System"
-msgstr ""
+msgstr "强制系统"
 
 msgctxt "#30123"
 msgid "Ignore the system the image asks for and use this one instead. Changing this setting will restart the game."
-msgstr ""
+msgstr "忽略镜像请求的系统并强制使用此设置。更改此设置将重启游戏。"
 
 msgctxt "#30124"
 msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for region autodetection, defaulting to NTSC if there is no database present. 'Auto', 'NTSC' and 'PAL' give the picture its correct pixel aspect ratio, so it narrows as the overscan mask is raised. '4:3' and '5:4' are display aspect ratios, and fill that shape whatever is masked. 'Uncorrected' gives square pixels."
-msgstr ""
+msgstr "必须在视频设置中将 RetroArch 的宽高比设置为\"核心提供\"。\"自动\"将使用 NstDatabase.xml 数据库自动检测区域，无数据库时默认使用 NTSC。\"自动\"、\"NTSC\"和\"PAL\"会提供正确的像素宽高比(PAR)，增加过扫描遮罩时图像会收窄。\"4:3\"与\"5:4\"为显示宽高比(DAR)，并且无论遮罩如何都会填满该比例。\"未修正\"会输出正方形像素。"
 
 msgctxt "#30125"
 msgid "4:3 (DAR)"
-msgstr ""
+msgstr "4:3 (显示宽高比)"
 
 msgctxt "#30126"
 msgid "5:4 (DAR)"
-msgstr ""
+msgstr "5:4 (显示宽高比)"
 
 msgctxt "#30127"
 msgid "DMC Pop Reducer"
-msgstr ""
+msgstr "DMC 爆音消除器"
 
 msgctxt "#30128"
 msgid "Halve large direct writes to the DMC level, which are otherwise heard as clicks. Inaccurate, and quietens samples streamed through $4011 as large swings."
-msgstr ""
+msgstr "将对 DMC 电平的大数值直接写入减半，以消除原本会听到的喀嗒声（爆音）。虽然不够严格精确，但能降低通过 $4011 端口进行大幅摆动流式传输采样时的噪音。"
 
 #~ msgctxt "#30023"
 #~ msgid "Audio output"

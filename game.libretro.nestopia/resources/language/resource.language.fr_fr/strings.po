@@ -491,15 +491,15 @@ msgstr "Ignorer le système demandé par l'image et utiliser plutôt celui-ci. M
 
 msgctxt "#30124"
 msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for region autodetection, defaulting to NTSC if there is no database present. 'Auto', 'NTSC' and 'PAL' give the picture its correct pixel aspect ratio, so it narrows as the overscan mask is raised. '4:3' and '5:4' are display aspect ratios, and fill that shape whatever is masked. 'Uncorrected' gives square pixels."
-msgstr ""
+msgstr "Le rapport d'aspect de RetroArch doit être réglé sur 'Fourni par le cœur' dans les réglages vidéo. 'Auto' utilise le fichier de base de données NstDatabase.xml pour la détection automatique de la région, en privilégiant le format NTSC en l'absence d'une base de données. 'Auto', 'NTSC' et 'PAL' confèrent à l'image son rapport d'aspect de pixel correct, l'image se rétrécit donc à mesure que le masque de surbalayage (overscan) est relevé. '4:3' et '5:4' correspondent à des rapports d'aspect d'écrans et remplissent ces proportions quelle que soit la partie masquée. 'Non corrigé' produit des pixels carrés."
 
 msgctxt "#30125"
 msgid "4:3 (DAR)"
-msgstr ""
+msgstr "4:3 DAR (Rapport d'aspect écran)"
 
 msgctxt "#30126"
 msgid "5:4 (DAR)"
-msgstr ""
+msgstr "5:4 DAR (Rapport d'aspect écran)"
 
 msgctxt "#30127"
 msgid "DMC Pop Reducer"
@@ -512,3 +512,35 @@ msgstr "Réduit de moitié les grandes écritures directes au niveau DMC, qui so
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Paramètres"
+
+#~ msgctxt "#30001"
+#~ msgid "System Region"
+#~ msgstr ""
+
+#~ msgctxt "#30023"
+#~ msgid "Audio output"
+#~ msgstr ""
+
+#~ msgctxt "#30031"
+#~ msgid "CPU Speed (Overclock)"
+#~ msgstr ""
+
+#~ msgctxt "#30037"
+#~ msgid "'Auto' will use the NstDatabase.xml database file for region autodetection. If there is no database present, it will default to NTSC."
+#~ msgstr ""
+
+#~ msgctxt "#30076"
+#~ msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for aspect ratio autodetection. If there is no database present, it will default to NTSC."
+#~ msgstr ""
+
+#~ msgctxt "#30077"
+#~ msgid "4:3"
+#~ msgstr ""
+
+#~ msgctxt "#30094"
+#~ msgid "Specify whether the audio output should be mono or stereo."
+#~ msgstr ""
+
+#~ msgctxt "#30113"
+#~ msgid "Overclock the emulated CPU."
+#~ msgstr ""

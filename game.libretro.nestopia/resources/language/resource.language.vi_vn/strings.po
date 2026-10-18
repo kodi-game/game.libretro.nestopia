@@ -427,7 +427,7 @@ msgstr "Chọn thiết bị bạn muốn sử dụng cho súng Zapper."
 
 msgctxt "#30107"
 msgid "Light gun"
-msgstr "Súng ánh sáng"
+msgstr "Súng quang"
 
 msgctxt "#30108"
 msgid "Set whether to show the crosshair when the Zapper is used."
@@ -491,7 +491,7 @@ msgstr "Bỏ qua hệ máy mà tệp hình ảnh yêu cầu và thay vào đó s
 
 msgctxt "#30124"
 msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for region autodetection, defaulting to NTSC if there is no database present. 'Auto', 'NTSC' and 'PAL' give the picture its correct pixel aspect ratio, so it narrows as the overscan mask is raised. '4:3' and '5:4' are display aspect ratios, and fill that shape whatever is masked. 'Uncorrected' gives square pixels."
-msgstr ""
+msgstr "Tỷ lệ khung hình của RetroArch phải được đặt thành 'Do trình giả lập cung cấp' trong phần cài đặt Hình ảnh. 'Tự động' sẽ sử dụng tệp cơ sở dữ liệu NstDatabase.xml để tự động xác định khu vực, và mặc định là NTSC nếu không có cơ sở dữ liệu. 'Tự động', 'NTSC' và 'PAL' sẽ áp dụng tỷ lệ khung hình điểm ảnh chính xác cho hình ảnh, vì vậy hình ảnh sẽ thu hẹp lại khi mặt nạ vùng quét thừa được nâng lên. '4:3'và '5:4' là tỷ lệ khung hình hiển thị, và hình ảnh sẽ lấp đầy tỷ lệ đó bất kể phần nào bị che bởi mặt nạ. 'Không hiệu chỉnh' sẽ sử dụng các điểm ảnh vuông."
 
 msgctxt "#30125"
 msgid "4:3 (DAR)"
@@ -508,3 +508,35 @@ msgstr "DMC Giảm tiếng Pop"
 msgctxt "#30128"
 msgid "Halve large direct writes to the DMC level, which are otherwise heard as clicks. Inaccurate, and quietens samples streamed through $4011 as large swings."
 msgstr "Chia đôi các mức thay đổi lớn khi ghi trực tiếp vào DMC, vốn có thểphát ra tiếng “tách”. Không hoàn toàn chính xác, nhưng giúp giảm âm lượngcủa các mẫu âm thanh được truyền qua $4011 khi có mức thay đổi lớn."
+
+#~ msgctxt "#30001"
+#~ msgid "System Region"
+#~ msgstr ""
+
+#~ msgctxt "#30023"
+#~ msgid "Audio output"
+#~ msgstr ""
+
+#~ msgctxt "#30031"
+#~ msgid "CPU Speed (Overclock)"
+#~ msgstr ""
+
+#~ msgctxt "#30037"
+#~ msgid "'Auto' will use the NstDatabase.xml database file for region autodetection. If there is no database present, it will default to NTSC."
+#~ msgstr ""
+
+#~ msgctxt "#30076"
+#~ msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for aspect ratio autodetection. If there is no database present, it will default to NTSC."
+#~ msgstr ""
+
+#~ msgctxt "#30077"
+#~ msgid "4:3"
+#~ msgstr ""
+
+#~ msgctxt "#30094"
+#~ msgid "Specify whether the audio output should be mono or stereo."
+#~ msgstr ""
+
+#~ msgctxt "#30113"
+#~ msgid "Overclock the emulated CPU."
+#~ msgstr ""

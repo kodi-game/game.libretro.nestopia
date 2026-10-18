@@ -507,7 +507,7 @@ msgstr "Das vom Abbild angefragte System ignorieren und stattdessen dieses verwe
 
 msgctxt "#30124"
 msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for region autodetection, defaulting to NTSC if there is no database present. 'Auto', 'NTSC' and 'PAL' give the picture its correct pixel aspect ratio, so it narrows as the overscan mask is raised. '4:3' and '5:4' are display aspect ratios, and fill that shape whatever is masked. 'Uncorrected' gives square pixels."
-msgstr ""
+msgstr "Das Seitenverhältnis von RetroArch muss in den Video-Einstellungen auf 'Kern' gesetzt werden. 'Auto' wird die NstDatabase.xml Datenbankdatei für Regionenerkennung, standardmäßig NTSC wenn keine Datenbank vorhanden ist, verwenden. 'Auto', 'NTSC' und 'PAL' geben dem Bild sein korrektes Bildseitenverhältnis, so dass es beim Anheben der überschatteten Maske schmiert. '4:3' und '5:4' sind Seitenverhältnisse, und füllen diese Form, was immer maskiert wird. 'Unkorrigiert' gibt quadratische Pixel."
 
 msgctxt "#30125"
 msgid "4:3 (DAR)"

@@ -509,7 +509,7 @@ msgstr "Ignorera systemet som avbildningen begär och använd detta i stället. 
 
 msgctxt "#30124"
 msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for region autodetection, defaulting to NTSC if there is no database present. 'Auto', 'NTSC' and 'PAL' give the picture its correct pixel aspect ratio, so it narrows as the overscan mask is raised. '4:3' and '5:4' are display aspect ratios, and fill that shape whatever is masked. 'Uncorrected' gives square pixels."
-msgstr ""
+msgstr "RetroArchs bildförhållande måste vara inställt på ”Tillhandahålls av kärnan” i videoinställningarna. ”Automatiskt” använder databasfilen NstDatabase.xml för regionsidentifiering och använder NTSC om en databas saknas. ”Automatiskt”, ”NTSC” och ”PAL” ger bilden rätt pixelbildförhållande, så den blir smalare när overscan-masken höjs. ”4:3” och ”5:4” är skärmbildförhållanden och fyller den formen oavsett vad som maskeras. ”Okorrigerat” ger kvadratiska pixlar."
 
 msgctxt "#30125"
 msgid "4:3 (DAR)"
@@ -542,3 +542,23 @@ msgstr "Halverar stora direkta skrivningar till DMC-nivån, som annars hörs som
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Inställningar"
+
+#~ msgctxt "#30037"
+#~ msgid "'Auto' will use the NstDatabase.xml database file for region autodetection. If there is no database present, it will default to NTSC."
+#~ msgstr ""
+
+#~ msgctxt "#30076"
+#~ msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for aspect ratio autodetection. If there is no database present, it will default to NTSC."
+#~ msgstr ""
+
+#~ msgctxt "#30077"
+#~ msgid "4:3"
+#~ msgstr ""
+
+#~ msgctxt "#30094"
+#~ msgid "Specify whether the audio output should be mono or stereo."
+#~ msgstr ""
+
+#~ msgctxt "#30113"
+#~ msgid "Overclock the emulated CPU."
+#~ msgstr ""

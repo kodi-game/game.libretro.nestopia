@@ -467,31 +467,31 @@ msgstr ""
 
 msgctxt "#30118"
 msgid "Audio Output Filter"
-msgstr ""
+msgstr "Výstupný zvukový filter"
 
 msgctxt "#30119"
 msgid "Approximate the analog stage that follows the DAC on real hardware, by applying a first order 220Hz high pass and a first order 14kHz low pass to the mixed output. This removes the DC offset the mixer sits on and rolls off the extreme treble."
-msgstr ""
+msgstr "Napodobňuje analógový stupeň, ktorý na skutočnom hardvéri nasleduje za DAC: na zmiešaný výstup použije hornopriepustný filter prvého rádu 220 Hz a dolnopriepustný filter prvého rádu 14 kHz. Odstráni tým jednosmernú zložku, na ktorej mixér sedí, a utlmí najvyššie výšky."
 
 msgctxt "#30120"
 msgid "Favored System"
-msgstr ""
+msgstr "Preferovaný systém"
 
 msgctxt "#30121"
 msgid "System to prefer for images that do not say which one they want. Images that do say, and images found in the NstDatabase.xml database file, are unaffected. Only applies while 'Force System' is set to 'Auto'. Requires a restart."
-msgstr ""
+msgstr "Systém, ktorý sa použije pre obrazy, ktoré neurčujú, aký systém chcú. Obrazy, ktoré ho určujú, a obrazy nájdené v databázovom súbore NstDatabase.xml nie sú ovplyvnené. Platí len vtedy, keď je 'Vynútiť systém' nastavené na 'Auto'. Vyžaduje reštart."
 
 msgctxt "#30122"
 msgid "Force System"
-msgstr ""
+msgstr "Vynútiť systém"
 
 msgctxt "#30123"
 msgid "Ignore the system the image asks for and use this one instead. Changing this setting will restart the game."
-msgstr ""
+msgstr "Ignoruje systém, ktorý obraz požaduje, a použije namiesto neho tento. Zmena tohto nastavenia reštartuje hru."
 
 msgctxt "#30124"
 msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for region autodetection, defaulting to NTSC if there is no database present. 'Auto', 'NTSC' and 'PAL' give the picture its correct pixel aspect ratio, so it narrows as the overscan mask is raised. '4:3' and '5:4' are display aspect ratios, and fill that shape whatever is masked. 'Uncorrected' gives square pixels."
-msgstr ""
+msgstr "Pomer strán v RetroArchu musí byť v nastaveniach videa nastavený na 'Poskytnuté jadrom'. 'Auto' použije databázový súbor NstDatabase.xml na automatické zistenie regiónu; ak databáza chýba, použije NTSC. 'Auto', 'NTSC' a 'PAL' dávajú obrazu správny pomer strán pixelov, takže sa obraz zužuje, keď sa zväčšuje maska overscanu. '4:3' a '5:4' sú pomery strán displeja a vyplnia tento tvar bez ohľadu na maskovanie. 'Neopravené' dáva štvorcové pixely."
 
 msgctxt "#30125"
 msgid "4:3 (DAR)"
@@ -503,8 +503,40 @@ msgstr ""
 
 msgctxt "#30127"
 msgid "DMC Pop Reducer"
-msgstr ""
+msgstr "Tlmenie praskania DMC"
 
 msgctxt "#30128"
 msgid "Halve large direct writes to the DMC level, which are otherwise heard as clicks. Inaccurate, and quietens samples streamed through $4011 as large swings."
-msgstr ""
+msgstr "Zmenší na polovicu veľké priame zápisy do úrovne DMC, ktoré by inak \boli počuť ako cvaknutia. Nepresné: stíši vzorky prehrávané cez $4011 ako veľké výkyvy."
+
+#~ msgctxt "#30001"
+#~ msgid "System Region"
+#~ msgstr ""
+
+#~ msgctxt "#30023"
+#~ msgid "Audio output"
+#~ msgstr ""
+
+#~ msgctxt "#30031"
+#~ msgid "CPU Speed (Overclock)"
+#~ msgstr ""
+
+#~ msgctxt "#30037"
+#~ msgid "'Auto' will use the NstDatabase.xml database file for region autodetection. If there is no database present, it will default to NTSC."
+#~ msgstr ""
+
+#~ msgctxt "#30076"
+#~ msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for aspect ratio autodetection. If there is no database present, it will default to NTSC."
+#~ msgstr ""
+
+#~ msgctxt "#30077"
+#~ msgid "4:3"
+#~ msgstr ""
+
+#~ msgctxt "#30094"
+#~ msgid "Specify whether the audio output should be mono or stereo."
+#~ msgstr ""
+
+#~ msgctxt "#30113"
+#~ msgid "Overclock the emulated CPU."
+#~ msgstr ""
