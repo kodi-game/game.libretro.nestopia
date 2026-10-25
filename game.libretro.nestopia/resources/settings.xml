@@ -59,7 +59,7 @@
 			<group id="1">
 				<setting id="nestopia_blargg_ntsc_filter" type="string" label="30003" help="30050">
 					<level>0</level>
-					<default>composite</default>
+					<default>disabled</default>
 					<constraints>
 						<options>
 							<option label="13106">disabled</option>
