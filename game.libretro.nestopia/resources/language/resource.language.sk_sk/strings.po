@@ -508,3 +508,35 @@ msgstr "Tlmenie praskania DMC"
 msgctxt "#30128"
 msgid "Halve large direct writes to the DMC level, which are otherwise heard as clicks. Inaccurate, and quietens samples streamed through $4011 as large swings."
 msgstr "Zmenší na polovicu veľké priame zápisy do úrovne DMC, ktoré by inak \boli počuť ako cvaknutia. Nepresné: stíši vzorky prehrávané cez $4011 ako veľké výkyvy."
+
+#~ msgctxt "#30001"
+#~ msgid "System Region"
+#~ msgstr ""
+
+#~ msgctxt "#30023"
+#~ msgid "Audio output"
+#~ msgstr ""
+
+#~ msgctxt "#30031"
+#~ msgid "CPU Speed (Overclock)"
+#~ msgstr ""
+
+#~ msgctxt "#30037"
+#~ msgid "'Auto' will use the NstDatabase.xml database file for region autodetection. If there is no database present, it will default to NTSC."
+#~ msgstr ""
+
+#~ msgctxt "#30076"
+#~ msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for aspect ratio autodetection. If there is no database present, it will default to NTSC."
+#~ msgstr ""
+
+#~ msgctxt "#30077"
+#~ msgid "4:3"
+#~ msgstr ""
+
+#~ msgctxt "#30094"
+#~ msgid "Specify whether the audio output should be mono or stereo."
+#~ msgstr ""
+
+#~ msgctxt "#30113"
+#~ msgid "Overclock the emulated CPU."
+#~ msgstr ""

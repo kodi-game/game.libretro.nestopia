@@ -325,11 +325,11 @@ msgstr "Anpassa"
 
 msgctxt "#30074"
 msgid "Mask out (vertically) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
-msgstr "Dölj (vertikalt) potentiellt slumpmässig och glitchig videoutmatning som skulle ha varit dold av ramen runt kanten av en standardupplöst Tv-skärm."
+msgstr "Dölj potentiellt slumpmässig videoutmatning med bildfel (vertikalt) som skulle ha dolts av ramen runt kanten på en tv-skärm med standardupplösning."
 
 msgctxt "#30075"
 msgid "Mask out (horizontally) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
-msgstr "Dölj (horisontellt) potentiellt slumpmässig och glitchig videoutmatning som skulle ha varit dold av ramen runt kanten av en standardupplöst Tv-skärm."
+msgstr "Dölj potentiellt slumpmässig videoutmatning med bildfel (horisontellt) som skulle ha dolts av ramen runt kanten på en tv-skärm med standardupplösning."
 
 msgctxt "#30078"
 msgid "Uncorrected"
@@ -465,7 +465,7 @@ msgstr "Ändra inställningar för processor-överklockning och emuleringsnoggra
 
 msgctxt "#30112"
 msgid "Remove 8-sprites-per-scanline hardware limit."
-msgstr "Ta bort hårdvarubegränsningen på 8 spritar per skanningslinje."
+msgstr "Ta bort hårdvarubegränsningen på 8 bildobjekt per skanningslinje."
 
 msgctxt "#30114"
 msgid "RAM values on power up. Some games rely on initial RAM values for random number generation as an example."
@@ -489,7 +489,7 @@ msgstr "Ljudutdatafilter"
 
 msgctxt "#30119"
 msgid "Approximate the analog stage that follows the DAC on real hardware, by applying a first order 220Hz high pass and a first order 14kHz low pass to the mixed output. This removes the DC offset the mixer sits on and rolls off the extreme treble."
-msgstr "Efterlikna det analoga steg som följer efter DAC:en i verklig maskinvara genom att tillämpa ett första ordningens högpassfilter på 220 Hz och ett första ordningens lågpassfilter på 14 kHz på mixen. Detta tar bort likspänningsförskjutningen som mixern ligger på och dämpar den allra högsta diskanten."
+msgstr "Efterlikna det analoga steg som följer efter DAC:en i verklig maskinvara genom att tillämpa ett högpassfilter av första ordningen på 220 Hz och ett lågpassfilter av första ordningen på 14 kHz på mixen. Detta tar bort likspänningsförskjutningen som mixern ligger på och dämpar den allra högsta diskanten."
 
 msgctxt "#30120"
 msgid "Favored System"
@@ -542,3 +542,23 @@ msgstr "Halverar stora direkta skrivningar till DMC-nivån, som annars hörs som
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Inställningar"
+
+#~ msgctxt "#30037"
+#~ msgid "'Auto' will use the NstDatabase.xml database file for region autodetection. If there is no database present, it will default to NTSC."
+#~ msgstr ""
+
+#~ msgctxt "#30076"
+#~ msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for aspect ratio autodetection. If there is no database present, it will default to NTSC."
+#~ msgstr ""
+
+#~ msgctxt "#30077"
+#~ msgid "4:3"
+#~ msgstr ""
+
+#~ msgctxt "#30094"
+#~ msgid "Specify whether the audio output should be mono or stereo."
+#~ msgstr ""
+
+#~ msgctxt "#30113"
+#~ msgid "Overclock the emulated CPU."
+#~ msgstr ""

@@ -151,7 +151,7 @@ msgstr "Estado de la RAM al encender"
 
 msgctxt "#30033"
 msgid "Arkanoid Paddle Range"
-msgstr "Rango del «paddle» de Arkanoid"
+msgstr "Rango del \"paddle\" de Arkanoid"
 
 msgctxt "#30034"
 msgid "FDS Savefile Format"
@@ -239,7 +239,7 @@ msgstr "Monocromo"
 
 msgctxt "#30055"
 msgid "Color palette to be used. If 'Custom' is selected, the palette used will be taken from the 'custom.pal' file placed in the RetroArch System/BIOS directory."
-msgstr "La paleta de colores que se utilizará. Al seleccionar «Personalizar», se utilizará la paleta del archivo «custom.pal» que esté situado en el directorio de sistema/BIOS de RetroArch."
+msgstr "La paleta de colores que se utilizará. Al seleccionar Personalizar, se utilizará la paleta del archivo \"custom.pal\" que esté situado en el directorio de sistema/BIOS de RetroArch."
 
 msgctxt "#30056"
 msgid "CXA2025AS (US)"
@@ -411,7 +411,7 @@ msgstr "Cambia el uso de los botones A/B/X/Y girando su utilización en el senti
 
 msgctxt "#30099"
 msgid "Select the device you wish to use for the Arkanoid paddle."
-msgstr "Selecciona el dispositivo que quieres usar para el «paddle» de Arkanoid."
+msgstr "Selecciona el dispositivo que quieres usar para el \"paddle\" de Arkanoid."
 
 msgctxt "#30100"
 msgid "Mouse"
@@ -423,7 +423,7 @@ msgstr "Puntero/Pantalla táctil"
 
 msgctxt "#30102"
 msgid "Set the range for the Arkanoid paddle."
-msgstr "Establece el rango del «paddle» de Arkanoid."
+msgstr "Establece el rango del \"paddle\" de Arkanoid."
 
 msgctxt "#30103"
 msgid "Combined range of both controllers (32-166)"
@@ -443,7 +443,7 @@ msgstr "Selecciona el dispositivo que quieres usar para la Zapper."
 
 msgctxt "#30107"
 msgid "Light gun"
-msgstr "Pistola de luz"
+msgstr "Lightgun (pistola de luz)"
 
 msgctxt "#30108"
 msgid "Set whether to show the crosshair when the Zapper is used."
