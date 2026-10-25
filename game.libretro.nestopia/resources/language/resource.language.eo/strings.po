@@ -29,11 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Icon credit: Anarkhya (anarkhya.deviantart.com)"
 msgstr ""
 
-# Empty string with ID 30000
-msgctxt "#30001"
-msgid "System Region"
-msgstr ""
-
 msgctxt "#30002"
 msgid "FDS Auto Insert"
 msgstr "Aŭtomate enigi FDS"
@@ -118,10 +113,6 @@ msgctxt "#30022"
 msgid "S5B Channel Volume %"
 msgstr "Volumeno de S5B-kanalo (%)"
 
-msgctxt "#30023"
-msgid "Audio output"
-msgstr ""
-
 msgctxt "#30024"
 msgid "4 Player Adapter"
 msgstr "4-ludanta adaptilo"
@@ -150,10 +141,6 @@ msgctxt "#30030"
 msgid "Remove Sprite Limit"
 msgstr "Forigi limon de \"sprites\""
 
-msgctxt "#30031"
-msgid "CPU Speed (Overclock)"
-msgstr ""
-
 msgctxt "#30032"
 msgid "RAM Power-on State"
 msgstr "Ĉefmemora stato ĉe starto"
@@ -173,10 +160,6 @@ msgstr "Sistemo"
 msgctxt "#30036"
 msgid "Change system region and other hardware-related settings."
 msgstr "Ŝanĝi sisteman regionon kaj aliajn agordojn rilatajn al aparataro."
-
-msgctxt "#30037"
-msgid "'Auto' will use the NstDatabase.xml database file for region autodetection. If there is no database present, it will default to NTSC."
-msgstr ""
 
 msgctxt "#30038"
 msgid "Auto"
@@ -330,14 +313,6 @@ msgctxt "#30075"
 msgid "Mask out (horizontally) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
 msgstr "Kaŝi (horizontale) la eblan hazardan missignalozan videan eligon, kiu estus kaŝita de la nigra rando ĉirkaŭ la eĝo de norme distingiva televidila ekrano."
 
-msgctxt "#30076"
-msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for aspect ratio autodetection. If there is no database present, it will default to NTSC."
-msgstr ""
-
-msgctxt "#30077"
-msgid "4:3"
-msgstr ""
-
 msgctxt "#30078"
 msgid "Uncorrected"
 msgstr "Nekorektita"
@@ -401,10 +376,6 @@ msgstr "Modifi la volumenon de N163-kanalo (%)."
 msgctxt "#30093"
 msgid "Modify S5B Channel Volume %."
 msgstr "Modifi la volumenon de S5B-kanalo (%)."
-
-msgctxt "#30094"
-msgid "Specify whether the audio output should be mono or stereo."
-msgstr ""
 
 msgctxt "#30095"
 msgid "Input"
@@ -477,10 +448,6 @@ msgstr "Ŝanĝi agordojn pri procesora trorapidigo kaj imitada precizeco influan
 msgctxt "#30112"
 msgid "Remove 8-sprites-per-scanline hardware limit."
 msgstr "Forigas la aparataran limon de 8 \"sprites\" per skanlinio."
-
-msgctxt "#30113"
-msgid "Overclock the emulated CPU."
-msgstr ""
 
 msgctxt "#30114"
 msgid "RAM values on power up. Some games rely on initial RAM values for random number generation as an example."
