@@ -1,0 +1,417 @@
+From aa8f4c26f222c7091fdbccb99a1ecd76ab62cf29 Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Sun, 25 Oct 2026 09:28:36 -0700
+Subject: [PATCH] Disable video filter by default
+
+---
+ libretro/libretro_core_options.h      |  2 +-
+ libretro/libretro_core_options_intl.h | 86 +++++++++++++--------------
+ 2 files changed, 44 insertions(+), 44 deletions(-)
+
+diff --git a/libretro/libretro_core_options.h b/libretro/libretro_core_options.h
+index d1429a9..ac80520 100644
+--- a/libretro/libretro_core_options.h
++++ b/libretro/libretro_core_options.h
+@@ -163,7 +163,7 @@ struct retro_core_option_v2_definition option_defs_us[] = {
+          { "monochrome", "Monochrome" },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+diff --git a/libretro/libretro_core_options_intl.h b/libretro/libretro_core_options_intl.h
+index cd3d814..18861a5 100644
+--- a/libretro/libretro_core_options_intl.h
++++ b/libretro/libretro_core_options_intl.h
+@@ -272,7 +272,7 @@ struct retro_core_option_v2_definition option_defs_ar[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_AR },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -1171,7 +1171,7 @@ struct retro_core_option_v2_definition option_defs_ast[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_AST },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -2070,7 +2070,7 @@ struct retro_core_option_v2_definition option_defs_be[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_BE },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -2969,7 +2969,7 @@ struct retro_core_option_v2_definition option_defs_bg[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_BG },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -3868,7 +3868,7 @@ struct retro_core_option_v2_definition option_defs_ca[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_CA },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -4767,7 +4767,7 @@ struct retro_core_option_v2_definition option_defs_chs[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_CHS },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -5666,7 +5666,7 @@ struct retro_core_option_v2_definition option_defs_cht[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_CHT },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -6565,7 +6565,7 @@ struct retro_core_option_v2_definition option_defs_cs[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_CS },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -7464,7 +7464,7 @@ struct retro_core_option_v2_definition option_defs_cy[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_CY },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -8363,7 +8363,7 @@ struct retro_core_option_v2_definition option_defs_da[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_DA },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -9262,7 +9262,7 @@ struct retro_core_option_v2_definition option_defs_de[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_DE },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -10161,7 +10161,7 @@ struct retro_core_option_v2_definition option_defs_el[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_EL },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -11060,7 +11060,7 @@ struct retro_core_option_v2_definition option_defs_en[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_EN },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -11959,7 +11959,7 @@ struct retro_core_option_v2_definition option_defs_eo[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_EO },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -12858,7 +12858,7 @@ struct retro_core_option_v2_definition option_defs_es[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_ES },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -13757,7 +13757,7 @@ struct retro_core_option_v2_definition option_defs_fa[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_FA },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -14656,7 +14656,7 @@ struct retro_core_option_v2_definition option_defs_fi[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_FI },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -15555,7 +15555,7 @@ struct retro_core_option_v2_definition option_defs_fr[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_FR },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -16454,7 +16454,7 @@ struct retro_core_option_v2_definition option_defs_ga[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_GA },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -17353,7 +17353,7 @@ struct retro_core_option_v2_definition option_defs_gl[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_GL },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -18252,7 +18252,7 @@ struct retro_core_option_v2_definition option_defs_he[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_HE },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -19151,7 +19151,7 @@ struct retro_core_option_v2_definition option_defs_hr[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_HR },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -20050,7 +20050,7 @@ struct retro_core_option_v2_definition option_defs_hu[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_HU },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -20949,7 +20949,7 @@ struct retro_core_option_v2_definition option_defs_id[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_ID },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -21848,7 +21848,7 @@ struct retro_core_option_v2_definition option_defs_it[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_IT },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -22747,7 +22747,7 @@ struct retro_core_option_v2_definition option_defs_ja[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_JA },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -23646,7 +23646,7 @@ struct retro_core_option_v2_definition option_defs_ko[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_KO },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -24545,7 +24545,7 @@ struct retro_core_option_v2_definition option_defs_nl[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_NL },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -25444,7 +25444,7 @@ struct retro_core_option_v2_definition option_defs_no[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_NO },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -26343,7 +26343,7 @@ struct retro_core_option_v2_definition option_defs_or[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_OR },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -27242,7 +27242,7 @@ struct retro_core_option_v2_definition option_defs_pl[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_PL },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -28141,7 +28141,7 @@ struct retro_core_option_v2_definition option_defs_pt_br[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_PT_BR },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -29040,7 +29040,7 @@ struct retro_core_option_v2_definition option_defs_pt_pt[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_PT_PT },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -29939,7 +29939,7 @@ struct retro_core_option_v2_definition option_defs_ru[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_RU },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -30838,7 +30838,7 @@ struct retro_core_option_v2_definition option_defs_sk[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_SK },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -31737,7 +31737,7 @@ struct retro_core_option_v2_definition option_defs_sr[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_SR },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -32636,7 +32636,7 @@ struct retro_core_option_v2_definition option_defs_sv[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_SV },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -33535,7 +33535,7 @@ struct retro_core_option_v2_definition option_defs_th[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_TH },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -34434,7 +34434,7 @@ struct retro_core_option_v2_definition option_defs_tr[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_TR },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -35333,7 +35333,7 @@ struct retro_core_option_v2_definition option_defs_tt[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_TT },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -36232,7 +36232,7 @@ struct retro_core_option_v2_definition option_defs_uk[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_UK },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -37131,7 +37131,7 @@ struct retro_core_option_v2_definition option_defs_val[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_VAL },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+@@ -38030,7 +38030,7 @@ struct retro_core_option_v2_definition option_defs_vn[] = {
+          { "monochrome", OPTION_VAL_MONOCHROME_VN },
+          { NULL, NULL },
+       },
+-      "composite"
++      "disabled"
+    },
+    {
+       "nestopia_palette",
+-- 
+2.54.0 (Apple Git-157)
+
