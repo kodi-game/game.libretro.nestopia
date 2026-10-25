@@ -29,6 +29,11 @@ msgctxt "Addon Disclaimer"
 msgid "Icon credit: Anarkhya (anarkhya.deviantart.com)"
 msgstr ""
 
+# Empty string with ID 30000
+msgctxt "#30001"
+msgid "System Region"
+msgstr ""
+
 msgctxt "#30002"
 msgid "FDS Auto Insert"
 msgstr ""
@@ -113,6 +118,10 @@ msgctxt "#30022"
 msgid "S5B Channel Volume %"
 msgstr ""
 
+msgctxt "#30023"
+msgid "Audio output"
+msgstr ""
+
 msgctxt "#30024"
 msgid "4 Player Adapter"
 msgstr ""
@@ -141,6 +150,10 @@ msgctxt "#30030"
 msgid "Remove Sprite Limit"
 msgstr ""
 
+msgctxt "#30031"
+msgid "CPU Speed (Overclock)"
+msgstr ""
+
 msgctxt "#30032"
 msgid "RAM Power-on State"
 msgstr ""
@@ -159,6 +172,10 @@ msgstr "سیستم"
 
 msgctxt "#30036"
 msgid "Change system region and other hardware-related settings."
+msgstr ""
+
+msgctxt "#30037"
+msgid "'Auto' will use the NstDatabase.xml database file for region autodetection. If there is no database present, it will default to NTSC."
 msgstr ""
 
 msgctxt "#30038"
@@ -313,6 +330,14 @@ msgctxt "#30075"
 msgid "Mask out (horizontally) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
 msgstr ""
 
+msgctxt "#30076"
+msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for aspect ratio autodetection. If there is no database present, it will default to NTSC."
+msgstr ""
+
+msgctxt "#30077"
+msgid "4:3"
+msgstr ""
+
 msgctxt "#30078"
 msgid "Uncorrected"
 msgstr ""
@@ -375,6 +400,10 @@ msgstr ""
 
 msgctxt "#30093"
 msgid "Modify S5B Channel Volume %."
+msgstr ""
+
+msgctxt "#30094"
+msgid "Specify whether the audio output should be mono or stereo."
 msgstr ""
 
 msgctxt "#30095"
@@ -447,6 +476,10 @@ msgstr ""
 
 msgctxt "#30112"
 msgid "Remove 8-sprites-per-scanline hardware limit."
+msgstr ""
+
+msgctxt "#30113"
+msgid "Overclock the emulated CPU."
 msgstr ""
 
 msgctxt "#30114"

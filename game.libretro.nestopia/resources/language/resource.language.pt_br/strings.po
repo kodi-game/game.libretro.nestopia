@@ -29,6 +29,11 @@ msgctxt "Addon Disclaimer"
 msgid "Icon credit: Anarkhya (anarkhya.deviantart.com)"
 msgstr ""
 
+# Empty string with ID 30000
+msgctxt "#30001"
+msgid "System Region"
+msgstr ""
+
 msgctxt "#30002"
 msgid "FDS Auto Insert"
 msgstr "Inserção automática do FDS"
@@ -113,6 +118,10 @@ msgctxt "#30022"
 msgid "S5B Channel Volume %"
 msgstr "Volume do canal S5B (%)"
 
+msgctxt "#30023"
+msgid "Audio output"
+msgstr ""
+
 msgctxt "#30024"
 msgid "4 Player Adapter"
 msgstr "Adaptador de 4 jogadores"
@@ -141,6 +150,10 @@ msgctxt "#30030"
 msgid "Remove Sprite Limit"
 msgstr "Remover limite de sprites"
 
+msgctxt "#30031"
+msgid "CPU Speed (Overclock)"
+msgstr ""
+
 msgctxt "#30032"
 msgid "RAM Power-on State"
 msgstr "Estado da RAM ao ligar"
@@ -160,6 +173,10 @@ msgstr "Sistema"
 msgctxt "#30036"
 msgid "Change system region and other hardware-related settings."
 msgstr "Altera a região do sistema e outras configurações relacionadas ao hardware."
+
+msgctxt "#30037"
+msgid "'Auto' will use the NstDatabase.xml database file for region autodetection. If there is no database present, it will default to NTSC."
+msgstr ""
 
 msgctxt "#30038"
 msgid "Auto"
@@ -313,6 +330,14 @@ msgctxt "#30075"
 msgid "Mask out (horizontally) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
 msgstr "Oculta (horizontalmente) a saída de vídeo com defeito aleatório que seria escondida pela moldura ao redor de uma tela de televisão padrão."
 
+msgctxt "#30076"
+msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for aspect ratio autodetection. If there is no database present, it will default to NTSC."
+msgstr ""
+
+msgctxt "#30077"
+msgid "4:3"
+msgstr ""
+
 msgctxt "#30078"
 msgid "Uncorrected"
 msgstr "Não corrigida"
@@ -376,6 +401,10 @@ msgstr "Altera o volume do canal N163 (em porcentagem)."
 msgctxt "#30093"
 msgid "Modify S5B Channel Volume %."
 msgstr "Altera o volume do canal S5B (em porcentagem)."
+
+msgctxt "#30094"
+msgid "Specify whether the audio output should be mono or stereo."
+msgstr ""
 
 msgctxt "#30095"
 msgid "Input"
@@ -448,6 +477,10 @@ msgstr "Altera as configurações da precisão de emulação e velocidade do pro
 msgctxt "#30112"
 msgid "Remove 8-sprites-per-scanline hardware limit."
 msgstr "Remove o limite do hardware de 8 sprites por linha de varredura."
+
+msgctxt "#30113"
+msgid "Overclock the emulated CPU."
+msgstr ""
 
 msgctxt "#30114"
 msgid "RAM values on power up. Some games rely on initial RAM values for random number generation as an example."
