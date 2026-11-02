@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.nestopia\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-02-04 09:56i\n"
-"PO-Revision-Date: 2025-04-17 04:26+0000\n"
+"PO-Revision-Date: 2026-11-02 20:48+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-nestopia/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11\n"
+"X-Generator: Weblate 2026.10.1\n"
 
 msgctxt "Addon Summary"
 msgid "Nintendo - NES / Famicom (Nestopia)"
@@ -29,10 +29,9 @@ msgctxt "Addon Disclaimer"
 msgid "Icon credit: Anarkhya (anarkhya.deviantart.com)"
 msgstr "Ikon: Anarkhya (anarkhya.deviantart.com)"
 
-#, fuzzy
 msgctxt "#30002"
 msgid "FDS Auto Insert"
-msgstr "FDS Automatisk Infogning"
+msgstr "FDS automatisk insättning"
 
 msgctxt "#30003"
 msgid "Blargg NTSC Filter"
@@ -42,71 +41,58 @@ msgctxt "#30004"
 msgid "Palette"
 msgstr "Palett"
 
-#, fuzzy
 msgctxt "#30005"
 msgid "Mask Overscan (Top Vertical)"
-msgstr "Dölj överskanning (Övre Vertikalt)"
+msgstr "Maskera överskanning (övre vertikalt)"
 
-#, fuzzy
 msgctxt "#30006"
 msgid "Mask Overscan (Bottom Vertical)"
-msgstr "Dölj överskanning (Nedre Vertikal)"
+msgstr "Maskera överskanning (nedre vertikalt)"
 
-#, fuzzy
 msgctxt "#30007"
 msgid "Mask Overscan (Left Horizontal)"
-msgstr "Dölj överskanning (Vänster Horisontell)"
+msgstr "Maskera överskanning (vänster horisontellt)"
 
-#, fuzzy
 msgctxt "#30008"
 msgid "Mask Overscan (Right Horizontal)"
-msgstr "Dölj överskanning (Höger Horisontell)"
+msgstr "Maskera överskanning (höger horisontellt)"
 
 msgctxt "#30009"
 msgid "Preferred Aspect Ratio"
 msgstr "Föredraget bildformat"
 
-#, fuzzy
 msgctxt "#30010"
 msgid "Game Genie Sound Distortion"
-msgstr "Game Genie ljudförvrängning"
+msgstr "Game Genie-ljudförvrängning"
 
-#, fuzzy
 msgctxt "#30011"
 msgid "Show Advanced Audio Settings (Reopen menu)"
-msgstr "Visa avancerade ljudinställningar (Öppna menyn på nytt)"
+msgstr "Visa avancerade ljudinställningar (öppna menyn igen)"
 
-#, fuzzy
 msgctxt "#30012"
 msgid "Square 1 Channel Volume %"
 msgstr "Kanalvolym för fyrkant 1 %"
 
-#, fuzzy
 msgctxt "#30013"
 msgid "Square 2 Channel Volume %"
 msgstr "Kanalvolym för fyrkant 2 %"
 
-#, fuzzy
 msgctxt "#30014"
 msgid "Triangle Channel Volume %"
 msgstr "Kanalvolym för triangel %"
 
-#, fuzzy
 msgctxt "#30015"
 msgid "Noise Channel Volume %"
-msgstr "Kanalvolym för Brus %"
+msgstr "Kanalvolym för brus %"
 
-#, fuzzy
 msgctxt "#30016"
 msgid "DPCM Channel Volume %"
 msgstr "Kanalvolym för DPCM %"
 
-#, fuzzy
 msgctxt "#30017"
 msgid "FDS Channel Volume %"
 msgstr "Kanalvolym för FDS %"
 
-#, fuzzy
 msgctxt "#30018"
 msgid "MMC5 Channel Volume %"
 msgstr "Kanalvolym för MMC5 %"
@@ -123,7 +109,6 @@ msgctxt "#30021"
 msgid "N163 Channel Volume %"
 msgstr "Kanalvolym för N163 %"
 
-#, fuzzy
 msgctxt "#30022"
 msgid "S5B Channel Volume %"
 msgstr "Kanalvolym för S5B %"
@@ -132,10 +117,9 @@ msgctxt "#30024"
 msgid "4 Player Adapter"
 msgstr "4-spelaradapter"
 
-#, fuzzy
 msgctxt "#30025"
 msgid "Shift Buttons Clockwise"
-msgstr "Rotera knappar medsols"
+msgstr "Flytta knappar medurs"
 
 msgctxt "#30026"
 msgid "Arkanoid device"
@@ -149,19 +133,17 @@ msgctxt "#30028"
 msgid "Show Crosshair"
 msgstr "Visa sikte"
 
-#, fuzzy
 msgctxt "#30029"
 msgid "Turbo Pulse Speed"
-msgstr "Turbo-pulshastighet"
+msgstr "Pulshastighet för turbo"
 
 msgctxt "#30030"
 msgid "Remove Sprite Limit"
 msgstr "Ta bort blockfigursgräns"
 
-#, fuzzy
 msgctxt "#30032"
 msgid "RAM Power-on State"
-msgstr "RAM-uppstartsstatus"
+msgstr "RAM-tillstånd vid påslagning"
 
 msgctxt "#30033"
 msgid "Arkanoid Paddle Range"
@@ -173,7 +155,7 @@ msgstr "Format för FDS-sparfiler"
 
 msgctxt "#30035"
 msgid "System"
-msgstr ""
+msgstr "System"
 
 msgctxt "#30036"
 msgid "Change system region and other hardware-related settings."
@@ -181,23 +163,23 @@ msgstr "Ändra systemregion och andra hårdvarurelaterade inställningar."
 
 msgctxt "#30038"
 msgid "Auto"
-msgstr ""
+msgstr "Automatiskt"
 
 msgctxt "#30039"
 msgid "NTSC"
-msgstr ""
+msgstr "NTSC"
 
 msgctxt "#30040"
 msgid "PAL"
-msgstr ""
+msgstr "PAL"
 
 msgctxt "#30041"
 msgid "Famicom"
-msgstr ""
+msgstr "Famicom"
 
 msgctxt "#30042"
 msgid "Dendy"
-msgstr ""
+msgstr "Dendy"
 
 msgctxt "#30043"
 msgid "Automatically insert first FDS disk on reset."
@@ -217,11 +199,11 @@ msgstr "UPS (fristående Nestopia)"
 
 msgctxt "#30047"
 msgid "IPS (Mesen)"
-msgstr ""
+msgstr "IPS (Mesen)"
 
 msgctxt "#30048"
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 msgctxt "#30049"
 msgid "Change aspect ratio, display cropping, color palette and video filter settings."
@@ -237,11 +219,11 @@ msgstr "Kompositvideo"
 
 msgctxt "#30052"
 msgid "S-Video"
-msgstr ""
+msgstr "S-video"
 
 msgctxt "#30053"
 msgid "RGB SCART"
-msgstr ""
+msgstr "RGB-SCART"
 
 msgctxt "#30054"
 msgid "Monochrome"
@@ -253,15 +235,15 @@ msgstr "Färgpalett som ska användas. Om \"Anpassad\" väljs, kommer den använ
 
 msgctxt "#30056"
 msgid "CXA2025AS (US)"
-msgstr ""
+msgstr "CXA2025AS (USA)"
 
 msgctxt "#30057"
 msgid "CXA2025AS (JP)"
-msgstr ""
+msgstr "CXA2025AS (Japan)"
 
 msgctxt "#30058"
 msgid "Royaltea"
-msgstr ""
+msgstr "Royaltea"
 
 msgctxt "#30059"
 msgid "Consumer"
@@ -277,19 +259,19 @@ msgstr "Alternativt"
 
 msgctxt "#30062"
 msgid "RGB"
-msgstr ""
+msgstr "RGB"
 
 msgctxt "#30063"
 msgid "Digital Prime FBX"
-msgstr ""
+msgstr "Digital Prime FBX"
 
 msgctxt "#30064"
 msgid "Magnum FBX"
-msgstr ""
+msgstr "Magnum FBX"
 
 msgctxt "#30065"
 msgid "Smooth V2 FBX"
-msgstr ""
+msgstr "Smooth V2 FBX"
 
 msgctxt "#30066"
 msgid "Composite Direct FBX"
@@ -317,7 +299,7 @@ msgstr "Wii virtuell konsol"
 
 msgctxt "#30072"
 msgid "Raw"
-msgstr ""
+msgstr "Rå"
 
 msgctxt "#30073"
 msgid "Custom"
@@ -477,11 +459,11 @@ msgstr "Slumpmässig"
 
 msgctxt "#30116"
 msgid "0x00"
-msgstr ""
+msgstr "0x00"
 
 msgctxt "#30117"
 msgid "0xFF"
-msgstr ""
+msgstr "0xFF"
 
 msgctxt "#30118"
 msgid "Audio Output Filter"
@@ -513,11 +495,11 @@ msgstr "RetroArchs bildförhållande måste vara inställt på ”Tillhandahåll
 
 msgctxt "#30125"
 msgid "4:3 (DAR)"
-msgstr ""
+msgstr "4:3 (DAR)"
 
 msgctxt "#30126"
 msgid "5:4 (DAR)"
-msgstr ""
+msgstr "5:4 (DAR)"
 
 msgctxt "#30127"
 msgid "DMC Pop Reducer"
