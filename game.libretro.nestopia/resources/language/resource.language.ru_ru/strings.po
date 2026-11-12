@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Icon credit: Anarkhya (anarkhya.deviantart.com)"
 msgstr "Автор значка: Anarkhya (anarkhya.deviantart.com)"
 
-msgctxt "#30001"
-msgid "System Region"
-msgstr "Регион системы"
-
 msgctxt "#30002"
 msgid "FDS Auto Insert"
 msgstr "Автовставка FDS"
@@ -164,10 +160,6 @@ msgstr "Система"
 msgctxt "#30036"
 msgid "Change system region and other hardware-related settings."
 msgstr "Настройка региона системы и прочих параметров оборудования."
-
-msgctxt "#30037"
-msgid "'Auto' will use the NstDatabase.xml database file for region autodetection. If there is no database present, it will default to NTSC."
-msgstr "«Автоматически» использует файл базы данных NstDatabase.xml для автоопределения региона. Если база данных отсутствует, по умолчанию будет выбран NTSC."
 
 msgctxt "#30038"
 msgid "Auto"
@@ -320,14 +312,6 @@ msgstr "Маскирует (по вертикали) возможное иска
 msgctxt "#30075"
 msgid "Mask out (horizontally) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
 msgstr "Маскирует (по горизонтали) возможное искажение графики, которое в телевизорах стандартной чёткости скрыто рамкой по краям экрана."
-
-msgctxt "#30076"
-msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for aspect ratio autodetection. If there is no database present, it will default to NTSC."
-msgstr "Соотношение сторон RetroArch должно быть установлено в «Core Provided» в настройках видео. «Автоматически» использует файл базы данных NstDatabase.xml для автоопределения соотношения сторон. Если база данных отсутствует, по умолчанию будет выбран NTSC."
-
-msgctxt "#30077"
-msgid "4:3"
-msgstr "4:3"
 
 msgctxt "#30078"
 msgid "Uncorrected"
@@ -524,6 +508,22 @@ msgstr "Подавитель щелчков DMC"
 msgctxt "#30128"
 msgid "Halve large direct writes to the DMC level, which are otherwise heard as clicks. Inaccurate, and quietens samples streamed through $4011 as large swings."
 msgstr "Уменьшать вдвое большие прямые записи в уровень DMC, которые иначе слышны как щелчки. Неточно, и заглушает сэмплы, передаваемые через $4011 большими колебаниями."
+
+#~ msgctxt "#30001"
+#~ msgid "System Region"
+#~ msgstr "Регион системы"
+
+#~ msgctxt "#30037"
+#~ msgid "'Auto' will use the NstDatabase.xml database file for region autodetection. If there is no database present, it will default to NTSC."
+#~ msgstr "«Автоматически» использует файл базы данных NstDatabase.xml для автоопределения региона. Если база данных отсутствует, по умолчанию будет выбран NTSC."
+
+#~ msgctxt "#30076"
+#~ msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for aspect ratio autodetection. If there is no database present, it will default to NTSC."
+#~ msgstr "Соотношение сторон RetroArch должно быть установлено в «Core Provided» в настройках видео. «Автоматически» использует файл базы данных NstDatabase.xml для автоопределения соотношения сторон. Если база данных отсутствует, по умолчанию будет выбран NTSC."
+
+#~ msgctxt "#30077"
+#~ msgid "4:3"
+#~ msgstr "4:3"
 
 #~ msgctxt "#30023"
 #~ msgid "Audio output"

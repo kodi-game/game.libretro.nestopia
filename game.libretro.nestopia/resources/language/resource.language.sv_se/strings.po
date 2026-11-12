@@ -31,7 +31,7 @@ msgstr "Ikon: Anarkhya (anarkhya.deviantart.com)"
 
 msgctxt "#30002"
 msgid "FDS Auto Insert"
-msgstr "FDS automatisk insättning"
+msgstr "Automatisk FDS-isättning"
 
 msgctxt "#30003"
 msgid "Blargg NTSC Filter"
@@ -43,19 +43,19 @@ msgstr "Palett"
 
 msgctxt "#30005"
 msgid "Mask Overscan (Top Vertical)"
-msgstr "Maskera överskanning (övre vertikalt)"
+msgstr "Maskera överskanning, övre vertikalt"
 
 msgctxt "#30006"
 msgid "Mask Overscan (Bottom Vertical)"
-msgstr "Maskera överskanning (nedre vertikalt)"
+msgstr "Maskera överskanning, nedre vertikalt"
 
 msgctxt "#30007"
 msgid "Mask Overscan (Left Horizontal)"
-msgstr "Maskera överskanning (vänster horisontellt)"
+msgstr "Maskera överskanning, vänster horisontellt"
 
 msgctxt "#30008"
 msgid "Mask Overscan (Right Horizontal)"
-msgstr "Maskera överskanning (höger horisontellt)"
+msgstr "Maskera överskanning, höger horisontellt"
 
 msgctxt "#30009"
 msgid "Preferred Aspect Ratio"
@@ -63,7 +63,7 @@ msgstr "Föredraget bildformat"
 
 msgctxt "#30010"
 msgid "Game Genie Sound Distortion"
-msgstr "Game Genie-ljudförvrängning"
+msgstr "Ljudförvrängning från Game Genie"
 
 msgctxt "#30011"
 msgid "Show Advanced Audio Settings (Reopen menu)"
@@ -71,15 +71,15 @@ msgstr "Visa avancerade ljudinställningar (öppna menyn igen)"
 
 msgctxt "#30012"
 msgid "Square 1 Channel Volume %"
-msgstr "Kanalvolym för fyrkant 1 %"
+msgstr "Kanalvolym för fyrkantsvåg 1 %"
 
 msgctxt "#30013"
 msgid "Square 2 Channel Volume %"
-msgstr "Kanalvolym för fyrkant 2 %"
+msgstr "Kanalvolym för fyrkantsvåg 2 %"
 
 msgctxt "#30014"
 msgid "Triangle Channel Volume %"
-msgstr "Kanalvolym för triangel %"
+msgstr "Kanalvolym för triangelvåg %"
 
 msgctxt "#30015"
 msgid "Noise Channel Volume %"
@@ -119,7 +119,7 @@ msgstr "4-spelaradapter"
 
 msgctxt "#30025"
 msgid "Shift Buttons Clockwise"
-msgstr "Flytta knappar medurs"
+msgstr "Rotera knappar medsols"
 
 msgctxt "#30026"
 msgid "Arkanoid device"
@@ -131,11 +131,11 @@ msgstr "Zapper-enhet"
 
 msgctxt "#30028"
 msgid "Show Crosshair"
-msgstr "Visa sikte"
+msgstr "Visa hårkors"
 
 msgctxt "#30029"
 msgid "Turbo Pulse Speed"
-msgstr "Pulshastighet för turbo"
+msgstr "Turbopulshastighet"
 
 msgctxt "#30030"
 msgid "Remove Sprite Limit"
@@ -143,7 +143,7 @@ msgstr "Ta bort blockfigursgräns"
 
 msgctxt "#30032"
 msgid "RAM Power-on State"
-msgstr "RAM-tillstånd vid påslagning"
+msgstr "RAM-status vid påslag"
 
 msgctxt "#30033"
 msgid "Arkanoid Paddle Range"
@@ -183,7 +183,7 @@ msgstr "Dendy"
 
 msgctxt "#30043"
 msgid "Automatically insert first FDS disk on reset."
-msgstr "Infoga automatiskt den första FDS-disketten vid återställning."
+msgstr "Sätt automatiskt in den första FDS-disken vid återställning."
 
 msgctxt "#30044"
 msgid "Define which format will be used by savefiles generated for FDS games. Based on the format chosen, FDS savefiles might be used interchangeably with other cores and standalone emulators. It is recommended to use with caution, as improper handling may cause undesired overwrites, or deletion of the existing saves."
@@ -207,7 +207,7 @@ msgstr "Video"
 
 msgctxt "#30049"
 msgid "Change aspect ratio, display cropping, color palette and video filter settings."
-msgstr "Ändra bildformat, beskärning, färgpalett och videofilter-inställningar."
+msgstr "Ändra inställningar för bildformat, beskärning, färgpalett och videofilter."
 
 msgctxt "#30050"
 msgid "Enable Blargg NTSC filters."
@@ -231,7 +231,7 @@ msgstr "Monokrom"
 
 msgctxt "#30055"
 msgid "Color palette to be used. If 'Custom' is selected, the palette used will be taken from the 'custom.pal' file placed in the RetroArch System/BIOS directory."
-msgstr "Färgpalett som ska användas. Om \"Anpassad\" väljs, kommer den använda paletten att hämtas från filen \"custom.pal\" som placeras i RetroArch System/BIOS-katalogen."
+msgstr "Färgpalett som ska användas. Om Egen väljs hämtas paletten från filen custom.pal i RetroArchs system- eller BIOS-katalog."
 
 msgctxt "#30056"
 msgid "CXA2025AS (US)"
@@ -275,7 +275,7 @@ msgstr "Smooth V2 FBX"
 
 msgctxt "#30066"
 msgid "Composite Direct FBX"
-msgstr "Komposit direkt-FBX"
+msgstr "Direkt komposit FBX"
 
 msgctxt "#30067"
 msgid "PVM-style D93 FBX"
@@ -283,11 +283,11 @@ msgstr "PVM-stil D93 FBX"
 
 msgctxt "#30068"
 msgid "NTSC hardware FBX"
-msgstr "NTSC-hårdvara FBX"
+msgstr "NTSC-maskinvara FBX"
 
 msgctxt "#30069"
 msgid "NES Classic FBx (fixed)"
-msgstr "NES Klassisk FBx (fast)"
+msgstr "NES Classic FBX (korrigerad)"
 
 msgctxt "#30070"
 msgid "Restored Wii VC"
@@ -303,15 +303,15 @@ msgstr "Rå"
 
 msgctxt "#30073"
 msgid "Custom"
-msgstr "Anpassa"
+msgstr "Egen"
 
 msgctxt "#30074"
 msgid "Mask out (vertically) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
-msgstr "Dölj potentiellt slumpmässig videoutmatning med bildfel (vertikalt) som skulle ha dolts av ramen runt kanten på en tv-skärm med standardupplösning."
+msgstr "Maskera den potentiellt slumpmässiga videoutmatningen med bildfel i vertikalled som annars skulle döljas av ramen runt kanten på en tv-skärm med standardupplösning."
 
 msgctxt "#30075"
 msgid "Mask out (horizontally) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
-msgstr "Dölj potentiellt slumpmässig videoutmatning med bildfel (horisontellt) som skulle ha dolts av ramen runt kanten på en tv-skärm med standardupplösning."
+msgstr "Maskera den potentiellt slumpmässiga videoutmatningen med bildfel i horisontalled som annars skulle döljas av ramen runt kanten på en tv-skärm med standardupplösning."
 
 msgctxt "#30078"
 msgid "Uncorrected"
@@ -327,55 +327,55 @@ msgstr "Ändra ljudeffekter och ljudkanalernas volymer."
 
 msgctxt "#30081"
 msgid "The Game Genie cheat device could inadvertently introduce sound distortion in games. By enabling this, you can simulate the distortion it would add to a game's sound."
-msgstr "Game Genie-fuskutrustningen kunde oavsiktligt införa ljudförvrängning i spel. Genom att aktivera detta kan du simulera den ljud-förvrängningen som skulle kunna läggas till i spelet."
+msgstr "Game Genie-fuskenheten kunde oavsiktligt orsaka ljudförvrängning i spel. Genom att aktivera detta kan du simulera den förvrängning som skulle kunna läggas till i spelets ljud."
 
 msgctxt "#30082"
 msgid "Enable configuration of low-level audio channel parameters."
-msgstr "Aktivera konfiguration av lågnivå ljudkanalparametrar."
+msgstr "Aktivera konfigurering av ljudkanalparametrar på låg nivå."
 
 msgctxt "#30083"
 msgid "Modify Square 1 Channel Volume %."
-msgstr "Justera Fyrkant 1 kanalvolym %."
+msgstr "Justera kanalvolymen för fyrkantsvåg 1."
 
 msgctxt "#30084"
 msgid "Modify Square 2 Channel Volume %."
-msgstr "Justera Fyrkant 2 kanalvolym %."
+msgstr "Justera kanalvolymen för fyrkantsvåg 2."
 
 msgctxt "#30085"
 msgid "Modify Triangle Channel Volume %."
-msgstr "Justera triangelens kanalvolym %."
+msgstr "Justera kanalvolymen för triangelvåg."
 
 msgctxt "#30086"
 msgid "Modify Noise Channel Volume %."
-msgstr "Justera Brusets Kanalvolym %."
+msgstr "Justera kanalvolymen för brus."
 
 msgctxt "#30087"
 msgid "Modify DPCM Channel Volume %."
-msgstr "Justera DPCM Kanalvolym %."
+msgstr "Justera kanalvolymen för DPCM."
 
 msgctxt "#30088"
 msgid "Modify FDS Channel Volume %."
-msgstr "Justera FDS Kanalvolym %."
+msgstr "Justera kanalvolymen för FDS."
 
 msgctxt "#30089"
 msgid "Modify MMC5 Channel Volume %."
-msgstr "Justera MMC5 Kanalvolym %."
+msgstr "Justera kanalvolymen för MMC5."
 
 msgctxt "#30090"
 msgid "Modify VRC6 Channel Volume %."
-msgstr "Justera VRC6 Kanalvolym %."
+msgstr "Justera kanalvolymen för VRC6."
 
 msgctxt "#30091"
 msgid "Modify VRC7 Channel Volume %."
-msgstr "Justera VRC7 Kanalvolym %."
+msgstr "Justera kanalvolymen för VRC7."
 
 msgctxt "#30092"
 msgid "Modify N163 Channel Volume %."
-msgstr "Justera N163 Kanalvolym %."
+msgstr "Justera kanalvolymen för N163."
 
 msgctxt "#30093"
 msgid "Modify S5B Channel Volume %."
-msgstr "Justera S5B Kanalvolym %."
+msgstr "Justera kanalvolymen för S5B."
 
 msgctxt "#30095"
 msgid "Input"
@@ -383,11 +383,11 @@ msgstr "Inmatning"
 
 msgctxt "#30096"
 msgid "Change input devices and other input related settings."
-msgstr "Ändra inmatningsenheter och andra ingångsrelaterade inställningar."
+msgstr "Ändra inmatningsenheter och andra inställningar för inmatning."
 
 msgctxt "#30097"
 msgid "Manually select a 4 Player Adapter if needed. Some games will not recognize the adapter correctly through the NstDatabase.xml database, this option should help fix that."
-msgstr "Välj manuellt en 4-spelaradapter om det behövs. Vissa spel kommer inte att känna igen adaptern korrekt genom NstDatabase.xml databasen, den här inställningen bör hjälpa till att lösa det."
+msgstr "Välj manuellt en 4-spelaradapter vid behov. Vissa spel känner inte igen adaptern korrekt via databasen NstDatabase.xml. Det här alternativet kan hjälpa till att rätta det."
 
 msgctxt "#30098"
 msgid "Rotate the A/B/X/Y buttons clockwise."
@@ -431,11 +431,11 @@ msgstr "Ljuspistol"
 
 msgctxt "#30108"
 msgid "Set whether to show the crosshair when the Zapper is used."
-msgstr "Ställ in om korsvisiret ska visas när Zappern används."
+msgstr "Ange om hårkorset ska visas när Zapper används."
 
 msgctxt "#30109"
 msgid "Set the turbo pulse speed for the Turbo B and Turbo A buttons."
-msgstr "Ställ in turbo-pulshastigheten för Turbo B och Turbo A-knapparna."
+msgstr "Ange turbopulshastigheten för knapparna Turbo B och Turbo A."
 
 msgctxt "#30110"
 msgid "Emulation Hacks"
@@ -447,11 +447,11 @@ msgstr "Ändra inställningar för processor-överklockning och emuleringsnoggra
 
 msgctxt "#30112"
 msgid "Remove 8-sprites-per-scanline hardware limit."
-msgstr "Ta bort hårdvarubegränsningen på 8 bildobjekt per skanningslinje."
+msgstr "Ta bort hårdvarubegränsningen på 8 sprites per skanningslinje."
 
 msgctxt "#30114"
 msgid "RAM values on power up. Some games rely on initial RAM values for random number generation as an example."
-msgstr "RAM-värden vid uppstart. Vissa spel förlitar sig på initiala RAM-värden för exempelvis slumpmässig nummergenerering."
+msgstr "RAM-värden vid uppstart. Vissa spel använder initiala RAM-värden för exempelvis slumptalsgenerering."
 
 msgctxt "#30115"
 msgid "Random"
@@ -471,7 +471,7 @@ msgstr "Ljudutdatafilter"
 
 msgctxt "#30119"
 msgid "Approximate the analog stage that follows the DAC on real hardware, by applying a first order 220Hz high pass and a first order 14kHz low pass to the mixed output. This removes the DC offset the mixer sits on and rolls off the extreme treble."
-msgstr "Efterlikna det analoga steg som följer efter DAC:en i verklig maskinvara genom att tillämpa ett högpassfilter av första ordningen på 220 Hz och ett lågpassfilter av första ordningen på 14 kHz på mixen. Detta tar bort likspänningsförskjutningen som mixern ligger på och dämpar den allra högsta diskanten."
+msgstr "Efterlikna det analoga steg som följer DAC:en i verklig maskinvara genom att tillämpa ett högpassfilter av första ordningen på 220 Hz och ett lågpassfilter av första ordningen på 14 kHz på den mixade utmatningen. Detta tar bort den likspänningsförskjutning som mixern ligger på och dämpar den högsta diskanten."
 
 msgctxt "#30120"
 msgid "Favored System"
@@ -479,7 +479,7 @@ msgstr "Föredraget system"
 
 msgctxt "#30121"
 msgid "System to prefer for images that do not say which one they want. Images that do say, and images found in the NstDatabase.xml database file, are unaffected. Only applies while 'Force System' is set to 'Auto'. Requires a restart."
-msgstr "System att föredra för skivavbilder som inte anger vilket de vill ha. Skivavbilder som gör det och skivavbilder som finns i databasfilen NstDatabase.xml påverkas inte. Gäller endast när ”Tvinga system” är inställt på ”Automatiskt”. Kräver omstart."
+msgstr "System som ska föredras för avbildningar som inte anger vilket system de vill ha. Avbildningar som gör det och avbildningar som finns i databasen NstDatabase.xml påverkas inte. Gäller endast när Tvinga system är inställt på Automatiskt. Omstart krävs."
 
 msgctxt "#30122"
 msgid "Force System"
@@ -491,7 +491,7 @@ msgstr "Ignorera systemet som avbildningen begär och använd detta i stället. 
 
 msgctxt "#30124"
 msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for region autodetection, defaulting to NTSC if there is no database present. 'Auto', 'NTSC' and 'PAL' give the picture its correct pixel aspect ratio, so it narrows as the overscan mask is raised. '4:3' and '5:4' are display aspect ratios, and fill that shape whatever is masked. 'Uncorrected' gives square pixels."
-msgstr "RetroArchs bildförhållande måste vara inställt på ”Tillhandahålls av kärnan” i videoinställningarna. ”Automatiskt” använder databasfilen NstDatabase.xml för regionsidentifiering och använder NTSC om en databas saknas. ”Automatiskt”, ”NTSC” och ”PAL” ger bilden rätt pixelbildförhållande, så den blir smalare när overscan-masken höjs. ”4:3” och ”5:4” är skärmbildförhållanden och fyller den formen oavsett vad som maskeras. ”Okorrigerat” ger kvadratiska pixlar."
+msgstr "RetroArchs bildförhållande måste vara inställt på Tillhandahålls av kärnan i videoinställningarna. Automatiskt använder databasen NstDatabase.xml för regionsidentifiering och använder NTSC om databasen saknas. Automatiskt, NTSC och PAL ger bilden rätt pixelbildförhållande, så den blir smalare när överskanningsmasken höjs. 4:3 och 5:4 är visningsformat och fyller formen oavsett vad som maskeras. Okorrigerat ger kvadratiska bildpunkter."
 
 msgctxt "#30125"
 msgid "4:3 (DAR)"
@@ -507,7 +507,7 @@ msgstr "DMC-klickreducering"
 
 msgctxt "#30128"
 msgid "Halve large direct writes to the DMC level, which are otherwise heard as clicks. Inaccurate, and quietens samples streamed through $4011 as large swings."
-msgstr "Halverar stora direkta skrivningar till DMC-nivån, som annars hörs som klick. Ger sämre precision och dämpar samplingar som strömmas genom $4011 med stora svängningar."
+msgstr "Halverar stora direkta skrivningar till DMC-nivån, som annars hörs som klick. Mindre exakt och dämpar samplingar som strömmas genom $4011 med stora svängningar."
 
 #~ msgctxt "#30001"
 #~ msgid "System Region"
@@ -524,3 +524,23 @@ msgstr "Halverar stora direkta skrivningar till DMC-nivån, som annars hörs som
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Inställningar"
+
+#~ msgctxt "#30037"
+#~ msgid "'Auto' will use the NstDatabase.xml database file for region autodetection. If there is no database present, it will default to NTSC."
+#~ msgstr ""
+
+#~ msgctxt "#30076"
+#~ msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for aspect ratio autodetection. If there is no database present, it will default to NTSC."
+#~ msgstr ""
+
+#~ msgctxt "#30077"
+#~ msgid "4:3"
+#~ msgstr ""
+
+#~ msgctxt "#30094"
+#~ msgid "Specify whether the audio output should be mono or stereo."
+#~ msgstr ""
+
+#~ msgctxt "#30113"
+#~ msgid "Overclock the emulated CPU."
+#~ msgstr ""

@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Icon credit: Anarkhya (anarkhya.deviantart.com)"
 msgstr "Symbolnachweis: Anarkhya (anarkhya.deviantart.com)"
 
-msgctxt "#30001"
-msgid "System Region"
-msgstr "Systemregion"
-
 msgctxt "#30002"
 msgid "FDS Auto Insert"
 msgstr "FDS automatisch einlegen"
@@ -164,10 +160,6 @@ msgstr ""
 msgctxt "#30036"
 msgid "Change system region and other hardware-related settings."
 msgstr "Ändert die Systemregion und andere hardwarebezogene Einstellungen."
-
-msgctxt "#30037"
-msgid "'Auto' will use the NstDatabase.xml database file for region autodetection. If there is no database present, it will default to NTSC."
-msgstr ""
 
 msgctxt "#30038"
 msgid "Auto"
@@ -320,14 +312,6 @@ msgstr "Blendet (vertikal) die potenziell zufällige, fehlerhafte Videoausgabe a
 msgctxt "#30075"
 msgid "Mask out (horizontally) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
 msgstr "Blendet (horizontal) die potenziell zufällige, fehlerhafte Videoausgabe aus, die durch den Rand eines Fernsehbildschirms mit Standardauflösung versteckt wäre."
-
-msgctxt "#30076"
-msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for aspect ratio autodetection. If there is no database present, it will default to NTSC."
-msgstr ""
-
-msgctxt "#30077"
-msgid "4:3"
-msgstr ""
 
 msgctxt "#30078"
 msgid "Uncorrected"
@@ -524,6 +508,22 @@ msgstr "DMC Pop-Reducer"
 msgctxt "#30128"
 msgid "Halve large direct writes to the DMC level, which are otherwise heard as clicks. Inaccurate, and quietens samples streamed through $4011 as large swings."
 msgstr "Große direkte Schreibvorgänge auf den DMC-Pegel werden halbiert, da sie ansonsten als Klickgeräusche hörbar sind. Dies ist zwar nicht exakt, reduziert aber die Lautstärke von Samples, die über $4011 als große Pegelsprünge übertragen werden."
+
+#~ msgctxt "#30001"
+#~ msgid "System Region"
+#~ msgstr "Systemregion"
+
+#~ msgctxt "#30037"
+#~ msgid "'Auto' will use the NstDatabase.xml database file for region autodetection. If there is no database present, it will default to NTSC."
+#~ msgstr ""
+
+#~ msgctxt "#30076"
+#~ msgid "RetroArch's aspect ratio must be set to 'Core Provided' in the Video settings. 'Auto' will use the NstDatabase.xml database file for aspect ratio autodetection. If there is no database present, it will default to NTSC."
+#~ msgstr ""
+
+#~ msgctxt "#30077"
+#~ msgid "4:3"
+#~ msgstr ""
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
