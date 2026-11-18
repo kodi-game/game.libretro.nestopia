@@ -377,10 +377,6 @@ msgctxt "#30093"
 msgid "Modify S5B Channel Volume %."
 msgstr ""
 
-msgctxt "#30094"
-msgid "Specify whether the audio output should be mono or stereo."
-msgstr ""
-
 msgctxt "#30095"
 msgid "Input"
 msgstr ""
@@ -453,10 +449,6 @@ msgctxt "#30112"
 msgid "Remove 8-sprites-per-scanline hardware limit."
 msgstr ""
 
-msgctxt "#30113"
-msgid "Overclock the emulated CPU."
-msgstr ""
-
 msgctxt "#30114"
 msgid "RAM values on power up. Some games rely on initial RAM values for random number generation as an example."
 msgstr ""
@@ -516,6 +508,14 @@ msgstr ""
 msgctxt "#30128"
 msgid "Halve large direct writes to the DMC level, which are otherwise heard as clicks. Inaccurate, and quietens samples streamed through $4011 as large swings."
 msgstr ""
+
+#~ msgctxt "#30094"
+#~ msgid "Specify whether the audio output should be mono or stereo."
+#~ msgstr ""
+
+#~ msgctxt "#30113"
+#~ msgid "Overclock the emulated CPU."
+#~ msgstr ""
 
 #~ msgctxt "#30001"
 #~ msgid "System Region"
